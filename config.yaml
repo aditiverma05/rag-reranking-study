@@ -1,0 +1,30 @@
+experiment:
+  chunk_sizes: [256, 512, 1024]
+  chunk_overlap_pct: 0.15
+  seeds: [42, 123, 456]
+
+embeddings:
+  - name: "openai"
+    model: "text-embedding-3-small"
+    type: "api"
+  - name: "baai"
+    model: "BAAI/bge-small-en-v1.5"
+    type: "local"
+
+reranking:
+  enabled: [true, false]
+  model: "BAAI/bge-reranker-base"
+
+generator:
+  model: "gemini-2.0-flash"
+  temperature: 0.0
+
+retrieval:
+  top_k: 5
+  top_k_after_rerank: 3
+
+datasets:
+  squad:
+    n_samples: 150
+  hotpot:
+    n_samples: 150
