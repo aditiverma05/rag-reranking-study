@@ -4,9 +4,6 @@ experiment:
   seeds: [42, 123, 456]
 
 embeddings:
-  - name: "openai"
-    model: "text-embedding-3-small"
-    type: "api"
   - name: "baai"
     model: "BAAI/bge-small-en-v1.5"
     type: "local"
