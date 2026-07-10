@@ -3,11 +3,11 @@ from dotenv import load_dotenv
 import pandas as pd
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
-from langchain_openai import OpenAIEmbeddings
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_groq import ChatGroq
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
+from langchain_huggingface import HuggingFaceEmbeddings
 
 load_dotenv()
 
@@ -23,14 +23,14 @@ def run_baseline():
         chunk_overlap=76
     )
     
-    embeddings = OpenAIEmbeddings(
-        model="text-embedding-3-small"
-    )
+    embeddings = HuggingFaceEmbeddings(
+    model_name="BAAI/bge-small-en-v1.5"
+)
     
-    llm = ChatGoogleGenerativeAI(
-        model="gemini-2.0-flash",
-        temperature=0.0
-    )
+    llm = ChatGroq(
+    model="llama-3.1-8b-instant",
+    temperature=0.0
+)
     
     prompt = PromptTemplate.from_template(
         """Answer the question using only the context below.
