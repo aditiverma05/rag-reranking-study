@@ -53,13 +53,16 @@ def get_embeddings(model_name):
         raise ValueError(f"Unknown embedding: {model_name}")
 
 # ─── RERANKER ────────────────────────────────────────
+# NOTE: originally used FlagEmbedding's FlagReranker, but that library
+# calls tokenizer.prepare_for_model() which modern `transformers` versions
+# removed years ago -- causes "XLMRobertaTokenizer has no attribute
+# prepare_for_model" on every single call. Switched to sentence-transformers'
+# CrossEncoder, which does the identical job (cross-encoder reranking) and
+# is actively maintained.
 def get_reranker():
     try:
-        from FlagEmbedding import FlagReranker
-        reranker = FlagReranker(
-            "BAAI/bge-reranker-base",
-            use_fp16=False
-        )
+        from sentence_transformers import CrossEncoder
+        reranker = CrossEncoder("BAAI/bge-reranker-base")
         return reranker
     except Exception as e:
         print(f"Reranker load error: {e}")
@@ -72,10 +75,7 @@ def rerank_docs(reranker, query, docs, top_k=3):
         return docs[:top_k]
 
     pairs = [[query, doc.page_content] for doc in docs]
-    scores = reranker.compute_score(pairs)
-
-    if isinstance(scores, float):
-        scores = [scores]
+    scores = reranker.predict(pairs)   # CrossEncoder.predict(), not compute_score()
 
     scored = sorted(
         zip(scores, docs),
