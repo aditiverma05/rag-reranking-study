@@ -159,10 +159,3 @@ We disclose the following limitations honestly, following the guardrail that a r
 
 ---
 
-## Pre-submission checklist (not part of the paper — remove before final submission)
-
-- [ ] **Formatting**: convert from Markdown to the target IEEE conference or Springer LNCS template (brief Section 7). Content is final; only formatting/layout conversion remains.
-- [ ] **Authorship/affiliation line**: confirm exact wording with Anvoxa per brief Section 11 before adding an author block — do not guess this.
-- [ ] **Final numbers check**: re-verify all numbers in Tables 1–2 against `results/main_effects_table.csv` and `results/decision_rule.txt` one more time in case `analysis.py` was re-run after this file was written.
-- [ ] **Reference count**: 10/12-15 target. Optional additions if time allows: a chunking-strategy-specific paper (harder to find a single canonical citation — may cite a practitioner survey or blog-adjacent arXiv note instead) and/or a second RAG evaluation paper for contrast with RAGAS.
-- [ ] **Venue quartile verification**: per brief Section 9, verify current Scopus/SJR status of target venues before submission — quartiles shift year to year.
