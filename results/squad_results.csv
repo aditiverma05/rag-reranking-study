@@ -1,0 +1,901 @@
+dataset,seed,chunk_size,embedding,reranking,question,gold_answer,generated_answer,hit_at_k,latency_ms
+squad,42,256,baai,True,"What alumni wrote ""The Closing of the American Mind""?",Allan Bloom,Allan Bloom.,1,749.19
+squad,42,256,baai,True,What molecules of the adaptive immune system only exist in jawed vertebrates?,immunoglobulins and T cell receptors,Immunoglobulins and T cell receptors.,1,599.69
+squad,42,256,baai,True,In what year did Priestley publish the findings of his experiments?,1775,1775.,1,618.81
+squad,42,256,baai,True,The presence of who is highly likely even in small projects?,the mortgage banker,The mortgage banker.,1,504.13
+squad,42,256,baai,True,To what pathogen that causes gas gangrene is oxygen poisonous?,anaerobic bacteria,Anaerobic bacteria.,1,676.39
+squad,42,256,baai,True,What did Tymnet connect ,"connect host computers (servers)at thousands of large companies, educational institutions, and government agencies",Host computers (servers) at thousands of large locations.,0,638.85
+squad,42,256,baai,True,What is the high end of the temperature range in winter?,70,70's.,1,394.97
+squad,42,256,baai,True,"What month, every four years, are the ordinary general elections held on?",May,May.,1,743.08
+squad,42,256,baai,True,What entity owns V/Line?,Victorian Government,The Victorian Government.,1,403.11
+squad,42,256,baai,True,What law connects relative velocities with inertia?,Newton's First,Newton's First Law.,1,637.25
+squad,42,256,baai,True,How many times less is the strenght of the weak field compared to the strong?,1013,The strength of the weak field is some 1013 times less than that of the strong force.,1,499.13
+squad,42,256,baai,True,Persistent unemployment has what effect on long-term economic growth?,negative,Persistent unemployment has a negative effect on long-term economic growth.,1,610.33
+squad,42,256,baai,True,What did Joseph Haas say in his email?,"""Wise up or die.""","""Wise up or die.""",1,437.69
+squad,42,256,baai,True,Where does the Rhine river's measurement begin?,Old Rhine Bridge at Constance,The Old Rhine Bridge at Constance.,1,467.16
+squad,42,256,baai,True,What have the two different Islamist movements been described as oscillating between?,poles,Two poles.,1,566.03
+squad,42,256,baai,True,When was the great plague of London?,1665,"There is no specific information about the ""great plague of London"" in the given context. However, it is mentioned that the Black Death subsided by the end of 1350, and further outbreaks occurred in England over the next few hundred years.",0,637.01
+squad,42,256,baai,True,What do clinical pharmacists often participate in?,patient care rounds drug product selection,Patient care rounds and drug product selection.,1,411.24
+squad,42,256,baai,True,Where do ctenophora live?,marine waters,Marine waters worldwide.,1,819.18
+squad,42,256,baai,True,A small fraction of the cold water flow from Lake Constance goes to what other lake?,Lake Überlingen,Lake Überlingen.,1,573.37
+squad,42,256,baai,True,Dendritic cells present antigens to what cells of the adaptive nervous system?,T cells,T cells.,1,500.34
+squad,42,256,baai,True,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,521.36
+squad,42,256,baai,True,What Jacksonville community is known for having heavy ties to the Navy?,Filipino,The Filipino community.,1,510.23
+squad,42,256,baai,True,How was the Dutch name for the Rhine originally spelled? ,Rhijn,Rhijn.,1,766.55
+squad,42,256,baai,True,What is another term for university-preparatory schools?,prep schools,"""prep schools""",1,621.95
+squad,42,256,baai,True,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,748.5
+squad,42,256,baai,True,Who is eligible to toss their name in the hat to be First Minister?,Any member,Any member of Parliament.,1,661.52
+squad,42,256,baai,True,Which nation contains the majority of the amazon forest?,Brazil,"Brazil contains the majority of the Amazon forest, with 60% of the Amazon basin.",0,714.33
+squad,42,256,baai,True,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003.,1,676.49
+squad,42,256,baai,True,What are some existing facilities?,"electrical, water, sewage, phone, and cable facilities","Electrical, water, sewage, phone, and cable facilities.",1,528.22
+squad,42,256,baai,True,Where is much of the work of the Scottish Parliament done?,committee,In committee.,1,433.08
+squad,42,256,baai,True,What must the adoption of laws which will have legal effect in the EU have?,a proper legal basis,A proper legal basis.,1,2810.53
+squad,42,256,baai,True,What is located within this district?,the oldest street in the United States of America,The oldest street in the United States of America.,1,2499.76
+squad,42,256,baai,True,What garden was formally only for royalty?,The Saxon Garden,The Saxon Garden.,1,2769.82
+squad,42,256,baai,True,When are subject committees established?,beginning of each parliamentary session,At the beginning of each parliamentary session.,1,2580.4
+squad,42,256,baai,True,How many protestants live in France today?,one million,Approximately one million Protestants.,1,2491.6
+squad,42,256,baai,True,What was the civil war against Ragibagh also called?,the War of the Two Capitals,The War of the Two Capitals.,1,2866.46
+squad,42,256,baai,True,What is a twin prime?,pairs of primes with difference 2,Pairs of primes with a difference of 2.,1,2607.89
+squad,42,256,baai,True,"According to the wealth concentration theory, what advantage do the wealthy have in accumulating new wealth?",means to invest,The wealthy have the means to invest in new sources of creating wealth or to otherwise leverage the accumulation of wealth.,1,2623.06
+squad,42,256,baai,True,What happens when bathocyroe and ocyropsis clap their lobes together?,jet of expelled water drives them backwards very quickly.,They escape from danger by driving themselves backwards very quickly with the jet of expelled water.,1,2792.91
+squad,42,256,baai,True,Who did Alexander I marry?,Sybilla of Normandy,Sybilla of Normandy.,1,2713.08
+squad,42,256,baai,True,When are the new Sky Q products going to be available?,2016,2016.,1,2603.26
+squad,42,256,baai,True,What city in Victoria is called the sporting capital of Australia?,Melbourne,Melbourne.,1,2647.29
+squad,42,256,baai,True,What did Maududi believe Muslim society could not be Islamic in the absence of?,Sharia,Sharia.,1,2537.61
+squad,42,256,baai,True,What would be needed to host a larger population?,agriculture,Agriculture.,1,2835.99
+squad,42,256,baai,True,What Swiss city was the center of the Calvinist movement?,Geneva,Geneva.,1,2714.3
+squad,42,256,baai,True,What was the very first television station to broadcast in Fresno?,KMJ-TV,"KMJ-TV, which debuted on June 1, 1953.",1,2676.04
+squad,42,256,baai,True,When did France and the Dutch fight in the 17th century?,1672,1672.,1,2514.31
+squad,42,256,baai,True,"Who suggested that imperialism was the ""highest"" form of capitalism?",Lenin,Lenin.,1,2714.94
+squad,42,256,baai,True,How are ergänzungsschulen funded?,tuition,Ergänzungsschulen are funded in whole by charging their students tuition fees.,1,2493.71
+squad,42,256,baai,True,What period did plates reverse directions to compress the Tethys floor?,Jurassic Period,The Jurassic Period.,1,2727.95
+squad,42,256,baai,False,"What alumni wrote ""The Closing of the American Mind""?",Allan Bloom,Allan Bloom.,1,410.38
+squad,42,256,baai,False,What molecules of the adaptive immune system only exist in jawed vertebrates?,immunoglobulins and T cell receptors,Immunoglobulins and T cell receptors.,1,247.62
+squad,42,256,baai,False,In what year did Priestley publish the findings of his experiments?,1775,1775,1,286.88
+squad,42,256,baai,False,The presence of who is highly likely even in small projects?,the mortgage banker,The mortgage banker.,1,2282.47
+squad,42,256,baai,False,To what pathogen that causes gas gangrene is oxygen poisonous?,anaerobic bacteria,Anaerobic bacteria.,1,2292.46
+squad,42,256,baai,False,What did Tymnet connect ,"connect host computers (servers)at thousands of large companies, educational institutions, and government agencies",Host computers (servers) at thousands of large locations.,0,2419.58
+squad,42,256,baai,False,What is the high end of the temperature range in winter?,70,70's.,1,2248.01
+squad,42,256,baai,False,"What month, every four years, are the ordinary general elections held on?",May,May.,1,2299.07
+squad,42,256,baai,False,What entity owns V/Line?,Victorian Government,The Victorian Government.,1,2247.47
+squad,42,256,baai,False,What law connects relative velocities with inertia?,Newton's First,Newton's First Law.,1,2455.94
+squad,42,256,baai,False,How many times less is the strenght of the weak field compared to the strong?,1013,The strength of the weak field is some 1013 times less than that of the strong force.,1,2326.91
+squad,42,256,baai,False,Persistent unemployment has what effect on long-term economic growth?,negative,Persistent unemployment has a negative effect on long-term economic growth.,1,2275.07
+squad,42,256,baai,False,What did Joseph Haas say in his email?,"""Wise up or die.""","""Wise up or die.""",1,2371.95
+squad,42,256,baai,False,Where does the Rhine river's measurement begin?,Old Rhine Bridge at Constance,The Old Rhine Bridge at Constance.,1,2292.79
+squad,42,256,baai,False,What have the two different Islamist movements been described as oscillating between?,poles,Two poles.,1,2282.68
+squad,42,256,baai,False,When was the great plague of London?,1665,1665.,1,2290.77
+squad,42,256,baai,False,What do clinical pharmacists often participate in?,patient care rounds drug product selection,Patient care rounds and drug product selection.,1,2389.29
+squad,42,256,baai,False,Where do ctenophora live?,marine waters,Marine waters worldwide.,1,2334.31
+squad,42,256,baai,False,A small fraction of the cold water flow from Lake Constance goes to what other lake?,Lake Überlingen,Lake Überlingen.,1,2283.48
+squad,42,256,baai,False,Dendritic cells present antigens to what cells of the adaptive nervous system?,T cells,T cells.,1,2263.02
+squad,42,256,baai,False,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2386.51
+squad,42,256,baai,False,What Jacksonville community is known for having heavy ties to the Navy?,Filipino,The Filipino community in Jacksonville.,1,2268.81
+squad,42,256,baai,False,How was the Dutch name for the Rhine originally spelled? ,Rhijn,Rijn (formerly also spelled Rhijn).,1,2323.9
+squad,42,256,baai,False,What is another term for university-preparatory schools?,prep schools,"""prep schools""",1,2274.67
+squad,42,256,baai,False,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2289.04
+squad,42,256,baai,False,Who is eligible to toss their name in the hat to be First Minister?,Any member,Any member of Parliament.,1,2326.1
+squad,42,256,baai,False,Which nation contains the majority of the amazon forest?,Brazil,"Brazil, with 60% of the rainforest.",1,2352.08
+squad,42,256,baai,False,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003.,1,2544.5
+squad,42,256,baai,False,What are some existing facilities?,"electrical, water, sewage, phone, and cable facilities","Electrical, water, sewage, phone, and cable facilities.",1,2252.8
+squad,42,256,baai,False,Where is much of the work of the Scottish Parliament done?,committee,In committee.,1,2361.98
+squad,42,256,baai,False,What must the adoption of laws which will have legal effect in the EU have?,a proper legal basis,A proper legal basis.,1,2403.72
+squad,42,256,baai,False,What is located within this district?,the oldest street in the United States of America,The oldest street in the United States of America.,1,2271.59
+squad,42,256,baai,False,What garden was formally only for royalty?,The Saxon Garden,The Saxon Garden.,1,2324.38
+squad,42,256,baai,False,When are subject committees established?,beginning of each parliamentary session,At the beginning of each parliamentary session.,1,2260.29
+squad,42,256,baai,False,How many protestants live in France today?,one million,Approximately one million Protestants.,1,2259.6
+squad,42,256,baai,False,What was the civil war against Ragibagh also called?,the War of the Two Capitals,The War of the Two Capitals.,1,2428.18
+squad,42,256,baai,False,What is a twin prime?,pairs of primes with difference 2,Pairs of primes with a difference of 2.,1,2395.46
+squad,42,256,baai,False,"According to the wealth concentration theory, what advantage do the wealthy have in accumulating new wealth?",means to invest,"According to the wealth concentration theory, the wealthy have the means to invest in new sources of creating wealth or to otherwise leverage the accumulation of wealth.",1,2328.57
+squad,42,256,baai,False,What happens when bathocyroe and ocyropsis clap their lobes together?,jet of expelled water drives them backwards very quickly.,They escape from danger by driving themselves backwards very quickly with the jet of expelled water.,1,2449.18
+squad,42,256,baai,False,Who did Alexander I marry?,Sybilla of Normandy,Sybilla of Normandy.,1,2323.55
+squad,42,256,baai,False,When are the new Sky Q products going to be available?,2016,2016.,1,2312.27
+squad,42,256,baai,False,What city in Victoria is called the sporting capital of Australia?,Melbourne,Melbourne.,1,2266.73
+squad,42,256,baai,False,What did Maududi believe Muslim society could not be Islamic in the absence of?,Sharia,Sharia.,1,2262.96
+squad,42,256,baai,False,What would be needed to host a larger population?,agriculture,Agriculture.,1,2369.49
+squad,42,256,baai,False,What Swiss city was the center of the Calvinist movement?,Geneva,Geneva.,1,2491.66
+squad,42,256,baai,False,What was the very first television station to broadcast in Fresno?,KMJ-TV,"KMJ-TV, which debuted on June 1, 1953.",1,2281.44
+squad,42,256,baai,False,When did France and the Dutch fight in the 17th century?,1672,1672.,1,2260.36
+squad,42,256,baai,False,"Who suggested that imperialism was the ""highest"" form of capitalism?",Lenin,Lenin.,1,2342.89
+squad,42,256,baai,False,How are ergänzungsschulen funded?,tuition,Ergänzungsschulen are funded in whole by charging their students tuition fees.,1,2377.39
+squad,42,256,baai,False,What period did plates reverse directions to compress the Tethys floor?,Jurassic Period,The Jurassic Period.,1,2325.31
+squad,42,512,baai,True,"What alumni wrote ""The Closing of the American Mind""?",Allan Bloom,Allan Bloom.,1,852.69
+squad,42,512,baai,True,What molecules of the adaptive immune system only exist in jawed vertebrates?,immunoglobulins and T cell receptors,Immunoglobulins and T cell receptors.,1,580.39
+squad,42,512,baai,True,In what year did Priestley publish the findings of his experiments?,1775,1775.,1,684.65
+squad,42,512,baai,True,The presence of who is highly likely even in small projects?,the mortgage banker,The mortgage banker.,1,2535.5
+squad,42,512,baai,True,To what pathogen that causes gas gangrene is oxygen poisonous?,anaerobic bacteria,Anaerobic bacteria.,1,2575.4
+squad,42,512,baai,True,What did Tymnet connect ,"connect host computers (servers)at thousands of large companies, educational institutions, and government agencies","Host computers (servers) at thousands of large companies, educational institutions, and government agencies.",1,2991.11
+squad,42,512,baai,True,What is the high end of the temperature range in winter?,70,70.,1,2381.22
+squad,42,512,baai,True,"What month, every four years, are the ordinary general elections held on?",May,May.,1,2741.73
+squad,42,512,baai,True,What entity owns V/Line?,Victorian Government,The Victorian Government.,1,2497.74
+squad,42,512,baai,True,What law connects relative velocities with inertia?,Newton's First,Newton's First Law of Motion.,1,2722.91
+squad,42,512,baai,True,How many times less is the strenght of the weak field compared to the strong?,1013,The strength of the weak field is 10^13 times less than that of the strong force.,1,2590.99
+squad,42,512,baai,True,Persistent unemployment has what effect on long-term economic growth?,negative,It has a negative effect.,1,2550.05
+squad,42,512,baai,True,What did Joseph Haas say in his email?,"""Wise up or die.""","""Wise up or die.""",1,2537.98
+squad,42,512,baai,True,Where does the Rhine river's measurement begin?,Old Rhine Bridge at Constance,The Old Rhine Bridge at Constance.,1,2598.99
+squad,42,512,baai,True,What have the two different Islamist movements been described as oscillating between?,poles,"Two poles: a strategy of Islamization through state power seized by revolution or invasion, and a ""reformist"" pole where Islamists work to Islamize society gradually ""from the bottom up"".",1,2624.72
+squad,42,512,baai,True,When was the great plague of London?,1665,1665.,1,2613.6
+squad,42,512,baai,True,What do clinical pharmacists often participate in?,patient care rounds drug product selection,Patient care rounds and drug product selection.,1,2524.52
+squad,42,512,baai,True,Where do ctenophora live?,marine waters,Marine waters worldwide.,1,2908.59
+squad,42,512,baai,True,A small fraction of the cold water flow from Lake Constance goes to what other lake?,Lake Überlingen,Lake Überlingen.,1,2598.36
+squad,42,512,baai,True,Dendritic cells present antigens to what cells of the adaptive nervous system?,T cells,T cells.,1,2615.6
+squad,42,512,baai,True,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2519.62
+squad,42,512,baai,True,What Jacksonville community is known for having heavy ties to the Navy?,Filipino,The Filipino community in Jacksonville.,1,2657.07
+squad,42,512,baai,True,How was the Dutch name for the Rhine originally spelled? ,Rhijn,Rijn (formerly also spelled Rhijn).,1,2634.05
+squad,42,512,baai,True,What is another term for university-preparatory schools?,prep schools,"""prep schools""",1,2547.4
+squad,42,512,baai,True,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2723.54
+squad,42,512,baai,True,Who is eligible to toss their name in the hat to be First Minister?,Any member,Any member of Parliament.,1,2714.48
+squad,42,512,baai,True,Which nation contains the majority of the amazon forest?,Brazil,Brazil.,1,2804.27
+squad,42,512,baai,True,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003.,1,2758.16
+squad,42,512,baai,True,What are some existing facilities?,"electrical, water, sewage, phone, and cable facilities","Electrical, water, sewage, phone, and cable facilities.",1,2618.53
+squad,42,512,baai,True,Where is much of the work of the Scottish Parliament done?,committee,In committee.,1,2547.31
+squad,42,512,baai,True,What must the adoption of laws which will have legal effect in the EU have?,a proper legal basis,A proper legal basis.,1,2795.43
+squad,42,512,baai,True,What is located within this district?,the oldest street in the United States of America,The oldest street in the United States of America.,1,2565.64
+squad,42,512,baai,True,What garden was formally only for royalty?,The Saxon Garden,The Saxon Garden.,1,2948.05
+squad,42,512,baai,True,When are subject committees established?,beginning of each parliamentary session,At the beginning of each parliamentary session.,1,2492.99
+squad,42,512,baai,True,How many protestants live in France today?,one million,Approximately one million Protestants.,1,1090.77
+squad,42,512,baai,True,What was the civil war against Ragibagh also called?,the War of the Two Capitals,The War of the Two Capitals.,1,1586.49
+squad,42,512,baai,True,What is a twin prime?,pairs of primes with difference 2,Pairs of primes with a difference of 2.,1,1197.43
+squad,42,512,baai,True,"According to the wealth concentration theory, what advantage do the wealthy have in accumulating new wealth?",means to invest,"According to the wealth concentration theory, the wealthy have the means to invest in new sources of creating wealth or to otherwise leverage the accumulation of wealth.",1,1047.22
+squad,42,512,baai,True,What happens when bathocyroe and ocyropsis clap their lobes together?,jet of expelled water drives them backwards very quickly.,They escape from danger by driving themselves backwards very quickly with the jet of expelled water.,1,1735.71
+squad,42,512,baai,True,Who did Alexander I marry?,Sybilla of Normandy,Sybilla of Normandy.,1,1586.5
+squad,42,512,baai,True,When are the new Sky Q products going to be available?,2016,The new Sky Q products are to be available in 2016.,1,1381.73
+squad,42,512,baai,True,What city in Victoria is called the sporting capital of Australia?,Melbourne,Melbourne.,1,1383.49
+squad,42,512,baai,True,What did Maududi believe Muslim society could not be Islamic in the absence of?,Sharia,Sharia.,1,1069.87
+squad,42,512,baai,True,What would be needed to host a larger population?,agriculture,Agriculture.,1,1096.65
+squad,42,512,baai,True,What Swiss city was the center of the Calvinist movement?,Geneva,Geneva.,1,1643.34
+squad,42,512,baai,True,What was the very first television station to broadcast in Fresno?,KMJ-TV,"KMJ-TV, which is now known as NBC affiliate KSEE.",1,1158.42
+squad,42,512,baai,True,When did France and the Dutch fight in the 17th century?,1672,1672.,1,1208.01
+squad,42,512,baai,True,"Who suggested that imperialism was the ""highest"" form of capitalism?",Lenin,The Russian leader Lenin.,1,1663.44
+squad,42,512,baai,True,How are ergänzungsschulen funded?,tuition,Ergänzungsschulen are funded in whole by charging their students tuition fees.,1,2880.92
+squad,42,512,baai,True,What period did plates reverse directions to compress the Tethys floor?,Jurassic Period,The Jurassic Period.,1,1485.07
+squad,42,512,baai,False,"What alumni wrote ""The Closing of the American Mind""?",Allan Bloom,Allan Bloom.,1,657.77
+squad,42,512,baai,False,What molecules of the adaptive immune system only exist in jawed vertebrates?,immunoglobulins and T cell receptors,Immunoglobulins and T cell receptors.,1,469.01
+squad,42,512,baai,False,In what year did Priestley publish the findings of his experiments?,1775,1775.,1,541.67
+squad,42,512,baai,False,The presence of who is highly likely even in small projects?,the mortgage banker,The mortgage banker.,1,2493.98
+squad,42,512,baai,False,To what pathogen that causes gas gangrene is oxygen poisonous?,anaerobic bacteria,Anaerobic bacteria.,1,2453.1
+squad,42,512,baai,False,What did Tymnet connect ,"connect host computers (servers)at thousands of large companies, educational institutions, and government agencies","Host computers (servers) at thousands of large companies, educational institutions, and government agencies.",1,2567.72
+squad,42,512,baai,False,What is the high end of the temperature range in winter?,70,70.,1,2349.83
+squad,42,512,baai,False,"What month, every four years, are the ordinary general elections held on?",May,May.,1,2551.05
+squad,42,512,baai,False,What entity owns V/Line?,Victorian Government,The Victorian Government.,1,2415.73
+squad,42,512,baai,False,What law connects relative velocities with inertia?,Newton's First,Newton's First Law of Motion.,1,2556.64
+squad,42,512,baai,False,How many times less is the strenght of the weak field compared to the strong?,1013,The strength of the weak field is 10^13 times less than that of the strong force.,1,2501.14
+squad,42,512,baai,False,Persistent unemployment has what effect on long-term economic growth?,negative,It has a negative effect.,1,2437.85
+squad,42,512,baai,False,What did Joseph Haas say in his email?,"""Wise up or die.""","""Wise up or die.""",1,2565.58
+squad,42,512,baai,False,Where does the Rhine river's measurement begin?,Old Rhine Bridge at Constance,The Old Rhine Bridge at Constance.,1,2612.43
+squad,42,512,baai,False,What have the two different Islamist movements been described as oscillating between?,poles,"Two poles: a strategy of Islamization through state power seized by revolution or invasion, and a ""reformist"" pole where Islamists work to Islamize society gradually ""from the bottom up"".",1,2534.28
+squad,42,512,baai,False,When was the great plague of London?,1665,1665.,1,2613.73
+squad,42,512,baai,False,What do clinical pharmacists often participate in?,patient care rounds drug product selection,Patient care rounds and drug product selection.,1,2435.37
+squad,42,512,baai,False,Where do ctenophora live?,marine waters,Marine waters worldwide.,1,2743.49
+squad,42,512,baai,False,A small fraction of the cold water flow from Lake Constance goes to what other lake?,Lake Überlingen,Lake Überlingen.,1,2482.15
+squad,42,512,baai,False,Dendritic cells present antigens to what cells of the adaptive nervous system?,T cells,T cells.,1,2651.78
+squad,42,512,baai,False,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2454.56
+squad,42,512,baai,False,What Jacksonville community is known for having heavy ties to the Navy?,Filipino,The Filipino community in Jacksonville.,1,2585.04
+squad,42,512,baai,False,How was the Dutch name for the Rhine originally spelled? ,Rhijn,Rijn (formerly also spelled Rhijn).,1,2521.16
+squad,42,512,baai,False,What is another term for university-preparatory schools?,prep schools,"""prep schools""",1,2846.28
+squad,42,512,baai,False,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2626.92
+squad,42,512,baai,False,Who is eligible to toss their name in the hat to be First Minister?,Any member,Any member of Parliament.,1,2623.28
+squad,42,512,baai,False,Which nation contains the majority of the amazon forest?,Brazil,Brazil.,1,2596.0
+squad,42,512,baai,False,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003.,1,2646.8
+squad,42,512,baai,False,What are some existing facilities?,"electrical, water, sewage, phone, and cable facilities","Electrical, water, sewage, phone, and cable facilities.",1,2444.6
+squad,42,512,baai,False,Where is much of the work of the Scottish Parliament done?,committee,In committee.,1,2558.6
+squad,42,512,baai,False,What must the adoption of laws which will have legal effect in the EU have?,a proper legal basis,A proper legal basis.,1,2529.83
+squad,42,512,baai,False,What is located within this district?,the oldest street in the United States of America,The oldest street in the United States of America.,1,2616.44
+squad,42,512,baai,False,What garden was formally only for royalty?,The Saxon Garden,The Saxon Garden.,1,2652.31
+squad,42,512,baai,False,When are subject committees established?,beginning of each parliamentary session,At the beginning of each parliamentary session.,1,2453.5
+squad,42,512,baai,False,How many protestants live in France today?,one million,Approximately one million Protestants.,1,2575.59
+squad,42,512,baai,False,What was the civil war against Ragibagh also called?,the War of the Two Capitals,The War of the Two Capitals.,1,2613.52
+squad,42,512,baai,False,What is a twin prime?,pairs of primes with difference 2,Pairs of primes with a difference of 2.,1,2494.15
+squad,42,512,baai,False,"According to the wealth concentration theory, what advantage do the wealthy have in accumulating new wealth?",means to invest,"According to the wealth concentration theory, the wealthy have the means to invest in new sources of creating wealth or to otherwise leverage the accumulation of wealth.",1,2506.4
+squad,42,512,baai,False,What happens when bathocyroe and ocyropsis clap their lobes together?,jet of expelled water drives them backwards very quickly.,They escape from danger by driving themselves backwards very quickly with the jet of expelled water.,1,2582.46
+squad,42,512,baai,False,Who did Alexander I marry?,Sybilla of Normandy,Sybilla of Normandy.,1,2598.08
+squad,42,512,baai,False,When are the new Sky Q products going to be available?,2016,The new Sky Q products are to be available in 2016.,1,2713.72
+squad,42,512,baai,False,What city in Victoria is called the sporting capital of Australia?,Melbourne,Melbourne.,1,2770.84
+squad,42,512,baai,False,What did Maududi believe Muslim society could not be Islamic in the absence of?,Sharia,Sharia.,1,2513.83
+squad,42,512,baai,False,What would be needed to host a larger population?,agriculture,Agriculture.,1,2436.29
+squad,42,512,baai,False,What Swiss city was the center of the Calvinist movement?,Geneva,Geneva.,1,2564.3
+squad,42,512,baai,False,What was the very first television station to broadcast in Fresno?,KMJ-TV,"KMJ-TV, which is now known as NBC affiliate KSEE.",1,2495.17
+squad,42,512,baai,False,When did France and the Dutch fight in the 17th century?,1672,1672.,1,2441.57
+squad,42,512,baai,False,"Who suggested that imperialism was the ""highest"" form of capitalism?",Lenin,The Russian leader Lenin.,1,2578.31
+squad,42,512,baai,False,How are ergänzungsschulen funded?,tuition,Ergänzungsschulen are funded in whole by charging their students tuition fees.,1,2506.66
+squad,42,512,baai,False,What period did plates reverse directions to compress the Tethys floor?,Jurassic Period,The Jurassic Period.,1,2568.54
+squad,42,1024,baai,True,"What alumni wrote ""The Closing of the American Mind""?",Allan Bloom,Allan Bloom.,1,978.29
+squad,42,1024,baai,True,What molecules of the adaptive immune system only exist in jawed vertebrates?,immunoglobulins and T cell receptors,Immunoglobulins and T cell receptors.,1,896.71
+squad,42,1024,baai,True,In what year did Priestley publish the findings of his experiments?,1775,1775.,1,951.78
+squad,42,1024,baai,True,The presence of who is highly likely even in small projects?,the mortgage banker,The mortgage banker.,1,819.87
+squad,42,1024,baai,True,To what pathogen that causes gas gangrene is oxygen poisonous?,anaerobic bacteria,Anaerobic bacteria.,1,912.46
+squad,42,1024,baai,True,What did Tymnet connect ,"connect host computers (servers)at thousands of large companies, educational institutions, and government agencies","Host computers (servers) at thousands of large companies, educational institutions, and government agencies.",1,2955.8
+squad,42,1024,baai,True,What is the high end of the temperature range in winter?,70,70.,1,2650.3
+squad,42,1024,baai,True,"What month, every four years, are the ordinary general elections held on?",May,May.,1,1573.18
+squad,42,1024,baai,True,What entity owns V/Line?,Victorian Government,The Victorian Government.,1,2756.53
+squad,42,1024,baai,True,What law connects relative velocities with inertia?,Newton's First,Newton's First Law of Motion.,1,1583.45
+squad,42,1024,baai,True,How many times less is the strenght of the weak field compared to the strong?,1013,1013 times less.,1,2904.45
+squad,42,1024,baai,True,Persistent unemployment has what effect on long-term economic growth?,negative,It has a negative effect.,1,2916.27
+squad,42,1024,baai,True,What did Joseph Haas say in his email?,"""Wise up or die.""","""Wise up or die.""",1,3017.73
+squad,42,1024,baai,True,Where does the Rhine river's measurement begin?,Old Rhine Bridge at Constance,The Old Rhine Bridge at Constance.,1,795.65
+squad,42,1024,baai,True,What have the two different Islamist movements been described as oscillating between?,poles,"Two poles: a strategy of Islamization through state power, and gradual Islamization from the bottom up.",1,2951.57
+squad,42,1024,baai,True,When was the great plague of London?,1665,1665.,1,1099.72
+squad,42,1024,baai,True,What do clinical pharmacists often participate in?,patient care rounds drug product selection,Patient care rounds and drug product selection.,1,2866.45
+squad,42,1024,baai,True,Where do ctenophora live?,marine waters,Marine waters worldwide.,1,1230.36
+squad,42,1024,baai,True,A small fraction of the cold water flow from Lake Constance goes to what other lake?,Lake Überlingen,Lake Überlingen.,1,1053.98
+squad,42,1024,baai,True,Dendritic cells present antigens to what cells of the adaptive nervous system?,T cells,T cells.,1,2837.96
+squad,42,1024,baai,True,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2845.43
+squad,42,1024,baai,True,What Jacksonville community is known for having heavy ties to the Navy?,Filipino,The Filipino American community in Jacksonville.,1,2961.44
+squad,42,1024,baai,True,How was the Dutch name for the Rhine originally spelled? ,Rhijn,The Dutch name for the Rhine was originally spelled as Rhijn.,1,1125.73
+squad,42,1024,baai,True,What is another term for university-preparatory schools?,prep schools,"""prep schools""",1,2926.29
+squad,42,1024,baai,True,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,1104.8
+squad,42,1024,baai,True,Who is eligible to toss their name in the hat to be First Minister?,Any member,Any member of Parliament.,1,1635.94
+squad,42,1024,baai,True,Which nation contains the majority of the amazon forest?,Brazil,Brazil.,1,1824.93
+squad,42,1024,baai,True,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003.,1,1509.12
+squad,42,1024,baai,True,What are some existing facilities?,"electrical, water, sewage, phone, and cable facilities","Electrical, water, sewage, phone, and cable facilities.",1,2790.99
+squad,42,1024,baai,True,Where is much of the work of the Scottish Parliament done?,committee,In committee.,1,2811.25
+squad,42,1024,baai,True,What must the adoption of laws which will have legal effect in the EU have?,a proper legal basis,A proper legal basis.,1,1566.72
+squad,42,1024,baai,True,What is located within this district?,the oldest street in the United States of America,The oldest street in the United States of America.,1,2831.32
+squad,42,1024,baai,True,What garden was formally only for royalty?,The Saxon Garden,The Saxon Garden.,1,1805.56
+squad,42,1024,baai,True,When are subject committees established?,beginning of each parliamentary session,At the beginning of each parliamentary session.,1,2729.8
+squad,42,1024,baai,True,How many protestants live in France today?,one million,Approximately one million Protestants.,1,2818.81
+squad,42,1024,baai,True,What was the civil war against Ragibagh also called?,the War of the Two Capitals,The War of the Two Capitals.,1,1991.21
+squad,42,1024,baai,True,What is a twin prime?,pairs of primes with difference 2,Pairs of primes with a difference of 2.,1,2992.42
+squad,42,1024,baai,True,"According to the wealth concentration theory, what advantage do the wealthy have in accumulating new wealth?",means to invest,"According to the wealth concentration theory, the wealthy have the means to invest in new sources of creating wealth or to otherwise leverage the accumulation of wealth.",1,971.62
+squad,42,1024,baai,True,What happens when bathocyroe and ocyropsis clap their lobes together?,jet of expelled water drives them backwards very quickly.,They escape from danger by creating a jet of expelled water that drives them backwards very quickly.,1,1152.45
+squad,42,1024,baai,True,Who did Alexander I marry?,Sybilla of Normandy,Sybilla of Normandy.,1,1722.45
+squad,42,1024,baai,True,When are the new Sky Q products going to be available?,2016,2016.,1,2883.49
+squad,42,1024,baai,True,What city in Victoria is called the sporting capital of Australia?,Melbourne,Melbourne.,1,3380.91
+squad,42,1024,baai,True,What did Maududi believe Muslim society could not be Islamic in the absence of?,Sharia,Sharia.,1,906.86
+squad,42,1024,baai,True,What would be needed to host a larger population?,agriculture,Agriculture.,1,953.25
+squad,42,1024,baai,True,What Swiss city was the center of the Calvinist movement?,Geneva,Geneva.,1,1713.44
+squad,42,1024,baai,True,What was the very first television station to broadcast in Fresno?,KMJ-TV,"KMJ-TV, which is now known as NBC affiliate KSEE.",1,2844.64
+squad,42,1024,baai,True,When did France and the Dutch fight in the 17th century?,1672,1672.,1,2751.55
+squad,42,1024,baai,True,"Who suggested that imperialism was the ""highest"" form of capitalism?",Lenin,Lenin.,1,1712.18
+squad,42,1024,baai,True,How are ergänzungsschulen funded?,tuition,Ergänzungsschulen are funded in whole by charging their students tuition fees.,1,2737.51
+squad,42,1024,baai,True,What period did plates reverse directions to compress the Tethys floor?,Jurassic Period,The Jurassic Period.,1,1079.41
+squad,42,1024,baai,False,"What alumni wrote ""The Closing of the American Mind""?",Allan Bloom,Allan Bloom.,1,519.91
+squad,42,1024,baai,False,What molecules of the adaptive immune system only exist in jawed vertebrates?,immunoglobulins and T cell receptors,Immunoglobulins and T cell receptors.,1,512.22
+squad,42,1024,baai,False,In what year did Priestley publish the findings of his experiments?,1775,1775.,1,404.28
+squad,42,1024,baai,False,The presence of who is highly likely even in small projects?,the mortgage banker,The mortgage banker.,1,2416.52
+squad,42,1024,baai,False,To what pathogen that causes gas gangrene is oxygen poisonous?,anaerobic bacteria,Anaerobic bacteria.,1,2272.13
+squad,42,1024,baai,False,What did Tymnet connect ,"connect host computers (servers)at thousands of large companies, educational institutions, and government agencies","Host computers (servers) at thousands of large companies, educational institutions, and government agencies.",1,2471.62
+squad,42,1024,baai,False,What is the high end of the temperature range in winter?,70,70.,1,2370.73
+squad,42,1024,baai,False,"What month, every four years, are the ordinary general elections held on?",May,May.,1,2694.71
+squad,42,1024,baai,False,What entity owns V/Line?,Victorian Government,The Victorian Government.,1,2393.31
+squad,42,1024,baai,False,What law connects relative velocities with inertia?,Newton's First,Newton's First Law of Motion.,1,2614.89
+squad,42,1024,baai,False,How many times less is the strenght of the weak field compared to the strong?,1013,1013 times less.,1,2389.0
+squad,42,1024,baai,False,Persistent unemployment has what effect on long-term economic growth?,negative,It has a negative effect.,1,2422.0
+squad,42,1024,baai,False,What did Joseph Haas say in his email?,"""Wise up or die.""","""Wise up or die.""",1,2499.8
+squad,42,1024,baai,False,Where does the Rhine river's measurement begin?,Old Rhine Bridge at Constance,The Old Rhine Bridge at Constance.,1,2428.4
+squad,42,1024,baai,False,What have the two different Islamist movements been described as oscillating between?,poles,"Two poles: a strategy of Islamization through state power, and gradual Islamization from the bottom up.",1,2579.18
+squad,42,1024,baai,False,When was the great plague of London?,1665,1665.,1,2561.12
+squad,42,1024,baai,False,What do clinical pharmacists often participate in?,patient care rounds drug product selection,Patient care rounds and drug product selection.,1,2342.77
+squad,42,1024,baai,False,Where do ctenophora live?,marine waters,Marine waters worldwide.,1,2637.5
+squad,42,1024,baai,False,A small fraction of the cold water flow from Lake Constance goes to what other lake?,Lake Überlingen,Lake Überlingen.,1,2446.68
+squad,42,1024,baai,False,Dendritic cells present antigens to what cells of the adaptive nervous system?,T cells,T cells.,1,2567.51
+squad,42,1024,baai,False,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2442.07
+squad,42,1024,baai,False,What Jacksonville community is known for having heavy ties to the Navy?,Filipino,The Filipino American community in Jacksonville.,1,2399.17
+squad,42,1024,baai,False,How was the Dutch name for the Rhine originally spelled? ,Rhijn,The Dutch name for the Rhine was originally spelled as Rhijn.,1,2470.27
+squad,42,1024,baai,False,What is another term for university-preparatory schools?,prep schools,"""prep schools""",1,2451.62
+squad,42,1024,baai,False,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2456.5
+squad,42,1024,baai,False,Who is eligible to toss their name in the hat to be First Minister?,Any member,Any member of Parliament.,1,2587.41
+squad,42,1024,baai,False,Which nation contains the majority of the amazon forest?,Brazil,Brazil.,1,2734.69
+squad,42,1024,baai,False,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003.,1,2593.04
+squad,42,1024,baai,False,What are some existing facilities?,"electrical, water, sewage, phone, and cable facilities","Electrical, water, sewage, phone, and cable facilities.",1,2418.0
+squad,42,1024,baai,False,Where is much of the work of the Scottish Parliament done?,committee,In committee.,1,2434.69
+squad,42,1024,baai,False,What must the adoption of laws which will have legal effect in the EU have?,a proper legal basis,A proper legal basis.,1,2582.85
+squad,42,1024,baai,False,What is located within this district?,the oldest street in the United States of America,The oldest street in the United States of America.,1,2492.22
+squad,42,1024,baai,False,What garden was formally only for royalty?,The Saxon Garden,The Saxon Garden.,1,2737.24
+squad,42,1024,baai,False,When are subject committees established?,beginning of each parliamentary session,At the beginning of each parliamentary session.,1,2330.61
+squad,42,1024,baai,False,How many protestants live in France today?,one million,Approximately one million Protestants.,1,2366.02
+squad,42,1024,baai,False,What was the civil war against Ragibagh also called?,the War of the Two Capitals,The War of the Two Capitals.,1,2680.65
+squad,42,1024,baai,False,What is a twin prime?,pairs of primes with difference 2,Pairs of primes with a difference of 2.,1,2548.74
+squad,42,1024,baai,False,"According to the wealth concentration theory, what advantage do the wealthy have in accumulating new wealth?",means to invest,"According to the wealth concentration theory, the wealthy have the means to invest in new sources of creating wealth or to otherwise leverage the accumulation of wealth.",1,2607.98
+squad,42,1024,baai,False,What happens when bathocyroe and ocyropsis clap their lobes together?,jet of expelled water drives them backwards very quickly.,They escape from danger by creating a jet of expelled water that drives them backwards very quickly.,1,2504.66
+squad,42,1024,baai,False,Who did Alexander I marry?,Sybilla of Normandy,Sybilla of Normandy.,1,2738.93
+squad,42,1024,baai,False,When are the new Sky Q products going to be available?,2016,2016.,1,2543.01
+squad,42,1024,baai,False,What city in Victoria is called the sporting capital of Australia?,Melbourne,Melbourne.,1,2464.86
+squad,42,1024,baai,False,What did Maududi believe Muslim society could not be Islamic in the absence of?,Sharia,Sharia.,1,2404.66
+squad,42,1024,baai,False,What would be needed to host a larger population?,agriculture,Agriculture.,1,2435.71
+squad,42,1024,baai,False,What Swiss city was the center of the Calvinist movement?,Geneva,Geneva.,1,2758.63
+squad,42,1024,baai,False,What was the very first television station to broadcast in Fresno?,KMJ-TV,"KMJ-TV, which is now known as NBC affiliate KSEE.",1,2435.82
+squad,42,1024,baai,False,When did France and the Dutch fight in the 17th century?,1672,1672.,1,2390.57
+squad,42,1024,baai,False,"Who suggested that imperialism was the ""highest"" form of capitalism?",Lenin,Lenin.,1,2689.51
+squad,42,1024,baai,False,How are ergänzungsschulen funded?,tuition,Ergänzungsschulen are funded in whole by charging their students tuition fees.,1,2375.16
+squad,42,1024,baai,False,What period did plates reverse directions to compress the Tethys floor?,Jurassic Period,The Jurassic Period.,1,2435.83
+squad,123,256,baai,True,What was Tymnet,"an international data communications network headquartered in San Jose, CA",An international data communications network.,1,1364.27
+squad,123,256,baai,True,Beginning how many years ago did the amazon rainforest extend 45 degrees south?,66–34 Mya,66 million years ago.,1,622.88
+squad,123,256,baai,True,Dendritic cells present antigens to what cells of the adaptive nervous system?,T cells,T cells.,1,1144.92
+squad,123,256,baai,True,Why did OPEC raise the price of oil to $5.11?,In response to American aid to Israel,In response to American aid to Israel.,1,1403.06
+squad,123,256,baai,True,Telnet was sold to ,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE,GTE.,1,969.87
+squad,123,256,baai,True,What produces the high levels of oxygen on Earth?,oxygen cycle,Photosynthesis.,1,895.25
+squad,123,256,baai,True,What grew on a global scale as a result of imperialism?,the world's economy,The world's economy grew significantly.,1,1102.43
+squad,123,256,baai,True,How many protestants live in France today?,one million,Approximately one million Protestants.,1,3019.23
+squad,123,256,baai,True,What did a greedy merchant do to the mermaid?,captured,He captured her.,1,974.23
+squad,123,256,baai,True,What does the bathocyroe and ocyropsis do to escape danger?,by clapping their lobes,"They clap their lobes to expel water, driving themselves backwards quickly.",1,1605.65
+squad,123,256,baai,True,"What month, every four years, are the ordinary general elections held on?",May,May.,1,1343.67
+squad,123,256,baai,True,"At first, what did oxygen and iron combine to form?",banded iron formations,Banded iron formations.,1,3122.34
+squad,123,256,baai,True,What region does use the term 'private schools' to refer to universities?,North America,North America.,1,920.54
+squad,123,256,baai,True,When was the first Sino-Japanese War?,1894,1894.,1,1342.06
+squad,123,256,baai,True,How were Huguenot settlers assimilated into North American society at large?,married outside their immediate French communities,They assimilated through marrying outside their immediate French communities and adopting the customs of the larger society.,1,3017.43
+squad,123,256,baai,True,What do clinical pharmacists often participate in?,patient care rounds drug product selection,Patient care rounds and drug product selection.,1,2888.27
+squad,123,256,baai,True,What did Joseph Haas say in his email?,"""Wise up or die.""","""Wise up or die.""",1,2965.83
+squad,123,256,baai,True,What implication can be derived for P and NP if P and co-NP are established to be unequal?,P is not equal to NP,"If P and co-NP are established to be unequal, then it can be derived that NP is not equal to co-NP.",1,2926.39
+squad,123,256,baai,True,What was the target percentage of households BSkyB wanted to reach?,36%,36% of households in the UK.,1,2945.55
+squad,123,256,baai,True,What are some existing facilities?,"electrical, water, sewage, phone, and cable facilities","Electrical, water, sewage, phone, and cable facilities.",1,2869.75
+squad,123,256,baai,True,What was believed to be the cause of devastation to the civilization?,diseases from Europe,"The spread of diseases from Europe, such as smallpox.",1,1437.18
+squad,123,256,baai,True,When did France and the Dutch fight in the 17th century?,1672,1672.,1,2913.54
+squad,123,256,baai,True,What city served as Poland's capital in 1313?,Kraków,Kraków.,1,1355.08
+squad,123,256,baai,True,What Jacksonville community is known for having heavy ties to the Navy?,Filipino,The Filipino community.,1,3041.53
+squad,123,256,baai,True,Which reason is given sometimes to plead not guilty involving these matters?,Guilt implies wrong-doing,Guilt implies wrong-doing. I feel I have done no wrong.,1,1485.92
+squad,123,256,baai,True,"According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",reduces,X reduces to Y.,1,1026.97
+squad,123,256,baai,True,What did Tymnet connect ,"connect host computers (servers)at thousands of large companies, educational institutions, and government agencies",Host computers (servers) at thousands of large locations.,0,1414.39
+squad,123,256,baai,True,What is the region called that is the largest conurbation of the Rhine?,Rhine-Ruhr,The Rhine-Ruhr region.,1,1332.76
+squad,123,256,baai,True,When did Khan establish the Great Yuan?,1271,1271.,1,1707.52
+squad,123,256,baai,True,What happens when bathocyroe and ocyropsis clap their lobes together?,jet of expelled water drives them backwards very quickly.,They escape from danger by driving themselves backwards very quickly with the jet of expelled water.,1,1601.25
+squad,123,256,baai,True,Where does heat rejection occur in the Rankine cycle?,in the condenser,in the condenser.,1,1376.13
+squad,123,256,baai,True,What is the most snow Fresno has ever had?,2.2 inches,"2.2 inches (0.06 m) on January 21, 1962.",1,1305.42
+squad,123,256,baai,True,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,1059.72
+squad,123,256,baai,True,Where did France focus its efforts to rebuild its empire?,Africa,"North and West Africa, as well as South-East Asia.",1,1017.76
+squad,123,256,baai,True,What is the magnitude of force divided by when external force is added?,mass of the system,mass of the system.,1,1030.91
+squad,123,256,baai,True,Along what geographic feature are nine residential houses located?,Charles River,The Charles River.,1,1284.68
+squad,123,256,baai,True,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,1288.99
+squad,123,256,baai,True,The Amazon region is home to how many species of insect?,2.5 million,About 2.5 million insect species.,1,3041.88
+squad,123,256,baai,True,What would be needed to host a larger population?,agriculture,Agriculture.,1,1127.4
+squad,123,256,baai,True,What law connects relative velocities with inertia?,Newton's First,Newton's First Law.,1,1350.95
+squad,123,256,baai,True,Where is the Rhine Bridge?,Arnhem,The Rhine Bridge is at Remagen.,1,1133.18
+squad,123,256,baai,True,Health problems were lower in places with higher levels of what?,equality,equality,1,1124.15
+squad,123,256,baai,True,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003.,1,1364.47
+squad,123,256,baai,True,Who is eligible to toss their name in the hat to be First Minister?,Any member,Any member of Parliament.,1,1634.45
+squad,123,256,baai,True,When are the new Sky Q products going to be available?,2016,2016.,1,549.82
+squad,123,256,baai,True,"As a person gets older, what does the skin produce less of?",vitamin D,Vitamin D.,1,3017.27
+squad,123,256,baai,True,How much oxygen is found is a liter of fresh water under normal conditions?,6.04 milliliters,6.04 mL per liter.,1,1396.57
+squad,123,256,baai,True,Who lead the school back to leading research institution in 2oth century?,James Bryant Conant,James Bryant Conant.,1,917.73
+squad,123,256,baai,True,What have the two different Islamist movements been described as oscillating between?,poles,Two poles.,1,1280.05
+squad,123,256,baai,True,By what process is singlet oxygen made in the tropophere?,photolysis of ozone,The photolysis of ozone by light of short wavelength.,1,1313.26
+squad,123,256,baai,False,What was Tymnet,"an international data communications network headquartered in San Jose, CA",An international data communications network.,1,684.31
+squad,123,256,baai,False,Beginning how many years ago did the amazon rainforest extend 45 degrees south?,66–34 Mya,66 million years ago.,1,438.03
+squad,123,256,baai,False,Dendritic cells present antigens to what cells of the adaptive nervous system?,T cells,T cells.,1,404.13
+squad,123,256,baai,False,Why did OPEC raise the price of oil to $5.11?,In response to American aid to Israel,In response to American aid to Israel.,1,749.77
+squad,123,256,baai,False,Telnet was sold to ,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE,GTE.,1,2463.83
+squad,123,256,baai,False,What produces the high levels of oxygen on Earth?,oxygen cycle,Photosynthesis.,1,2383.6
+squad,123,256,baai,False,What grew on a global scale as a result of imperialism?,the world's economy,The world's economy grew significantly.,1,2699.48
+squad,123,256,baai,False,How many protestants live in France today?,one million,Approximately one million Protestants.,1,2413.18
+squad,123,256,baai,False,What did a greedy merchant do to the mermaid?,captured,He captured her.,1,2411.84
+squad,123,256,baai,False,What does the bathocyroe and ocyropsis do to escape danger?,by clapping their lobes,"They clap their lobes to expel water, driving themselves backwards quickly.",1,2671.85
+squad,123,256,baai,False,"What month, every four years, are the ordinary general elections held on?",May,May.,1,2517.07
+squad,123,256,baai,False,"At first, what did oxygen and iron combine to form?",banded iron formations,Banded iron formations.,1,2571.63
+squad,123,256,baai,False,What region does use the term 'private schools' to refer to universities?,North America,North America.,1,2420.63
+squad,123,256,baai,False,When was the first Sino-Japanese War?,1894,1894.,1,2478.13
+squad,123,256,baai,False,How were Huguenot settlers assimilated into North American society at large?,married outside their immediate French communities,They assimilated through marrying outside their immediate French communities and adopting the customs of the larger society.,1,2593.49
+squad,123,256,baai,False,What do clinical pharmacists often participate in?,patient care rounds drug product selection,Patient care rounds and drug product selection.,1,2420.1
+squad,123,256,baai,False,What did Joseph Haas say in his email?,"""Wise up or die.""","""Wise up or die.""",1,2577.22
+squad,123,256,baai,False,What implication can be derived for P and NP if P and co-NP are established to be unequal?,P is not equal to NP,"If P and co-NP are established to be unequal, then it can be derived that NP is not equal to co-NP.",1,2423.16
+squad,123,256,baai,False,What was the target percentage of households BSkyB wanted to reach?,36%,36% of households in the UK.,1,2461.92
+squad,123,256,baai,False,What are some existing facilities?,"electrical, water, sewage, phone, and cable facilities","Electrical, water, sewage, phone, and cable facilities.",1,2434.09
+squad,123,256,baai,False,What was believed to be the cause of devastation to the civilization?,diseases from Europe,"The spread of diseases from Europe, such as smallpox.",1,2546.83
+squad,123,256,baai,False,When did France and the Dutch fight in the 17th century?,1672,1672.,1,2537.95
+squad,123,256,baai,False,What city served as Poland's capital in 1313?,Kraków,Kraków.,1,2698.42
+squad,123,256,baai,False,What Jacksonville community is known for having heavy ties to the Navy?,Filipino,The Filipino community in Jacksonville.,1,2463.4
+squad,123,256,baai,False,Which reason is given sometimes to plead not guilty involving these matters?,Guilt implies wrong-doing,Guilt implies wrong-doing. I feel I have done no wrong.,1,2568.97
+squad,123,256,baai,False,"According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",reduces,X reduces to Y.,1,2436.08
+squad,123,256,baai,False,What did Tymnet connect ,"connect host computers (servers)at thousands of large companies, educational institutions, and government agencies",Host computers (servers) at thousands of large locations.,0,2522.78
+squad,123,256,baai,False,What is the region called that is the largest conurbation of the Rhine?,Rhine-Ruhr,The Rhine-Ruhr region.,1,2543.77
+squad,123,256,baai,False,When did Khan establish the Great Yuan?,1271,1271.,1,2613.42
+squad,123,256,baai,False,What happens when bathocyroe and ocyropsis clap their lobes together?,jet of expelled water drives them backwards very quickly.,They escape from danger by driving themselves backwards very quickly with the jet of expelled water.,1,2548.29
+squad,123,256,baai,False,Where does heat rejection occur in the Rankine cycle?,in the condenser,In the condenser.,1,2808.68
+squad,123,256,baai,False,What is the most snow Fresno has ever had?,2.2 inches,"2.2 inches (0.06 m) on January 21, 1962.",1,2590.81
+squad,123,256,baai,False,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2470.74
+squad,123,256,baai,False,Where did France focus its efforts to rebuild its empire?,Africa,"North and West Africa, as well as South-East Asia.",1,2429.24
+squad,123,256,baai,False,What is the magnitude of force divided by when external force is added?,mass of the system,mass of the system.,1,2447.63
+squad,123,256,baai,False,Along what geographic feature are nine residential houses located?,Charles River,The Charles River.,1,2618.22
+squad,123,256,baai,False,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2506.11
+squad,123,256,baai,False,The Amazon region is home to how many species of insect?,2.5 million,About 2.5 million insect species.,1,2477.49
+squad,123,256,baai,False,What would be needed to host a larger population?,agriculture,Agriculture.,1,2741.08
+squad,123,256,baai,False,What law connects relative velocities with inertia?,Newton's First,Newton's First Law.,1,2558.51
+squad,123,256,baai,False,Where is the Rhine Bridge?,Arnhem,The Rhine Bridge is at Arnhem.,1,2605.5
+squad,123,256,baai,False,Health problems were lower in places with higher levels of what?,equality,equality,1,2489.82
+squad,123,256,baai,False,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003.,1,2550.78
+squad,123,256,baai,False,Who is eligible to toss their name in the hat to be First Minister?,Any member,Any member of Parliament.,1,2546.01
+squad,123,256,baai,False,When are the new Sky Q products going to be available?,2016,2016.,1,2498.57
+squad,123,256,baai,False,"As a person gets older, what does the skin produce less of?",vitamin D,Vitamin D.,1,2428.66
+squad,123,256,baai,False,How much oxygen is found is a liter of fresh water under normal conditions?,6.04 milliliters,6.04 mL per liter.,1,2548.28
+squad,123,256,baai,False,Who lead the school back to leading research institution in 2oth century?,James Bryant Conant,James Bryant Conant.,1,2438.72
+squad,123,256,baai,False,What have the two different Islamist movements been described as oscillating between?,poles,Two poles.,1,2490.2
+squad,123,256,baai,False,By what process is singlet oxygen made in the tropophere?,photolysis of ozone,Photolysis of ozone by light of short wavelength.,1,2454.53
+squad,123,512,baai,True,What was Tymnet,"an international data communications network headquartered in San Jose, CA",An international data communications network.,1,1556.0
+squad,123,512,baai,True,Beginning how many years ago did the amazon rainforest extend 45 degrees south?,66–34 Mya,66 million years ago.,1,1131.81
+squad,123,512,baai,True,Dendritic cells present antigens to what cells of the adaptive nervous system?,T cells,T cells.,1,1178.83
+squad,123,512,baai,True,Why did OPEC raise the price of oil to $5.11?,In response to American aid to Israel,In response to American aid to Israel.,1,1403.06
+squad,123,512,baai,True,Telnet was sold to ,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE,GTE.,1,1098.17
+squad,123,512,baai,True,What produces the high levels of oxygen on Earth?,oxygen cycle,Photosynthesis.,1,1023.73
+squad,123,512,baai,True,What grew on a global scale as a result of imperialism?,the world's economy,The world's economy.,1,1036.1
+squad,123,512,baai,True,How many protestants live in France today?,one million,Approximately one million Protestants.,1,1135.76
+squad,123,512,baai,True,What did a greedy merchant do to the mermaid?,captured,He captured her.,1,1132.79
+squad,123,512,baai,True,What does the bathocyroe and ocyropsis do to escape danger?,by clapping their lobes,Members of the lobate genera Bathocyroe and Ocyropsis can escape from danger by clapping their lobes.,1,1565.18
+squad,123,512,baai,True,"What month, every four years, are the ordinary general elections held on?",May,May.,1,1712.65
+squad,123,512,baai,True,"At first, what did oxygen and iron combine to form?",banded iron formations,Banded iron formations.,1,1056.26
+squad,123,512,baai,True,What region does use the term 'private schools' to refer to universities?,North America,North America.,1,1026.28
+squad,123,512,baai,True,When was the first Sino-Japanese War?,1894,1894.,1,1600.04
+squad,123,512,baai,True,How were Huguenot settlers assimilated into North American society at large?,married outside their immediate French communities,They adapted quickly and often married outside their immediate French communities.,1,1147.28
+squad,123,512,baai,True,What do clinical pharmacists often participate in?,patient care rounds drug product selection,Patient care rounds and drug product selection.,1,1009.84
+squad,123,512,baai,True,What did Joseph Haas say in his email?,"""Wise up or die.""","""Wise up or die.""",1,1024.45
+squad,123,512,baai,True,What implication can be derived for P and NP if P and co-NP are established to be unequal?,P is not equal to NP,"If P and co-NP are established to be unequal, then it can be derived that P is not equal to NP.",1,386.4
+squad,123,512,baai,True,What was the target percentage of households BSkyB wanted to reach?,36%,36% of households in the UK.,1,490.45
+squad,123,512,baai,True,What are some existing facilities?,"electrical, water, sewage, phone, and cable facilities","Electrical, water, sewage, phone, and cable facilities.",1,437.9
+squad,123,512,baai,True,What was believed to be the cause of devastation to the civilization?,diseases from Europe,"The spread of diseases from Europe, such as smallpox.",1,2733.31
+squad,123,512,baai,True,When did France and the Dutch fight in the 17th century?,1672,1672.,1,2510.79
+squad,123,512,baai,True,What city served as Poland's capital in 1313?,Kraków,Kraków.,1,2873.29
+squad,123,512,baai,True,What Jacksonville community is known for having heavy ties to the Navy?,Filipino,The Filipino community in Jacksonville.,1,2540.8
+squad,123,512,baai,True,Which reason is given sometimes to plead not guilty involving these matters?,Guilt implies wrong-doing,A plea of no contest is sometimes regarded as a compromise between guilty and not guilty.,1,2806.76
+squad,123,512,baai,True,"According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",reduces,X is no more difficult than Y.,1,2565.44
+squad,123,512,baai,True,What did Tymnet connect ,"connect host computers (servers)at thousands of large companies, educational institutions, and government agencies","Host computers (servers) at thousands of large companies, educational institutions, and government agencies.",1,2808.15
+squad,123,512,baai,True,What is the region called that is the largest conurbation of the Rhine?,Rhine-Ruhr,The Rhine-Ruhr region.,1,2558.11
+squad,123,512,baai,True,When did Khan establish the Great Yuan?,1271,1271.,1,2874.31
+squad,123,512,baai,True,What happens when bathocyroe and ocyropsis clap their lobes together?,jet of expelled water drives them backwards very quickly.,They escape from danger by driving themselves backwards very quickly with the jet of expelled water.,1,2794.49
+squad,123,512,baai,True,Where does heat rejection occur in the Rankine cycle?,in the condenser,In the condenser.,1,2694.5
+squad,123,512,baai,True,What is the most snow Fresno has ever had?,2.2 inches,"2.2 inches (0.06 m) on January 21, 1962.",1,2619.45
+squad,123,512,baai,True,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2496.09
+squad,123,512,baai,True,Where did France focus its efforts to rebuild its empire?,Africa,"North and West Africa, as well as South-East Asia.",1,2520.05
+squad,123,512,baai,True,What is the magnitude of force divided by when external force is added?,mass of the system,mass of the system.,1,2512.95
+squad,123,512,baai,True,Along what geographic feature are nine residential houses located?,Charles River,The Charles River.,1,2796.21
+squad,123,512,baai,True,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2687.23
+squad,123,512,baai,True,The Amazon region is home to how many species of insect?,2.5 million,About 2.5 million insect species.,1,2565.39
+squad,123,512,baai,True,What would be needed to host a larger population?,agriculture,Agriculture.,1,2522.73
+squad,123,512,baai,True,What law connects relative velocities with inertia?,Newton's First,Newton's First Law of Motion.,1,2658.35
+squad,123,512,baai,True,Where is the Rhine Bridge?,Arnhem,The Rhine Bridge at Arnhem.,1,2534.87
+squad,123,512,baai,True,Health problems were lower in places with higher levels of what?,equality,equality,1,2516.17
+squad,123,512,baai,True,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003.,1,3113.53
+squad,123,512,baai,True,Who is eligible to toss their name in the hat to be First Minister?,Any member,Any member of Parliament.,1,2933.85
+squad,123,512,baai,True,When are the new Sky Q products going to be available?,2016,The new Sky Q products are to be available in 2016.,1,2571.3
+squad,123,512,baai,True,"As a person gets older, what does the skin produce less of?",vitamin D,Vitamin D.,1,2861.27
+squad,123,512,baai,True,How much oxygen is found is a liter of fresh water under normal conditions?,6.04 milliliters,6.04 milliliters (mL) per liter.,1,2650.08
+squad,123,512,baai,True,Who lead the school back to leading research institution in 2oth century?,James Bryant Conant,James Bryant Conant.,1,2623.98
+squad,123,512,baai,True,What have the two different Islamist movements been described as oscillating between?,poles,"Two poles: a strategy of Islamization through state power seized by revolution or invasion, and a ""reformist"" pole where Islamists work to Islamize society gradually ""from the bottom up"".",1,2590.05
+squad,123,512,baai,True,By what process is singlet oxygen made in the tropophere?,photolysis of ozone,The photolysis of ozone by light of short wavelength.,1,2704.87
+squad,123,512,baai,False,What was Tymnet,"an international data communications network headquartered in San Jose, CA",An international data communications network.,1,294.97
+squad,123,512,baai,False,Beginning how many years ago did the amazon rainforest extend 45 degrees south?,66–34 Mya,66 million years ago.,1,215.24
+squad,123,512,baai,False,Dendritic cells present antigens to what cells of the adaptive nervous system?,T cells,T cells.,1,213.52
+squad,123,512,baai,False,Why did OPEC raise the price of oil to $5.11?,In response to American aid to Israel,In response to American aid to Israel.,1,2447.45
+squad,123,512,baai,False,Telnet was sold to ,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE,GTE.,1,2293.26
+squad,123,512,baai,False,What produces the high levels of oxygen on Earth?,oxygen cycle,Photosynthesis.,1,2279.53
+squad,123,512,baai,False,What grew on a global scale as a result of imperialism?,the world's economy,The world's economy.,1,2261.86
+squad,123,512,baai,False,How many protestants live in France today?,one million,Approximately one million Protestants.,1,2295.98
+squad,123,512,baai,False,What did a greedy merchant do to the mermaid?,captured,He captured her.,1,2285.94
+squad,123,512,baai,False,What does the bathocyroe and ocyropsis do to escape danger?,by clapping their lobes,Members of the lobate genera Bathocyroe and Ocyropsis can escape from danger by clapping their lobes.,1,2474.81
+squad,123,512,baai,False,"What month, every four years, are the ordinary general elections held on?",May,May.,1,2305.94
+squad,123,512,baai,False,"At first, what did oxygen and iron combine to form?",banded iron formations,Banded iron formations.,1,2380.44
+squad,123,512,baai,False,What region does use the term 'private schools' to refer to universities?,North America,North America.,1,2249.49
+squad,123,512,baai,False,When was the first Sino-Japanese War?,1894,1894.,1,2303.2
+squad,123,512,baai,False,How were Huguenot settlers assimilated into North American society at large?,married outside their immediate French communities,They adapted quickly and often married outside their immediate French communities.,1,2268.9
+squad,123,512,baai,False,What do clinical pharmacists often participate in?,patient care rounds drug product selection,Patient care rounds and drug product selection.,1,2266.7
+squad,123,512,baai,False,What did Joseph Haas say in his email?,"""Wise up or die.""","""Wise up or die.""",1,2367.3
+squad,123,512,baai,False,What implication can be derived for P and NP if P and co-NP are established to be unequal?,P is not equal to NP,"If P and co-NP are established to be unequal, then it can be derived that P is not equal to NP.",1,2260.55
+squad,123,512,baai,False,What was the target percentage of households BSkyB wanted to reach?,36%,36% of households in the UK.,1,2438.24
+squad,123,512,baai,False,What are some existing facilities?,"electrical, water, sewage, phone, and cable facilities","Electrical, water, sewage, phone, and cable facilities.",1,2407.68
+squad,123,512,baai,False,What was believed to be the cause of devastation to the civilization?,diseases from Europe,"The spread of diseases from Europe, such as smallpox.",1,2332.88
+squad,123,512,baai,False,When did France and the Dutch fight in the 17th century?,1672,1672.,1,2291.73
+squad,123,512,baai,False,What city served as Poland's capital in 1313?,Kraków,Kraków.,1,2339.12
+squad,123,512,baai,False,What Jacksonville community is known for having heavy ties to the Navy?,Filipino,The Filipino community in Jacksonville.,1,2440.72
+squad,123,512,baai,False,Which reason is given sometimes to plead not guilty involving these matters?,Guilt implies wrong-doing,A plea of no contest is sometimes regarded as a compromise between pleading guilty and not guilty.,1,2533.37
+squad,123,512,baai,False,"According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",reduces,X is no more difficult than Y.,1,2274.98
+squad,123,512,baai,False,What did Tymnet connect ,"connect host computers (servers)at thousands of large companies, educational institutions, and government agencies","Host computers (servers) at thousands of large companies, educational institutions, and government agencies.",1,2425.76
+squad,123,512,baai,False,What is the region called that is the largest conurbation of the Rhine?,Rhine-Ruhr,The Rhine-Ruhr region.,1,2269.65
+squad,123,512,baai,False,When did Khan establish the Great Yuan?,1271,Kublai Khan established the Great Yuan in 1271.,1,2463.54
+squad,123,512,baai,False,What happens when bathocyroe and ocyropsis clap their lobes together?,jet of expelled water drives them backwards very quickly.,They escape from danger by driving themselves backwards very quickly with the jet of expelled water.,1,2642.78
+squad,123,512,baai,False,Where does heat rejection occur in the Rankine cycle?,in the condenser,In the condenser.,1,2304.85
+squad,123,512,baai,False,What is the most snow Fresno has ever had?,2.2 inches,"2.2 inches (0.06 m) on January 21, 1962.",1,2433.78
+squad,123,512,baai,False,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2449.87
+squad,123,512,baai,False,Where did France focus its efforts to rebuild its empire?,Africa,"North and West Africa, as well as South-East Asia, and other regions including Central and East Africa, and the South Pacific.",1,2307.19
+squad,123,512,baai,False,What is the magnitude of force divided by when external force is added?,mass of the system,mass of the system.,1,2279.72
+squad,123,512,baai,False,Along what geographic feature are nine residential houses located?,Charles River,The Charles River.,1,2411.13
+squad,123,512,baai,False,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2292.56
+squad,123,512,baai,False,The Amazon region is home to how many species of insect?,2.5 million,About 2.5 million insect species.,1,2398.49
+squad,123,512,baai,False,What would be needed to host a larger population?,agriculture,Agriculture.,1,2291.94
+squad,123,512,baai,False,What law connects relative velocities with inertia?,Newton's First,Newton's First Law of Motion.,1,2297.11
+squad,123,512,baai,False,Where is the Rhine Bridge?,Arnhem,The Rhine Bridge is at Arnhem.,1,2382.37
+squad,123,512,baai,False,Health problems were lower in places with higher levels of what?,equality,equality,1,2370.62
+squad,123,512,baai,False,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003.,1,2311.99
+squad,123,512,baai,False,Who is eligible to toss their name in the hat to be First Minister?,Any member,Any member of Parliament.,1,2395.59
+squad,123,512,baai,False,When are the new Sky Q products going to be available?,2016,The new Sky Q products are to be available in 2016.,1,2424.84
+squad,123,512,baai,False,"As a person gets older, what does the skin produce less of?",vitamin D,Vitamin D.,1,2261.04
+squad,123,512,baai,False,How much oxygen is found is a liter of fresh water under normal conditions?,6.04 milliliters,6.04 milliliters (mL) per liter.,1,2318.48
+squad,123,512,baai,False,Who lead the school back to leading research institution in 2oth century?,James Bryant Conant,James Bryant Conant.,1,2372.65
+squad,123,512,baai,False,What have the two different Islamist movements been described as oscillating between?,poles,"Two poles: a strategy of Islamization through state power seized by revolution or invasion, and a ""reformist"" pole where Islamists work to Islamize society gradually ""from the bottom up"".",1,2317.23
+squad,123,512,baai,False,By what process is singlet oxygen made in the tropophere?,photolysis of ozone,The photolysis of ozone by light of short wavelength.,1,2309.66
+squad,123,1024,baai,True,What was Tymnet,"an international data communications network headquartered in San Jose, CA",Tymnet was an international data communications network.,1,598.25
+squad,123,1024,baai,True,Beginning how many years ago did the amazon rainforest extend 45 degrees south?,66–34 Mya,66 million years ago.,1,492.76
+squad,123,1024,baai,True,Dendritic cells present antigens to what cells of the adaptive nervous system?,T cells,T cells.,1,363.88
+squad,123,1024,baai,True,Why did OPEC raise the price of oil to $5.11?,In response to American aid to Israel,In response to American aid to Israel.,1,2537.86
+squad,123,1024,baai,True,Telnet was sold to ,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE,GTE.,1,2522.59
+squad,123,1024,baai,True,What produces the high levels of oxygen on Earth?,oxygen cycle,Photosynthesis.,1,2416.84
+squad,123,1024,baai,True,What grew on a global scale as a result of imperialism?,the world's economy,The world's economy grew significantly.,1,2471.12
+squad,123,1024,baai,True,How many protestants live in France today?,one million,Approximately one million Protestants.,1,2517.36
+squad,123,1024,baai,True,What did a greedy merchant do to the mermaid?,captured,He captured the mermaid.,1,2442.59
+squad,123,1024,baai,True,What does the bathocyroe and ocyropsis do to escape danger?,by clapping their lobes,They clap their lobes to create a jet of expelled water that drives them backwards quickly.,1,2712.02
+squad,123,1024,baai,True,"What month, every four years, are the ordinary general elections held on?",May,May.,1,2811.16
+squad,123,1024,baai,True,"At first, what did oxygen and iron combine to form?",banded iron formations,Banded iron formations.,1,2406.99
+squad,123,1024,baai,True,What region does use the term 'private schools' to refer to universities?,North America,North America.,1,2536.25
+squad,123,1024,baai,True,When was the first Sino-Japanese War?,1894,1894.,1,2992.31
+squad,123,1024,baai,True,How were Huguenot settlers assimilated into North American society at large?,married outside their immediate French communities,"The Huguenot settlers were assimilated into North American society through intermarriage with other communities, leading to the adoption of French first names and surnames by their descendants, and their integration into various Protestant denominations.",1,418.55
+squad,123,1024,baai,True,What do clinical pharmacists often participate in?,patient care rounds drug product selection,Patient care rounds and drug product selection.,1,2382.71
+squad,123,1024,baai,True,What did Joseph Haas say in his email?,"""Wise up or die.""","""Wise up or die.""",1,2642.9
+squad,123,1024,baai,True,What implication can be derived for P and NP if P and co-NP are established to be unequal?,P is not equal to NP,"If P and co-NP are established to be unequal, then it can be derived that P is not equal to NP.",1,2488.91
+squad,123,1024,baai,True,What was the target percentage of households BSkyB wanted to reach?,36%,36% of households in the UK.,1,2405.13
+squad,123,1024,baai,True,What are some existing facilities?,"electrical, water, sewage, phone, and cable facilities","Electrical, water, sewage, phone, and cable facilities.",1,2411.47
+squad,123,1024,baai,True,What was believed to be the cause of devastation to the civilization?,diseases from Europe,"The spread of diseases from Europe, such as smallpox.",1,2662.69
+squad,123,1024,baai,True,When did France and the Dutch fight in the 17th century?,1672,1672.,1,2378.86
+squad,123,1024,baai,True,What city served as Poland's capital in 1313?,Kraków,Kraków.,1,2818.29
+squad,123,1024,baai,True,What Jacksonville community is known for having heavy ties to the Navy?,Filipino,The Filipino American community in Jacksonville.,1,2632.74
+squad,123,1024,baai,True,Which reason is given sometimes to plead not guilty involving these matters?,Guilt implies wrong-doing,Guilt implies wrong-doing. I feel I have done no wrong.,1,1041.97
+squad,123,1024,baai,True,"According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",reduces,X is no more difficult than Y.,1,2447.45
+squad,123,1024,baai,True,What did Tymnet connect ,"connect host computers (servers)at thousands of large companies, educational institutions, and government agencies","Host computers (servers) at thousands of large companies, educational institutions, and government agencies.",1,2524.96
+squad,123,1024,baai,True,What is the region called that is the largest conurbation of the Rhine?,Rhine-Ruhr,The Rhine-Ruhr region.,1,2561.75
+squad,123,1024,baai,True,When did Khan establish the Great Yuan?,1271,Kublai Khan established the Great Yuan in 1271.,1,1106.12
+squad,123,1024,baai,True,What happens when bathocyroe and ocyropsis clap their lobes together?,jet of expelled water drives them backwards very quickly.,They escape from danger by creating a jet of expelled water that drives them backwards very quickly.,1,2756.48
+squad,123,1024,baai,True,Where does heat rejection occur in the Rankine cycle?,in the condenser,In the condenser.,1,2528.25
+squad,123,1024,baai,True,What is the most snow Fresno has ever had?,2.2 inches,"2.2 inches (0.06 m) on January 21, 1962.",1,2593.6
+squad,123,1024,baai,True,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2561.96
+squad,123,1024,baai,True,Where did France focus its efforts to rebuild its empire?,Africa,"North and West Africa, as well as South-East Asia.",1,2547.62
+squad,123,1024,baai,True,What is the magnitude of force divided by when external force is added?,mass of the system,The mass of the system.,1,2407.47
+squad,123,1024,baai,True,Along what geographic feature are nine residential houses located?,Charles River,The Charles River.,1,2822.4
+squad,123,1024,baai,True,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2493.23
+squad,123,1024,baai,True,The Amazon region is home to how many species of insect?,2.5 million,About 2.5 million insect species.,1,2527.63
+squad,123,1024,baai,True,What would be needed to host a larger population?,agriculture,Agriculture.,1,2819.02
+squad,123,1024,baai,True,What law connects relative velocities with inertia?,Newton's First,Newton's First Law of Motion.,1,745.42
+squad,123,1024,baai,True,Where is the Rhine Bridge?,Arnhem,The Rhine Bridge is at Arnhem.,1,2583.08
+squad,123,1024,baai,True,Health problems were lower in places with higher levels of what?,equality,Equality.,1,2442.09
+squad,123,1024,baai,True,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003.,1,2932.03
+squad,123,1024,baai,True,Who is eligible to toss their name in the hat to be First Minister?,Any member,Any member of Parliament.,1,2959.42
+squad,123,1024,baai,True,When are the new Sky Q products going to be available?,2016,2016.,1,2459.7
+squad,123,1024,baai,True,"As a person gets older, what does the skin produce less of?",vitamin D,Vitamin D.,1,2418.7
+squad,123,1024,baai,True,How much oxygen is found is a liter of fresh water under normal conditions?,6.04 milliliters,6.04 milliliters (mL) per liter.,1,2499.43
+squad,123,1024,baai,True,Who lead the school back to leading research institution in 2oth century?,James Bryant Conant,James Bryant Conant.,1,2414.91
+squad,123,1024,baai,True,What have the two different Islamist movements been described as oscillating between?,poles,"Two poles: a strategy of Islamization through state power, and gradual Islamization from the bottom up.",1,2528.42
+squad,123,1024,baai,True,By what process is singlet oxygen made in the tropophere?,photolysis of ozone,The photolysis of ozone by light of short wavelength.,1,2569.8
+squad,123,1024,baai,False,What was Tymnet,"an international data communications network headquartered in San Jose, CA",Tymnet was an international data communications network.,1,393.15
+squad,123,1024,baai,False,Beginning how many years ago did the amazon rainforest extend 45 degrees south?,66–34 Mya,66 million years ago.,1,204.87
+squad,123,1024,baai,False,Dendritic cells present antigens to what cells of the adaptive nervous system?,T cells,T cells.,1,211.5
+squad,123,1024,baai,False,Why did OPEC raise the price of oil to $5.11?,In response to American aid to Israel,In response to American aid to Israel.,1,2290.01
+squad,123,1024,baai,False,Telnet was sold to ,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE,GTE.,1,2259.45
+squad,123,1024,baai,False,What produces the high levels of oxygen on Earth?,oxygen cycle,Photosynthesis.,1,2258.89
+squad,123,1024,baai,False,What grew on a global scale as a result of imperialism?,the world's economy,The world's economy grew significantly.,1,2382.82
+squad,123,1024,baai,False,How many protestants live in France today?,one million,Approximately one million Protestants.,1,2238.83
+squad,123,1024,baai,False,What did a greedy merchant do to the mermaid?,captured,He captured the mermaid.,1,2260.62
+squad,123,1024,baai,False,What does the bathocyroe and ocyropsis do to escape danger?,by clapping their lobes,They clap their lobes to create a jet of expelled water that drives them backwards quickly.,1,2285.27
+squad,123,1024,baai,False,"What month, every four years, are the ordinary general elections held on?",May,May.,1,2356.31
+squad,123,1024,baai,False,"At first, what did oxygen and iron combine to form?",banded iron formations,Banded iron formations.,1,2243.52
+squad,123,1024,baai,False,What region does use the term 'private schools' to refer to universities?,North America,North America.,1,2249.52
+squad,123,1024,baai,False,When was the first Sino-Japanese War?,1894,1894.,1,2446.14
+squad,123,1024,baai,False,How were Huguenot settlers assimilated into North American society at large?,married outside their immediate French communities,"The Huguenot settlers were assimilated into North American society through intermarriage with other communities, leading to the adoption of French first names and surnames by their descendants, and their integration into various Protestant denominations.",1,2343.67
+squad,123,1024,baai,False,What do clinical pharmacists often participate in?,patient care rounds drug product selection,Patient care rounds and drug product selection.,1,2247.52
+squad,123,1024,baai,False,What did Joseph Haas say in his email?,"""Wise up or die.""","""Wise up or die.""",1,2259.39
+squad,123,1024,baai,False,What implication can be derived for P and NP if P and co-NP are established to be unequal?,P is not equal to NP,"If P and co-NP are established to be unequal, then it can be derived that P is not equal to NP.",1,2366.29
+squad,123,1024,baai,False,What was the target percentage of households BSkyB wanted to reach?,36%,36% of households in the UK.,1,2261.82
+squad,123,1024,baai,False,What are some existing facilities?,"electrical, water, sewage, phone, and cable facilities","Electrical, water, sewage, phone, and cable facilities.",1,2251.96
+squad,123,1024,baai,False,What was believed to be the cause of devastation to the civilization?,diseases from Europe,"The spread of diseases from Europe, such as smallpox.",1,2288.73
+squad,123,1024,baai,False,When did France and the Dutch fight in the 17th century?,1672,1672.,1,2244.31
+squad,123,1024,baai,False,What city served as Poland's capital in 1313?,Kraków,Kraków.,1,2326.91
+squad,123,1024,baai,False,What Jacksonville community is known for having heavy ties to the Navy?,Filipino,The Filipino American community in Jacksonville.,1,2245.8
+squad,123,1024,baai,False,Which reason is given sometimes to plead not guilty involving these matters?,Guilt implies wrong-doing,Guilt implies wrong-doing. I feel I have done no wrong.,1,2359.46
+squad,123,1024,baai,False,"According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",reduces,X is no more difficult than Y.,1,2270.94
+squad,123,1024,baai,False,What did Tymnet connect ,"connect host computers (servers)at thousands of large companies, educational institutions, and government agencies","Host computers (servers) at thousands of large companies, educational institutions, and government agencies.",1,2269.97
+squad,123,1024,baai,False,What is the region called that is the largest conurbation of the Rhine?,Rhine-Ruhr,The Rhine-Ruhr region.,1,2269.78
+squad,123,1024,baai,False,When did Khan establish the Great Yuan?,1271,Kublai Khan established the Great Yuan in 1271.,1,2534.91
+squad,123,1024,baai,False,What happens when bathocyroe and ocyropsis clap their lobes together?,jet of expelled water drives them backwards very quickly.,They escape from danger by creating a jet of expelled water that drives them backwards very quickly.,1,2364.48
+squad,123,1024,baai,False,Where does heat rejection occur in the Rankine cycle?,in the condenser,In the condenser.,1,2278.81
+squad,123,1024,baai,False,What is the most snow Fresno has ever had?,2.2 inches,"2.2 inches (0.06 m) on January 21, 1962.",1,2318.69
+squad,123,1024,baai,False,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2258.41
+squad,123,1024,baai,False,Where did France focus its efforts to rebuild its empire?,Africa,"North and West Africa, as well as South-East Asia.",1,2259.88
+squad,123,1024,baai,False,What is the magnitude of force divided by when external force is added?,mass of the system,The mass of the system.,1,2248.69
+squad,123,1024,baai,False,Along what geographic feature are nine residential houses located?,Charles River,The Charles River.,1,2335.91
+squad,123,1024,baai,False,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2278.36
+squad,123,1024,baai,False,The Amazon region is home to how many species of insect?,2.5 million,About 2.5 million insect species.,1,2246.5
+squad,123,1024,baai,False,What would be needed to host a larger population?,agriculture,Agriculture.,1,2291.19
+squad,123,1024,baai,False,What law connects relative velocities with inertia?,Newton's First,Newton's First Law of Motion.,1,2329.07
+squad,123,1024,baai,False,Where is the Rhine Bridge?,Arnhem,The Rhine Bridge is at Arnhem.,1,2278.01
+squad,123,1024,baai,False,Health problems were lower in places with higher levels of what?,equality,Equality.,1,2249.47
+squad,123,1024,baai,False,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003.,1,2433.46
+squad,123,1024,baai,False,Who is eligible to toss their name in the hat to be First Minister?,Any member,Any member of Parliament.,1,2319.81
+squad,123,1024,baai,False,When are the new Sky Q products going to be available?,2016,2016.,1,2376.03
+squad,123,1024,baai,False,"As a person gets older, what does the skin produce less of?",vitamin D,Vitamin D.,1,2259.95
+squad,123,1024,baai,False,How much oxygen is found is a liter of fresh water under normal conditions?,6.04 milliliters,6.04 milliliters (mL) per liter.,1,2429.14
+squad,123,1024,baai,False,Who lead the school back to leading research institution in 2oth century?,James Bryant Conant,James Bryant Conant.,1,2351.06
+squad,123,1024,baai,False,What have the two different Islamist movements been described as oscillating between?,poles,"Two poles: a strategy of Islamization through state power, and gradual Islamization from the bottom up.",1,2398.29
+squad,123,1024,baai,False,By what process is singlet oxygen made in the tropophere?,photolysis of ozone,The photolysis of ozone by light of short wavelength.,1,2280.29
+squad,456,256,baai,True,What were the structures built by the Soviets typical of?,an Eastern Bloc city,Eastern Bloc cities.,1,659.92
+squad,456,256,baai,True,Packet Switching contrast with what other principal ,circuit switching,Circuit switching.,1,413.14
+squad,456,256,baai,True,What protestant religions made Northern European counties safe for Huguenot immigration?,Lutheran and Reformed,Lutheran and Reformed.,1,749.33
+squad,456,256,baai,True,Why did OPEC raise the price of oil to $5.11?,In response to American aid to Israel,In response to American aid to Israel.,1,2684.51
+squad,456,256,baai,True,BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?,quantum,Quantum Turing machines.,1,2438.32
+squad,456,256,baai,True,What was the civil war against Ragibagh also called?,the War of the Two Capitals,The War of the Two Capitals.,1,2786.83
+squad,456,256,baai,True,How were Huguenot settlers assimilated into North American society at large?,married outside their immediate French communities,They assimilated through marrying outside their immediate French communities and adopting the customs of the larger society.,1,2530.4
+squad,456,256,baai,True,What is the high end of the temperature range in winter?,70,70's.,1,2408.13
+squad,456,256,baai,True,What is the region called that is the largest conurbation of the Rhine?,Rhine-Ruhr,The Rhine-Ruhr region.,1,2610.87
+squad,456,256,baai,True,What region does use the term 'private schools' to refer to universities?,North America,North America.,1,2495.84
+squad,456,256,baai,True,What was the target percentage of households BSkyB wanted to reach?,36%,36% of households in the UK.,1,2703.65
+squad,456,256,baai,True,How are ergänzungsschulen funded?,tuition,Ergänzungsschulen are funded in whole by charging their students tuition fees.,1,2599.33
+squad,456,256,baai,True,What was Apple Talk ,a proprietary suite of networking protocols developed by Apple Inc. in 1985,A proprietary suite of networking protocols developed by Apple Inc. for Apple Macintosh computers.,1,2458.68
+squad,456,256,baai,True,"What alumni wrote ""The Closing of the American Mind""?",Allan Bloom,Allan Bloom.,1,2611.64
+squad,456,256,baai,True,Who demonstrated how to create a perfect number from a Mersenne prime?,Euclid,Euclid.,1,2625.22
+squad,456,256,baai,True,When are the new Sky Q products going to be available?,2016,2016.,1,2567.09
+squad,456,256,baai,True,How much oxygen is found is a liter of fresh water under normal conditions?,6.04 milliliters,6.04 mL per liter.,1,2756.26
+squad,456,256,baai,True,Where did Korea border Kublai's territory?,northeast,The northeast border.,1,2626.26
+squad,456,256,baai,True,What molecules of the adaptive immune system only exist in jawed vertebrates?,immunoglobulins and T cell receptors,Immunoglobulins and T cell receptors.,1,2756.23
+squad,456,256,baai,True,What does  oxygen therapy promote the body to take up?,gaseous oxygen.,gaseous oxygen.,1,2671.18
+squad,456,256,baai,True,What symbol was employed until early in the 20th century?,The show globe,The show globe.,1,2594.37
+squad,456,256,baai,True,What did Maududi believe Muslim society could not be Islamic in the absence of?,Sharia,Sharia.,1,2539.56
+squad,456,256,baai,True,What was used to create a new electromagnetic theory to reconcile the troubles with electromagnetic theory as it used to stand?,quantum mechanics,Quantum mechanics.,1,2510.3
+squad,456,256,baai,True,What group of people performed revolutionary civil disobedience toward the Austrian government?,Hungarians,The Hungarians under Ferenc Deák.,1,2699.29
+squad,456,256,baai,True,Along what geographic feature are nine residential houses located?,Charles River,The Charles River.,1,2672.99
+squad,456,256,baai,True,Which of the tributaries in Germany contributes most? ,Moselle,"The Neckar is not mentioned as the largest contributor, but it is mentioned as one of the main tributaries. However, the Neckar's contribution is not specified.",1,2738.36
+squad,456,256,baai,True,Where did France focus its efforts to rebuild its empire?,Africa,"North and West Africa, as well as South-East Asia.",1,2503.18
+squad,456,256,baai,True,In what form are most hospital medications?,"unit-dose, or a single dose of medicine",Unit-dose.,1,2596.05
+squad,456,256,baai,True,What grew on a global scale as a result of imperialism?,the world's economy,The world's economy grew significantly.,1,2621.15
+squad,456,256,baai,True,By what process is singlet oxygen made in the tropophere?,photolysis of ozone,The photolysis of ozone by light of short wavelength.,1,2606.95
+squad,456,256,baai,True,Where does the Rhine river's measurement begin?,Old Rhine Bridge at Constance,The Old Rhine Bridge at Constance.,1,2526.73
+squad,456,256,baai,True,A small fraction of the cold water flow from Lake Constance goes to what other lake?,Lake Überlingen,Lake Überlingen.,1,2716.58
+squad,456,256,baai,True,What suffered considerably for Warsaw when it had an Eastern Bloc economy?,infrastructure,Infrastructure in Warsaw suffered considerably.,1,2496.52
+squad,456,256,baai,True,What law connects relative velocities with inertia?,Newton's First,Newton's First Law.,1,2702.66
+squad,456,256,baai,True,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2653.5
+squad,456,256,baai,True,What city served as Poland's capital in 1313?,Kraków,Kraków.,1,2722.55
+squad,456,256,baai,True,The presence of who is highly likely even in small projects?,the mortgage banker,The mortgage banker.,1,2534.54
+squad,456,256,baai,True,Who challenged the plague theory first?,British bacteriologist J. F. D. Shrewsbury,J. F. D. Shrewsbury challenged the plague theory first in 1970.,1,2524.69
+squad,456,256,baai,True,Which nation contains the majority of the amazon forest?,Brazil,"Brazil contains the majority of the Amazon forest, with 60% of the Amazon basin.",0,2743.16
+squad,456,256,baai,True,What implication can be derived for P and NP if P and co-NP are established to be unequal?,P is not equal to NP,"If P and co-NP are established to be unequal, then it can be derived that NP is not equal to co-NP.",1,2455.15
+squad,456,256,baai,True,What produces the high levels of oxygen on Earth?,oxygen cycle,Photosynthesis.,1,2582.43
+squad,456,256,baai,True,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2659.5
+squad,456,256,baai,True,What garden was formally only for royalty?,The Saxon Garden,The Saxon Garden.,1,2849.25
+squad,456,256,baai,True,What is another term for university-preparatory schools?,prep schools,"""prep schools""",1,2553.46
+squad,456,256,baai,True,Which central European country had a Calvinist ruler?,Prussia,Prussia.,1,2586.95
+squad,456,256,baai,True,Which reason is given sometimes to plead not guilty involving these matters?,Guilt implies wrong-doing,Guilt implies wrong-doing. I feel I have done no wrong.,1,2724.12
+squad,456,256,baai,True,What is the Victoria state bird?,helmeted honeyeater,The helmeted honeyeater is the state bird of Victoria.,1,2666.76
+squad,456,256,baai,True,Telnet was sold to ,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE,GTE.,1,2476.06
+squad,456,256,baai,True,What have the two different Islamist movements been described as oscillating between?,poles,Two poles.,1,2596.36
+squad,456,256,baai,True,Which Spanish officer established the settlement at St. Augustine?,Pedro Menéndez de Avilés,Pedro Menéndez de Avilés.,1,2590.39
+squad,456,256,baai,False,What were the structures built by the Soviets typical of?,an Eastern Bloc city,Typical buildings of an Eastern Bloc city.,1,266.29
+squad,456,256,baai,False,Packet Switching contrast with what other principal ,circuit switching,Circuit switching.,1,212.77
+squad,456,256,baai,False,What protestant religions made Northern European counties safe for Huguenot immigration?,Lutheran and Reformed,Lutheran and Reformed.,1,233.91
+squad,456,256,baai,False,Why did OPEC raise the price of oil to $5.11?,In response to American aid to Israel,In response to American aid to Israel.,1,2304.61
+squad,456,256,baai,False,BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?,quantum,Quantum Turing machines.,1,2348.82
+squad,456,256,baai,False,What was the civil war against Ragibagh also called?,the War of the Two Capitals,The War of the Two Capitals.,1,2327.8
+squad,456,256,baai,False,How were Huguenot settlers assimilated into North American society at large?,married outside their immediate French communities,They assimilated through marrying outside their immediate French communities and adopting the customs of the larger society.,1,2285.12
+squad,456,256,baai,False,What is the high end of the temperature range in winter?,70,70's.,1,2350.41
+squad,456,256,baai,False,What is the region called that is the largest conurbation of the Rhine?,Rhine-Ruhr,The Rhine-Ruhr region.,1,2267.59
+squad,456,256,baai,False,What region does use the term 'private schools' to refer to universities?,North America,North America.,1,2266.58
+squad,456,256,baai,False,What was the target percentage of households BSkyB wanted to reach?,36%,36% of households in the UK.,1,2284.38
+squad,456,256,baai,False,How are ergänzungsschulen funded?,tuition,Ergänzungsschulen are funded in whole by charging their students tuition fees.,1,2368.9
+squad,456,256,baai,False,What was Apple Talk ,a proprietary suite of networking protocols developed by Apple Inc. in 1985,A proprietary suite of networking protocols developed by Apple Inc. for Apple Macintosh computers.,1,2267.31
+squad,456,256,baai,False,"What alumni wrote ""The Closing of the American Mind""?",Allan Bloom,Allan Bloom.,1,2415.49
+squad,456,256,baai,False,Who demonstrated how to create a perfect number from a Mersenne prime?,Euclid,Euclid.,1,2394.85
+squad,456,256,baai,False,When are the new Sky Q products going to be available?,2016,2016.,1,2273.16
+squad,456,256,baai,False,How much oxygen is found is a liter of fresh water under normal conditions?,6.04 milliliters,6.04 mL per liter.,1,2309.76
+squad,456,256,baai,False,Where did Korea border Kublai's territory?,northeast,The northeast border.,1,2292.56
+squad,456,256,baai,False,What molecules of the adaptive immune system only exist in jawed vertebrates?,immunoglobulins and T cell receptors,Immunoglobulins and T cell receptors.,1,2269.33
+squad,456,256,baai,False,What does  oxygen therapy promote the body to take up?,gaseous oxygen.,gaseous oxygen.,1,2272.71
+squad,456,256,baai,False,What symbol was employed until early in the 20th century?,The show globe,The show globe was also used until the early 20th century.,1,2282.12
+squad,456,256,baai,False,What did Maududi believe Muslim society could not be Islamic in the absence of?,Sharia,Sharia.,1,2268.3
+squad,456,256,baai,False,What was used to create a new electromagnetic theory to reconcile the troubles with electromagnetic theory as it used to stand?,quantum mechanics,Quantum mechanics.,1,2249.42
+squad,456,256,baai,False,What group of people performed revolutionary civil disobedience toward the Austrian government?,Hungarians,The Hungarians under Ferenc Deák.,1,2388.81
+squad,456,256,baai,False,Along what geographic feature are nine residential houses located?,Charles River,The Charles River.,1,2296.91
+squad,456,256,baai,False,Which of the tributaries in Germany contributes most? ,Moselle,"The context does not specify which tributary in Germany contributes the most. It mentions the Neckar, Main, and Moselle as tributaries, but does not provide information on their relative contributions.",1,2378.4
+squad,456,256,baai,False,Where did France focus its efforts to rebuild its empire?,Africa,"North and West Africa, as well as South-East Asia.",1,2372.65
+squad,456,256,baai,False,In what form are most hospital medications?,"unit-dose, or a single dose of medicine",Unit-dose.,1,2284.95
+squad,456,256,baai,False,What grew on a global scale as a result of imperialism?,the world's economy,The world's economy grew significantly.,1,2314.55
+squad,456,256,baai,False,By what process is singlet oxygen made in the tropophere?,photolysis of ozone,Photolysis of ozone by light of short wavelength.,1,2283.73
+squad,456,256,baai,False,Where does the Rhine river's measurement begin?,Old Rhine Bridge at Constance,The Old Rhine Bridge at Constance.,1,2266.77
+squad,456,256,baai,False,A small fraction of the cold water flow from Lake Constance goes to what other lake?,Lake Überlingen,Lake Überlingen.,1,2271.22
+squad,456,256,baai,False,What suffered considerably for Warsaw when it had an Eastern Bloc economy?,infrastructure,Infrastructure in Warsaw suffered considerably.,1,2249.04
+squad,456,256,baai,False,What law connects relative velocities with inertia?,Newton's First,Newton's First Law.,1,2303.65
+squad,456,256,baai,False,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2261.73
+squad,456,256,baai,False,What city served as Poland's capital in 1313?,Kraków,Kraków.,1,2422.07
+squad,456,256,baai,False,The presence of who is highly likely even in small projects?,the mortgage banker,The mortgage banker.,1,2263.75
+squad,456,256,baai,False,Who challenged the plague theory first?,British bacteriologist J. F. D. Shrewsbury,J. F. D. Shrewsbury in 1970.,1,2260.07
+squad,456,256,baai,False,Which nation contains the majority of the amazon forest?,Brazil,"Brazil, with 60% of the rainforest.",1,2555.34
+squad,456,256,baai,False,What implication can be derived for P and NP if P and co-NP are established to be unequal?,P is not equal to NP,"If P and co-NP are established to be unequal, then it can be derived that NP is not equal to co-NP.",1,2286.64
+squad,456,256,baai,False,What produces the high levels of oxygen on Earth?,oxygen cycle,Photosynthesis.,1,2241.47
+squad,456,256,baai,False,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2285.04
+squad,456,256,baai,False,What garden was formally only for royalty?,The Saxon Garden,The Saxon Garden.,1,2319.77
+squad,456,256,baai,False,What is another term for university-preparatory schools?,prep schools,"""prep schools""",1,2268.32
+squad,456,256,baai,False,Which central European country had a Calvinist ruler?,Prussia,Prussia.,1,2264.2
+squad,456,256,baai,False,Which reason is given sometimes to plead not guilty involving these matters?,Guilt implies wrong-doing,Guilt implies wrong-doing. I feel I have done no wrong.,1,2428.81
+squad,456,256,baai,False,What is the Victoria state bird?,helmeted honeyeater,The helmeted honeyeater is the state bird of Victoria.,1,2304.13
+squad,456,256,baai,False,Telnet was sold to ,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE,GTE.,1,2263.45
+squad,456,256,baai,False,What have the two different Islamist movements been described as oscillating between?,poles,Two poles.,1,2460.63
+squad,456,256,baai,False,Which Spanish officer established the settlement at St. Augustine?,Pedro Menéndez de Avilés,Pedro Menéndez de Avilés.,1,2308.98
+squad,456,512,baai,True,What were the structures built by the Soviets typical of?,an Eastern Bloc city,Typical of an Eastern Bloc city.,1,532.86
+squad,456,512,baai,True,Packet Switching contrast with what other principal ,circuit switching,Circuit switching.,1,428.31
+squad,456,512,baai,True,What protestant religions made Northern European counties safe for Huguenot immigration?,Lutheran and Reformed,Lutheran and Reformed states.,1,956.89
+squad,456,512,baai,True,Why did OPEC raise the price of oil to $5.11?,In response to American aid to Israel,In response to American aid to Israel.,1,2690.11
+squad,456,512,baai,True,BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?,quantum,Quantum Turing machines.,1,2380.5
+squad,456,512,baai,True,What was the civil war against Ragibagh also called?,the War of the Two Capitals,The War of the Two Capitals.,1,2810.89
+squad,456,512,baai,True,How were Huguenot settlers assimilated into North American society at large?,married outside their immediate French communities,They adapted quickly and often married outside their immediate French communities.,1,2626.83
+squad,456,512,baai,True,What is the high end of the temperature range in winter?,70,70.,1,2475.65
+squad,456,512,baai,True,What is the region called that is the largest conurbation of the Rhine?,Rhine-Ruhr,The Rhine-Ruhr region.,1,2552.72
+squad,456,512,baai,True,What region does use the term 'private schools' to refer to universities?,North America,North America.,1,2503.09
+squad,456,512,baai,True,What was the target percentage of households BSkyB wanted to reach?,36%,36% of households in the UK.,1,2538.87
+squad,456,512,baai,True,How are ergänzungsschulen funded?,tuition,Ergänzungsschulen are funded in whole by charging their students tuition fees.,1,2375.69
+squad,456,512,baai,True,What was Apple Talk ,a proprietary suite of networking protocols developed by Apple Inc. in 1985,A proprietary suite of networking protocols developed by Apple Inc. for Apple Macintosh computers.,1,2609.83
+squad,456,512,baai,True,"What alumni wrote ""The Closing of the American Mind""?",Allan Bloom,Allan Bloom.,1,2614.86
+squad,456,512,baai,True,Who demonstrated how to create a perfect number from a Mersenne prime?,Euclid,Euclid.,1,2571.84
+squad,456,512,baai,True,When are the new Sky Q products going to be available?,2016,The new Sky Q products are to be available in 2016.,1,2556.81
+squad,456,512,baai,True,How much oxygen is found is a liter of fresh water under normal conditions?,6.04 milliliters,6.04 milliliters (mL) per liter.,1,2631.45
+squad,456,512,baai,True,Where did Korea border Kublai's territory?,northeast,The northeast.,1,2592.54
+squad,456,512,baai,True,What molecules of the adaptive immune system only exist in jawed vertebrates?,immunoglobulins and T cell receptors,Immunoglobulins and T cell receptors.,1,2593.49
+squad,456,512,baai,True,What does  oxygen therapy promote the body to take up?,gaseous oxygen.,Gaseous oxygen.,1,2805.17
+squad,456,512,baai,True,What symbol was employed until early in the 20th century?,The show globe,The show globe was also used until the early 20th century.,1,2540.79
+squad,456,512,baai,True,What did Maududi believe Muslim society could not be Islamic in the absence of?,Sharia,Sharia.,1,2539.54
+squad,456,512,baai,True,What was used to create a new electromagnetic theory to reconcile the troubles with electromagnetic theory as it used to stand?,quantum mechanics,Quantum mechanics.,1,2524.75
+squad,456,512,baai,True,What group of people performed revolutionary civil disobedience toward the Austrian government?,Hungarians,The Hungarians under Ferenc Deák.,1,2938.21
+squad,456,512,baai,True,Along what geographic feature are nine residential houses located?,Charles River,The Charles River.,1,2792.59
+squad,456,512,baai,True,Which of the tributaries in Germany contributes most? ,Moselle,"The context does not specify which tributary in Germany contributes the most. It mentions the Neckar and the Main as tributaries, but does not provide information on their discharge rates.",1,2633.7
+squad,456,512,baai,True,Where did France focus its efforts to rebuild its empire?,Africa,"North and West Africa, as well as South-East Asia.",1,2523.15
+squad,456,512,baai,True,In what form are most hospital medications?,"unit-dose, or a single dose of medicine",Unit-dose.,1,2768.31
+squad,456,512,baai,True,What grew on a global scale as a result of imperialism?,the world's economy,The world's economy.,1,2631.1
+squad,456,512,baai,True,By what process is singlet oxygen made in the tropophere?,photolysis of ozone,The photolysis of ozone by light of short wavelength.,1,2801.21
+squad,456,512,baai,True,Where does the Rhine river's measurement begin?,Old Rhine Bridge at Constance,The Old Rhine Bridge at Constance.,1,2564.01
+squad,456,512,baai,True,A small fraction of the cold water flow from Lake Constance goes to what other lake?,Lake Überlingen,Lake Überlingen.,1,2600.0
+squad,456,512,baai,True,What suffered considerably for Warsaw when it had an Eastern Bloc economy?,infrastructure,Infrastructure in Warsaw suffered considerably.,1,2747.84
+squad,456,512,baai,True,What law connects relative velocities with inertia?,Newton's First,Newton's First Law of Motion.,1,2902.11
+squad,456,512,baai,True,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,437.27
+squad,456,512,baai,True,What city served as Poland's capital in 1313?,Kraków,Kraków.,1,2916.52
+squad,456,512,baai,True,The presence of who is highly likely even in small projects?,the mortgage banker,The mortgage banker.,1,2496.39
+squad,456,512,baai,True,Who challenged the plague theory first?,British bacteriologist J. F. D. Shrewsbury,J. F. D. Shrewsbury challenged the plague theory first in 1970.,1,2647.89
+squad,456,512,baai,True,Which nation contains the majority of the amazon forest?,Brazil,Brazil.,1,2781.99
+squad,456,512,baai,True,What implication can be derived for P and NP if P and co-NP are established to be unequal?,P is not equal to NP,"If P and co-NP are established to be unequal, then it can be derived that P is not equal to NP.",1,2371.24
+squad,456,512,baai,True,What produces the high levels of oxygen on Earth?,oxygen cycle,Photosynthesis.,1,2510.32
+squad,456,512,baai,True,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2702.08
+squad,456,512,baai,True,What garden was formally only for royalty?,The Saxon Garden,The Saxon Garden.,1,2925.24
+squad,456,512,baai,True,What is another term for university-preparatory schools?,prep schools,"""prep schools""",1,1032.92
+squad,456,512,baai,True,Which central European country had a Calvinist ruler?,Prussia,Prussia.,1,1096.0
+squad,456,512,baai,True,Which reason is given sometimes to plead not guilty involving these matters?,Guilt implies wrong-doing,A plea of no contest is sometimes regarded as a compromise between guilty and not guilty.,1,1703.1
+squad,456,512,baai,True,What is the Victoria state bird?,helmeted honeyeater,The helmeted honeyeater is the state bird of Victoria.,1,1227.38
+squad,456,512,baai,True,Telnet was sold to ,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE,GTE.,1,1082.71
+squad,456,512,baai,True,What have the two different Islamist movements been described as oscillating between?,poles,"Two poles: a strategy of Islamization through state power seized by revolution or invasion, and a ""reformist"" pole where Islamists work to Islamize society gradually ""from the bottom up"".",1,1242.67
+squad,456,512,baai,True,Which Spanish officer established the settlement at St. Augustine?,Pedro Menéndez de Avilés,Pedro Menéndez de Avilés.,1,1181.6
+squad,456,512,baai,False,What were the structures built by the Soviets typical of?,an Eastern Bloc city,Typical of an Eastern Bloc city.,1,459.08
+squad,456,512,baai,False,Packet Switching contrast with what other principal ,circuit switching,Circuit switching.,1,388.4
+squad,456,512,baai,False,What protestant religions made Northern European counties safe for Huguenot immigration?,Lutheran and Reformed,Lutheran and Reformed states.,1,548.99
+squad,456,512,baai,False,Why did OPEC raise the price of oil to $5.11?,In response to American aid to Israel,In response to American aid to Israel.,1,2627.55
+squad,456,512,baai,False,BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?,quantum,Quantum Turing machines.,1,2375.62
+squad,456,512,baai,False,What was the civil war against Ragibagh also called?,the War of the Two Capitals,The War of the Two Capitals.,1,2713.63
+squad,456,512,baai,False,How were Huguenot settlers assimilated into North American society at large?,married outside their immediate French communities,They adapted quickly and often married outside their immediate French communities.,1,2467.08
+squad,456,512,baai,False,What is the high end of the temperature range in winter?,70,70.,1,2386.31
+squad,456,512,baai,False,What is the region called that is the largest conurbation of the Rhine?,Rhine-Ruhr,The Rhine-Ruhr region.,1,2446.45
+squad,456,512,baai,False,What region does use the term 'private schools' to refer to universities?,North America,North America.,1,2446.71
+squad,456,512,baai,False,What was the target percentage of households BSkyB wanted to reach?,36%,36% of households in the UK.,1,2504.4
+squad,456,512,baai,False,How are ergänzungsschulen funded?,tuition,Ergänzungsschulen are funded in whole by charging their students tuition fees.,1,2501.2
+squad,456,512,baai,False,What was Apple Talk ,a proprietary suite of networking protocols developed by Apple Inc. in 1985,A proprietary suite of networking protocols developed by Apple Inc. for Apple Macintosh computers.,1,2459.35
+squad,456,512,baai,False,"What alumni wrote ""The Closing of the American Mind""?",Allan Bloom,Allan Bloom.,1,2386.24
+squad,456,512,baai,False,Who demonstrated how to create a perfect number from a Mersenne prime?,Euclid,Euclid.,1,2464.63
+squad,456,512,baai,False,When are the new Sky Q products going to be available?,2016,The new Sky Q products are to be available in 2016.,1,2471.77
+squad,456,512,baai,False,How much oxygen is found is a liter of fresh water under normal conditions?,6.04 milliliters,6.04 milliliters (mL) per liter.,1,2624.3
+squad,456,512,baai,False,Where did Korea border Kublai's territory?,northeast,The northeast border.,1,2487.38
+squad,456,512,baai,False,What molecules of the adaptive immune system only exist in jawed vertebrates?,immunoglobulins and T cell receptors,Immunoglobulins and T cell receptors.,1,2483.71
+squad,456,512,baai,False,What does  oxygen therapy promote the body to take up?,gaseous oxygen.,Gaseous oxygen.,1,2620.01
+squad,456,512,baai,False,What symbol was employed until early in the 20th century?,The show globe,The show globe was used until the early 20th century.,1,2647.73
+squad,456,512,baai,False,What did Maududi believe Muslim society could not be Islamic in the absence of?,Sharia,Sharia.,1,2473.04
+squad,456,512,baai,False,What was used to create a new electromagnetic theory to reconcile the troubles with electromagnetic theory as it used to stand?,quantum mechanics,Quantum mechanics.,1,2506.34
+squad,456,512,baai,False,What group of people performed revolutionary civil disobedience toward the Austrian government?,Hungarians,The Hungarians under Ferenc Deák.,1,2585.8
+squad,456,512,baai,False,Along what geographic feature are nine residential houses located?,Charles River,The Charles River.,1,2547.66
+squad,456,512,baai,False,Which of the tributaries in Germany contributes most? ,Moselle,"The context does not specify which tributary contributes the most. It only mentions the average discharge of the Moselle, which is over 300 m3/s.",1,2521.88
+squad,456,512,baai,False,Where did France focus its efforts to rebuild its empire?,Africa,"North and West Africa, as well as South-East Asia, and other regions including Central and East Africa, and the South Pacific.",1,2505.71
+squad,456,512,baai,False,In what form are most hospital medications?,"unit-dose, or a single dose of medicine",Unit-dose.,1,2474.92
+squad,456,512,baai,False,What grew on a global scale as a result of imperialism?,the world's economy,The world's economy.,1,2408.61
+squad,456,512,baai,False,By what process is singlet oxygen made in the tropophere?,photolysis of ozone,The photolysis of ozone by light of short wavelength.,1,2507.86
+squad,456,512,baai,False,Where does the Rhine river's measurement begin?,Old Rhine Bridge at Constance,The Old Rhine Bridge at Constance.,1,2497.5
+squad,456,512,baai,False,A small fraction of the cold water flow from Lake Constance goes to what other lake?,Lake Überlingen,Lake Überlingen.,1,2432.73
+squad,456,512,baai,False,What suffered considerably for Warsaw when it had an Eastern Bloc economy?,infrastructure,Infrastructure in Warsaw suffered considerably.,1,2439.95
+squad,456,512,baai,False,What law connects relative velocities with inertia?,Newton's First,Newton's First Law of Motion.,1,2700.02
+squad,456,512,baai,False,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2563.58
+squad,456,512,baai,False,What city served as Poland's capital in 1313?,Kraków,Kraków.,1,2368.92
+squad,456,512,baai,False,The presence of who is highly likely even in small projects?,the mortgage banker,The mortgage banker.,1,2300.11
+squad,456,512,baai,False,Who challenged the plague theory first?,British bacteriologist J. F. D. Shrewsbury,J. F. D. Shrewsbury challenged the plague theory first in 1970.,1,2408.03
+squad,456,512,baai,False,Which nation contains the majority of the amazon forest?,Brazil,Brazil.,1,2433.04
+squad,456,512,baai,False,What implication can be derived for P and NP if P and co-NP are established to be unequal?,P is not equal to NP,"If P and co-NP are established to be unequal, then it can be derived that P is not equal to NP.",1,2367.85
+squad,456,512,baai,False,What produces the high levels of oxygen on Earth?,oxygen cycle,Photosynthesis.,1,2577.01
+squad,456,512,baai,False,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2646.55
+squad,456,512,baai,False,What garden was formally only for royalty?,The Saxon Garden,The Saxon Garden.,1,2646.29
+squad,456,512,baai,False,What is another term for university-preparatory schools?,prep schools,"""prep schools""",1,2577.22
+squad,456,512,baai,False,Which central European country had a Calvinist ruler?,Prussia,Prussia.,1,2625.24
+squad,456,512,baai,False,Which reason is given sometimes to plead not guilty involving these matters?,Guilt implies wrong-doing,A plea of no contest is sometimes regarded as a compromise between pleading guilty and not guilty.,1,2650.04
+squad,456,512,baai,False,What is the Victoria state bird?,helmeted honeyeater,The helmeted honeyeater is the Victoria state bird.,1,2490.01
+squad,456,512,baai,False,Telnet was sold to ,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE,GTE.,1,2779.69
+squad,456,512,baai,False,What have the two different Islamist movements been described as oscillating between?,poles,"Two poles: a strategy of Islamization through state power seized by revolution or invasion, and a ""reformist"" pole where Islamists work to Islamize society gradually ""from the bottom up"".",1,2520.96
+squad,456,512,baai,False,Which Spanish officer established the settlement at St. Augustine?,Pedro Menéndez de Avilés,Pedro Menéndez de Avilés.,1,2429.06
+squad,456,1024,baai,True,What were the structures built by the Soviets typical of?,an Eastern Bloc city,Eastern Bloc city.,1,869.02
+squad,456,1024,baai,True,Packet Switching contrast with what other principal ,circuit switching,Circuit switching.,1,806.71
+squad,456,1024,baai,True,What protestant religions made Northern European counties safe for Huguenot immigration?,Lutheran and Reformed,Lutheran and Reformed states.,1,1920.19
+squad,456,1024,baai,True,Why did OPEC raise the price of oil to $5.11?,In response to American aid to Israel,In response to American aid to Israel.,1,1151.38
+squad,456,1024,baai,True,BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?,quantum,Quantum Turing machines.,1,638.39
+squad,456,1024,baai,True,What was the civil war against Ragibagh also called?,the War of the Two Capitals,The War of the Two Capitals.,1,2015.89
+squad,456,1024,baai,True,How were Huguenot settlers assimilated into North American society at large?,married outside their immediate French communities,"The Huguenot settlers were assimilated into North American society through intermarriage with other communities, leading to the adoption of French first names and surnames by their descendants, and their integration into various Protestant denominations.",1,831.6
+squad,456,1024,baai,True,What is the high end of the temperature range in winter?,70,70.,1,2717.77
+squad,456,1024,baai,True,What is the region called that is the largest conurbation of the Rhine?,Rhine-Ruhr,The Rhine-Ruhr region.,1,3138.82
+squad,456,1024,baai,True,What region does use the term 'private schools' to refer to universities?,North America,North America.,1,716.17
+squad,456,1024,baai,True,What was the target percentage of households BSkyB wanted to reach?,36%,36% of households in the UK.,1,2828.1
+squad,456,1024,baai,True,How are ergänzungsschulen funded?,tuition,Ergänzungsschulen are funded in whole by charging their students tuition fees.,1,2715.57
+squad,456,1024,baai,True,What was Apple Talk ,a proprietary suite of networking protocols developed by Apple Inc. in 1985,A proprietary suite of networking protocols developed by Apple Inc. for Apple Macintosh computers.,1,2832.64
+squad,456,1024,baai,True,"What alumni wrote ""The Closing of the American Mind""?",Allan Bloom,Allan Bloom.,1,2834.45
+squad,456,1024,baai,True,Who demonstrated how to create a perfect number from a Mersenne prime?,Euclid,Euclid.,1,2968.62
+squad,456,1024,baai,True,When are the new Sky Q products going to be available?,2016,2016.,1,2911.17
+squad,456,1024,baai,True,How much oxygen is found is a liter of fresh water under normal conditions?,6.04 milliliters,6.04 milliliters (mL) per liter.,1,3001.13
+squad,456,1024,baai,True,Where did Korea border Kublai's territory?,northeast,The northeast border.,1,1015.82
+squad,456,1024,baai,True,What molecules of the adaptive immune system only exist in jawed vertebrates?,immunoglobulins and T cell receptors,Immunoglobulins and T cell receptors.,1,909.55
+squad,456,1024,baai,True,What does  oxygen therapy promote the body to take up?,gaseous oxygen.,Gaseous oxygen.,1,2811.66
+squad,456,1024,baai,True,What symbol was employed until early in the 20th century?,The show globe,The show globe was used until the early 20th century.,1,2954.94
+squad,456,1024,baai,True,What did Maududi believe Muslim society could not be Islamic in the absence of?,Sharia,Sharia.,1,2815.73
+squad,456,1024,baai,True,What was used to create a new electromagnetic theory to reconcile the troubles with electromagnetic theory as it used to stand?,quantum mechanics,Quantum mechanics.,1,3064.65
+squad,456,1024,baai,True,What group of people performed revolutionary civil disobedience toward the Austrian government?,Hungarians,The Hungarians under Ferenc Deák.,1,1759.37
+squad,456,1024,baai,True,Along what geographic feature are nine residential houses located?,Charles River,The Charles River.,1,1661.34
+squad,456,1024,baai,True,Which of the tributaries in Germany contributes most? ,Moselle,"The Neckar is not mentioned as the largest contributor, but it is mentioned as one of the main tributaries.",1,2937.37
+squad,456,1024,baai,True,Where did France focus its efforts to rebuild its empire?,Africa,"North and West Africa, as well as South-East Asia.",1,2861.02
+squad,456,1024,baai,True,In what form are most hospital medications?,"unit-dose, or a single dose of medicine",Unit-dose.,1,3017.03
+squad,456,1024,baai,True,What grew on a global scale as a result of imperialism?,the world's economy,The world's economy grew significantly.,1,1044.72
+squad,456,1024,baai,True,By what process is singlet oxygen made in the tropophere?,photolysis of ozone,The photolysis of ozone by light of short wavelength.,1,2916.25
+squad,456,1024,baai,True,Where does the Rhine river's measurement begin?,Old Rhine Bridge at Constance,The Old Rhine Bridge at Constance.,1,828.01
+squad,456,1024,baai,True,A small fraction of the cold water flow from Lake Constance goes to what other lake?,Lake Überlingen,Lake Überlingen.,1,2525.31
+squad,456,1024,baai,True,What suffered considerably for Warsaw when it had an Eastern Bloc economy?,infrastructure,Infrastructure in Warsaw suffered considerably.,1,2532.35
+squad,456,1024,baai,True,What law connects relative velocities with inertia?,Newton's First,Newton's First Law of Motion.,1,1654.16
+squad,456,1024,baai,True,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2892.15
+squad,456,1024,baai,True,What city served as Poland's capital in 1313?,Kraków,Kraków.,1,1634.98
+squad,456,1024,baai,True,The presence of who is highly likely even in small projects?,the mortgage banker,The mortgage banker.,1,2925.62
+squad,456,1024,baai,True,Who challenged the plague theory first?,British bacteriologist J. F. D. Shrewsbury,J. F. D. Shrewsbury in 1970.,1,2876.38
+squad,456,1024,baai,True,Which nation contains the majority of the amazon forest?,Brazil,Brazil.,1,1815.11
+squad,456,1024,baai,True,What implication can be derived for P and NP if P and co-NP are established to be unequal?,P is not equal to NP,"If P and co-NP are established to be unequal, then it can be derived that P is not equal to NP.",1,2705.78
+squad,456,1024,baai,True,What produces the high levels of oxygen on Earth?,oxygen cycle,Photosynthesis.,1,2827.39
+squad,456,1024,baai,True,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,1130.02
+squad,456,1024,baai,True,What garden was formally only for royalty?,The Saxon Garden,The Saxon Garden.,1,1804.72
+squad,456,1024,baai,True,What is another term for university-preparatory schools?,prep schools,"""prep schools""",1,2963.43
+squad,456,1024,baai,True,Which central European country had a Calvinist ruler?,Prussia,Prussia.,1,2921.89
+squad,456,1024,baai,True,Which reason is given sometimes to plead not guilty involving these matters?,Guilt implies wrong-doing,Guilt implies wrong-doing. I feel I have done no wrong.,1,1877.37
+squad,456,1024,baai,True,What is the Victoria state bird?,helmeted honeyeater,The helmeted honeyeater is the Victoria state bird.,1,1056.3
+squad,456,1024,baai,True,Telnet was sold to ,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE,GTE.,1,2882.02
+squad,456,1024,baai,True,What have the two different Islamist movements been described as oscillating between?,poles,"Two poles: a strategy of Islamization through state power, and gradual Islamization from the bottom up.",1,3021.51
+squad,456,1024,baai,True,Which Spanish officer established the settlement at St. Augustine?,Pedro Menéndez de Avilés,Pedro Menéndez de Avilés.,1,3015.94
+squad,456,1024,baai,False,What were the structures built by the Soviets typical of?,an Eastern Bloc city,Eastern Bloc city.,1,455.68
+squad,456,1024,baai,False,Packet Switching contrast with what other principal ,circuit switching,Circuit switching.,1,433.69
+squad,456,1024,baai,False,What protestant religions made Northern European counties safe for Huguenot immigration?,Lutheran and Reformed,Lutheran and Reformed states.,1,621.38
+squad,456,1024,baai,False,Why did OPEC raise the price of oil to $5.11?,In response to American aid to Israel,In response to American aid to Israel.,1,449.34
+squad,456,1024,baai,False,BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?,quantum,Quantum Turing machines.,1,2529.87
+squad,456,1024,baai,False,What was the civil war against Ragibagh also called?,the War of the Two Capitals,The War of the Two Capitals.,1,2697.06
+squad,456,1024,baai,False,How were Huguenot settlers assimilated into North American society at large?,married outside their immediate French communities,"The Huguenot settlers were assimilated into North American society through intermarriage with other communities, leading to the adoption of French first names and surnames by their descendants, and their integration into various Protestant denominations.",1,2499.87
+squad,456,1024,baai,False,What is the high end of the temperature range in winter?,70,70.,1,2391.63
+squad,456,1024,baai,False,What is the region called that is the largest conurbation of the Rhine?,Rhine-Ruhr,The Rhine-Ruhr region.,1,2427.05
+squad,456,1024,baai,False,What region does use the term 'private schools' to refer to universities?,North America,North America.,1,2410.04
+squad,456,1024,baai,False,What was the target percentage of households BSkyB wanted to reach?,36%,36% of households in the UK.,1,2438.1
+squad,456,1024,baai,False,How are ergänzungsschulen funded?,tuition,Ergänzungsschulen are funded in whole by charging their students tuition fees.,1,2412.04
+squad,456,1024,baai,False,What was Apple Talk ,a proprietary suite of networking protocols developed by Apple Inc. in 1985,A proprietary suite of networking protocols developed by Apple Inc. for Apple Macintosh computers.,1,2395.86
+squad,456,1024,baai,False,"What alumni wrote ""The Closing of the American Mind""?",Allan Bloom,Allan Bloom.,1,2251.81
+squad,456,1024,baai,False,Who demonstrated how to create a perfect number from a Mersenne prime?,Euclid,Euclid.,1,2405.67
+squad,456,1024,baai,False,When are the new Sky Q products going to be available?,2016,2016.,1,2433.95
+squad,456,1024,baai,False,How much oxygen is found is a liter of fresh water under normal conditions?,6.04 milliliters,6.04 milliliters (mL) per liter.,1,2465.09
+squad,456,1024,baai,False,Where did Korea border Kublai's territory?,northeast,The northeast border.,1,2460.85
+squad,456,1024,baai,False,What molecules of the adaptive immune system only exist in jawed vertebrates?,immunoglobulins and T cell receptors,Immunoglobulins and T cell receptors.,1,2456.05
+squad,456,1024,baai,False,What does  oxygen therapy promote the body to take up?,gaseous oxygen.,Gaseous oxygen.,1,2394.9
+squad,456,1024,baai,False,What symbol was employed until early in the 20th century?,The show globe,The show globe was used until the early 20th century.,1,2462.09
+squad,456,1024,baai,False,What did Maududi believe Muslim society could not be Islamic in the absence of?,Sharia,Sharia.,1,2411.54
+squad,456,1024,baai,False,What was used to create a new electromagnetic theory to reconcile the troubles with electromagnetic theory as it used to stand?,quantum mechanics,Quantum mechanics.,1,2409.78
+squad,456,1024,baai,False,What group of people performed revolutionary civil disobedience toward the Austrian government?,Hungarians,The Hungarians under Ferenc Deák.,1,2751.31
+squad,456,1024,baai,False,Along what geographic feature are nine residential houses located?,Charles River,The Charles River.,1,2575.09
+squad,456,1024,baai,False,Which of the tributaries in Germany contributes most? ,Moselle,"The Neckar is not mentioned as the largest contributor, but it is mentioned as one of the main tributaries.",1,2459.26
+squad,456,1024,baai,False,Where did France focus its efforts to rebuild its empire?,Africa,"North and West Africa, as well as South-East Asia.",1,2457.86
+squad,456,1024,baai,False,In what form are most hospital medications?,"unit-dose, or a single dose of medicine",Unit-dose.,1,2458.7
+squad,456,1024,baai,False,What grew on a global scale as a result of imperialism?,the world's economy,The world's economy grew significantly.,1,2461.35
+squad,456,1024,baai,False,By what process is singlet oxygen made in the tropophere?,photolysis of ozone,The photolysis of ozone by light of short wavelength.,1,2438.1
+squad,456,1024,baai,False,Where does the Rhine river's measurement begin?,Old Rhine Bridge at Constance,The Old Rhine Bridge at Constance.,1,2530.55
+squad,456,1024,baai,False,A small fraction of the cold water flow from Lake Constance goes to what other lake?,Lake Überlingen,Lake Überlingen.,1,2449.22
+squad,456,1024,baai,False,What suffered considerably for Warsaw when it had an Eastern Bloc economy?,infrastructure,Infrastructure in Warsaw suffered considerably.,1,2412.41
+squad,456,1024,baai,False,What law connects relative velocities with inertia?,Newton's First,Newton's First Law of Motion.,1,2744.58
+squad,456,1024,baai,False,The Maroons compete in what league division?,NCAA's Division III,Division III.,1,2422.01
+squad,456,1024,baai,False,What city served as Poland's capital in 1313?,Kraków,Kraków.,1,2610.59
+squad,456,1024,baai,False,The presence of who is highly likely even in small projects?,the mortgage banker,The mortgage banker.,1,2401.45
+squad,456,1024,baai,False,Who challenged the plague theory first?,British bacteriologist J. F. D. Shrewsbury,J. F. D. Shrewsbury in 1970.,1,2424.92
+squad,456,1024,baai,False,Which nation contains the majority of the amazon forest?,Brazil,Brazil.,1,2640.1
+squad,456,1024,baai,False,What implication can be derived for P and NP if P and co-NP are established to be unequal?,P is not equal to NP,"If P and co-NP are established to be unequal, then it can be derived that P is not equal to NP.",1,2397.16
+squad,456,1024,baai,False,What produces the high levels of oxygen on Earth?,oxygen cycle,Photosynthesis.,1,2399.3
+squad,456,1024,baai,False,What are the skin cells that can be transformed into tumors known as?,melanocytes,Melanocytes.,1,2466.23
+squad,456,1024,baai,False,What garden was formally only for royalty?,The Saxon Garden,The Saxon Garden.,1,2735.54
+squad,456,1024,baai,False,What is another term for university-preparatory schools?,prep schools,"""prep schools""",1,2554.21
+squad,456,1024,baai,False,Which central European country had a Calvinist ruler?,Prussia,Prussia.,1,2411.37
+squad,456,1024,baai,False,Which reason is given sometimes to plead not guilty involving these matters?,Guilt implies wrong-doing,Guilt implies wrong-doing. I feel I have done no wrong.,1,2865.9
+squad,456,1024,baai,False,What is the Victoria state bird?,helmeted honeyeater,The helmeted honeyeater is the Victoria state bird.,1,2628.03
+squad,456,1024,baai,False,Telnet was sold to ,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE,GTE.,1,2447.64
+squad,456,1024,baai,False,What have the two different Islamist movements been described as oscillating between?,poles,"Two poles: a strategy of Islamization through state power, and gradual Islamization from the bottom up.",1,2481.55
+squad,456,1024,baai,False,Which Spanish officer established the settlement at St. Augustine?,Pedro Menéndez de Avilés,Pedro Menéndez de Avilés.,1,2449.35
