@@ -1,0 +1,14 @@
+
+DECISION FLOWCHART:
+==================
+Is this a multi-hop question (requires reasoning across multiple facts)?
+├── YES → Reranking significant on HotpotQA: False
+│         Reranking effect not statistically significant at this sample size.
+└── NO (single-hop/factoid) →
+    Reranking significant on SQuAD: False
+    Skip reranking -- no significant quality gain, saves latency.
+
+(Exact numbers -- mean F1/Hit@k with and without reranking, per dataset --
+are in results/main_effects_table.csv. Fill this rule in with the real
+numbers before pasting into the paper; this is a template, not a
+substitute for reading the table.)

@@ -1,0 +1,13 @@
+dataset,chunk_size,embedding,reranking,hit_at_k_mean,hit_at_k_std,f1_mean,f1_std,latency_mean,latency_std,n
+HotpotQA (Multi-hop),256,baai,False,0.38,0.487,0.331,0.41,1186.495,455.447,150
+HotpotQA (Multi-hop),256,baai,True,0.4,0.492,0.355,0.424,2096.414,733.515,150
+HotpotQA (Multi-hop),512,baai,False,0.544,0.5,0.389,0.434,3592.123,11090.722,147
+HotpotQA (Multi-hop),512,baai,True,0.52,0.501,0.4,0.431,3768.474,3021.66,150
+HotpotQA (Multi-hop),1024,baai,False,0.56,0.498,0.43,0.45,6163.674,1405.793,150
+HotpotQA (Multi-hop),1024,baai,True,0.54,0.5,0.389,0.44,7279.725,13671.582,150
+SQuAD v2 (Single-hop),256,baai,False,0.987,0.115,0.726,0.319,2254.865,515.204,150
+SQuAD v2 (Single-hop),256,baai,True,0.967,0.18,0.726,0.328,1852.407,922.075,150
+SQuAD v2 (Single-hop),512,baai,False,1.0,0.0,0.714,0.339,2350.012,506.047,150
+SQuAD v2 (Single-hop),512,baai,True,1.0,0.0,0.722,0.337,2155.805,754.175,150
+SQuAD v2 (Single-hop),1024,baai,False,1.0,0.0,0.733,0.326,2297.669,521.679,150
+SQuAD v2 (Single-hop),1024,baai,True,1.0,0.0,0.733,0.326,2178.325,804.256,150
