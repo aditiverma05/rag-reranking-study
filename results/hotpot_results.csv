@@ -1,0 +1,900 @@
+dataset,seed,chunk_size,embedding,reranking,question,gold_answer,generated_answer,hit_at_k,latency_ms
+hotpot,42,256,baai,True,Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?,Fiat Chrysler Automobiles N.V.,Chrysler Corporation.,0,1606.6
+hotpot,42,256,baai,True,What class of instrument does Apatim Majumdar play?,strings,Sarod.,0,1173.75
+hotpot,42,256,baai,True,To where did the war criminal who is the fictional defendant in the film After the Truth flee in real life ?,South America,South America.,1,1335.19
+hotpot,42,256,baai,True,"The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",evangelical Christian,Wesleyan.,0,1354.59
+hotpot,42,256,baai,True,"Johnny Mathis: Wonderful Wonderful aired at what luxury hotel, casino and spa resort located in Atlantic City, New Jersey?",Tropicana Casino & Resort,Tropicana Hotel.,0,1230.47
+hotpot,42,256,baai,True,"In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?","""Kitty Hawk""",Columbia.,0,1290.94
+hotpot,42,256,baai,True,What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?,Revengers Tragedy,Revengers Tragedy.,1,1310.29
+hotpot,42,256,baai,True,Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?,Sam Phillips,Hustle & Flow,0,1285.23
+hotpot,42,256,baai,True,What American indie rock group first had Jesse Sandoval as the drummer and now has Jon Sortland on drums?,The Shins,The Shins.,1,1242.41
+hotpot,42,256,baai,True,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Wirth and Höss.,1,1189.83
+hotpot,42,256,baai,True,UFO Magazine covers what subject named for Charles Hoy Fort?,Fortean,UFO phenomena.,1,1224.75
+hotpot,42,256,baai,True,"Which ""Roseanne"" star is in Scream 2?",Laurie Metcalf,Laurie Metcalf.,0,1207.61
+hotpot,42,256,baai,True,12 Years a Slave starred what British actor born 10 July 1977),Chiwetel Ejiofor,Chiwetel Ejiofor,1,1219.88
+hotpot,42,256,baai,True,Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?,The Changing Scottish Landscape,No information.,0,1318.85
+hotpot,42,256,baai,True," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,The Many Adventures.,0,1221.64
+hotpot,42,256,baai,True,"What Cantonese slang term can mean both ""ghost man"" and to refer to Westerners?",Gweilo,Gweilo,1,1216.76
+hotpot,42,256,baai,True,"Which king of Northumbria did The ""Historia"" gives the abbot central place in his election as king",Guthred or Guthfrith,Guthred.,1,1263.3
+hotpot,42,256,baai,True,What 3 countries are part of the legal name of the airline that merged with Braathens in 2004?,Denmark–Norway–Sweden,Norway Sweden Denmark,0,1404.72
+hotpot,42,256,baai,True,The Distribution of Industry act was passed by a man who was prime minister when? ,1945 to 1951,1937,0,1193.97
+hotpot,42,256,baai,True,The Dogwoman telemovies were created by an actress born in what year?,1961,Magda Szubanski.,0,1118.2
+hotpot,42,256,baai,True,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,1209.05
+hotpot,42,256,baai,True,What NIFL Premier Intermediate League team did Sean Connor play for?,Distillery,Newington Youth.,0,1258.49
+hotpot,42,256,baai,True,"Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",Tim Cluess,Tim Cluess.,1,1292.03
+hotpot,42,256,baai,True,The first female correspondent for Inside the NFL was replaced by who on the show American Ninja Warrior?,Kristine Leahy,Angela Sun.,0,1199.83
+hotpot,42,256,baai,True,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,House of Fraser.,0,1206.46
+hotpot,42,256,baai,True,"Which film does ""Naked Weapon"" follow in the ""Naked"" series?","""Naked Killer""",Lethal Weapon 4.,0,1247.98
+hotpot,42,256,baai,True,"What type of license is the open source roguelike video game video released 2012, in which a subset of it's pricing model is a called free-to-play, licensed under?",GNU GPLv3,Open Source License.,0,1294.35
+hotpot,42,256,baai,True,In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?,1945,Not provided.,0,1187.11
+hotpot,42,256,baai,True,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,No information available.,1,1178.3
+hotpot,42,256,baai,True,What was the 2010 population of the town where Black Crescent Mountain was located? ,310,Not directly stated.,0,1282.98
+hotpot,42,256,baai,True,What where both Hawker Hurricane and No. 1455 Flight apart of?,Royal Air Force,Royal Air Force.,1,1180.99
+hotpot,42,256,baai,True,What is the population of the city that Munsonville is in the northwest corner of?,729 at the 2010 census,Not provided.,0,1192.62
+hotpot,42,256,baai,True,Josh Trank and Mike Valerio both work in what industry?,entertainment,Film industry.,0,1103.65
+hotpot,42,256,baai,True,"Who released the song ""With or Without You"" first, Jai McDowall or U2?",U2,U2.,1,1193.34
+hotpot,42,256,baai,True,Which Victorian poet was born in a 15th-century castle home to the Earl of Southesk?,Charlotte Carnegie,Lady Charlotte Elliot.,1,1316.32
+hotpot,42,256,baai,True,Which award David Hersey had got for Equus a play by Peter Shaffer ?,Outstanding Lighting Design,No information.,0,1283.17
+hotpot,42,256,baai,True,Were Halldór Laxness and Timothy Leary from the same country?,no,"No, different countries.",1,1220.52
+hotpot,42,256,baai,True,During what war were the Russia-United Kingdom relations in a state of rivalry after the abdication of Emperor Nicholas II? ,the Cold War (1947–91),Crimean War.,0,1282.39
+hotpot,42,256,baai,True,"Between Greyia and Calibanus, which genus contains more species?",Greyia,No information.,0,1355.08
+hotpot,42,256,baai,True,Which comic series involves characters such as Nick Fury and Baron von Strucker?,Marvel,"Nick Fury, Agent of S.H.I.E.L.D.",1,1376.72
+hotpot,42,256,baai,True,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia","Steak, fish, vegetables.",0,1189.13
+hotpot,42,256,baai,True,A Wind in the Door is part of a series written by who?,Madeleine L'Engle,Madeleine L'Engle.,1,1222.33
+hotpot,42,256,baai,True,The Airport located next to the A13 handled how many passengers in 2016 ?,1.6 million passengers,"847,257",0,1223.56
+hotpot,42,256,baai,True,A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?,Francis McPeake,The Braes o' Bowhether.,1,1265.01
+hotpot,42,256,baai,True,The facility where Robert Croft worked as a navy instructor was also known as?,"""Home of the Submarine Force""",Naval Submarine Base,1,1139.61
+hotpot,42,256,baai,True,Olivia DeJonge starred in an American horror film directed by Shyamalan called what,The Visit,The Visit.,1,1173.73
+hotpot,42,256,baai,True,Who fills in occasionally for the meteorologist who replaced  Ginger Zee ?,Kait Parker,Rob Marciano.,0,1277.95
+hotpot,42,256,baai,True,At what height does State Route 160 start?,4145 ft,Top of Black Mountain.,0,1127.95
+hotpot,42,256,baai,True,"Which plant, the Chaerophyllum or the Cryptanthus, can be found in various places across the world?",Chaerophyllum,Chaerophyllum.,1,1244.99
+hotpot,42,256,baai,True,Mía Maestro had a role in the 2002 biopic directed by whom?,Julie Taymor,Julie Taymor.,0,1178.21
+hotpot,42,256,baai,False,Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?,Fiat Chrysler Automobiles N.V.,Chrysler Corporation.,0,628.93
+hotpot,42,256,baai,False,What class of instrument does Apatim Majumdar play?,strings,Sarod,1,598.26
+hotpot,42,256,baai,False,To where did the war criminal who is the fictional defendant in the film After the Truth flee in real life ?,South America,United States.,0,738.14
+hotpot,42,256,baai,False,"The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",evangelical Christian,Methodist.,0,711.57
+hotpot,42,256,baai,False,"Johnny Mathis: Wonderful Wonderful aired at what luxury hotel, casino and spa resort located in Atlantic City, New Jersey?",Tropicana Casino & Resort,Tropicana Hotel.,0,556.43
+hotpot,42,256,baai,False,"In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?","""Kitty Hawk""",No specific information.,0,544.91
+hotpot,42,256,baai,False,What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?,Revengers Tragedy,Revengers Tragedy.,1,594.08
+hotpot,42,256,baai,False,Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?,Sam Phillips,Hustle & Flow,0,616.03
+hotpot,42,256,baai,False,What American indie rock group first had Jesse Sandoval as the drummer and now has Jon Sortland on drums?,The Shins,The Shins.,1,559.09
+hotpot,42,256,baai,False,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Degesch and Höss.,1,573.42
+hotpot,42,256,baai,False,UFO Magazine covers what subject named for Charles Hoy Fort?,Fortean,UFOs and paranormal.,1,556.47
+hotpot,42,256,baai,False,"Which ""Roseanne"" star is in Scream 2?",Laurie Metcalf,Rose McGowan,0,613.55
+hotpot,42,256,baai,False,12 Years a Slave starred what British actor born 10 July 1977),Chiwetel Ejiofor,Chiwetel Ejiofor,1,733.25
+hotpot,42,256,baai,False,Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?,The Changing Scottish Landscape,No information.,0,587.76
+hotpot,42,256,baai,False," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,Ride a Wild Pony.,0,574.27
+hotpot,42,256,baai,False,"What Cantonese slang term can mean both ""ghost man"" and to refer to Westerners?",Gweilo,Gweilo,1,577.66
+hotpot,42,256,baai,False,"Which king of Northumbria did The ""Historia"" gives the abbot central place in his election as king",Guthred or Guthfrith,Guthred.,1,816.01
+hotpot,42,256,baai,False,What 3 countries are part of the legal name of the airline that merged with Braathens in 2004?,Denmark–Norway–Sweden,"Norway, Sweden, Denmark.",0,881.0
+hotpot,42,256,baai,False,The Distribution of Industry act was passed by a man who was prime minister when? ,1945 to 1951,1937,0,490.67
+hotpot,42,256,baai,False,The Dogwoman telemovies were created by an actress born in what year?,1961,1952,0,702.84
+hotpot,42,256,baai,False,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,585.99
+hotpot,42,256,baai,False,What NIFL Premier Intermediate League team did Sean Connor play for?,Distillery,Football Club.,0,579.31
+hotpot,42,256,baai,False,"Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",Tim Cluess,Steve Prohm.,1,549.02
+hotpot,42,256,baai,False,The first female correspondent for Inside the NFL was replaced by who on the show American Ninja Warrior?,Kristine Leahy,Alison Haislip.,0,552.54
+hotpot,42,256,baai,False,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,House of Fraser.,1,566.85
+hotpot,42,256,baai,False,"Which film does ""Naked Weapon"" follow in the ""Naked"" series?","""Naked Killer""",American Pie.,0,578.84
+hotpot,42,256,baai,False,"What type of license is the open source roguelike video game video released 2012, in which a subset of it's pricing model is a called free-to-play, licensed under?",GNU GPLv3,Open Source License.,0,598.01
+hotpot,42,256,baai,False,In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?,1945,Steve Spurrier.,0,1622.91
+hotpot,42,256,baai,False,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,No information available.,1,2619.3
+hotpot,42,256,baai,False,What was the 2010 population of the town where Black Crescent Mountain was located? ,310,Not directly stated.,0,1660.02
+hotpot,42,256,baai,False,What where both Hawker Hurricane and No. 1455 Flight apart of?,Royal Air Force,Royal Air Force.,1,1610.58
+hotpot,42,256,baai,False,What is the population of the city that Munsonville is in the northwest corner of?,729 at the 2010 census,No information.,0,1618.18
+hotpot,42,256,baai,False,Josh Trank and Mike Valerio both work in what industry?,entertainment,Film industry.,0,1610.41
+hotpot,42,256,baai,False,"Who released the song ""With or Without You"" first, Jai McDowall or U2?",U2,U2 released it.,1,2784.18
+hotpot,42,256,baai,False,Which Victorian poet was born in a 15th-century castle home to the Earl of Southesk?,Charlotte Carnegie,Lady Charlotte Elliot.,1,1682.48
+hotpot,42,256,baai,False,Which award David Hersey had got for Equus a play by Peter Shaffer ?,Outstanding Lighting Design,No information available.,0,2680.1
+hotpot,42,256,baai,False,Were Halldór Laxness and Timothy Leary from the same country?,no,"No, different countries.",1,1672.42
+hotpot,42,256,baai,False,During what war were the Russia-United Kingdom relations in a state of rivalry after the abdication of Emperor Nicholas II? ,the Cold War (1947–91),World War I.,0,684.48
+hotpot,42,256,baai,False,"Between Greyia and Calibanus, which genus contains more species?",Greyia,No information.,0,2692.65
+hotpot,42,256,baai,False,Which comic series involves characters such as Nick Fury and Baron von Strucker?,Marvel,Strange Tales,1,1700.21
+hotpot,42,256,baai,False,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia",Fresh meat.,0,1657.07
+hotpot,42,256,baai,False,A Wind in the Door is part of a series written by who?,Madeleine L'Engle,Madeleine L'Engle.,1,1682.83
+hotpot,42,256,baai,False,The Airport located next to the A13 handled how many passengers in 2016 ?,1.6 million passengers,Heathrow.,0,1629.01
+hotpot,42,256,baai,False,A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?,Francis McPeake,The Braes o' Bowhether.,1,2670.65
+hotpot,42,256,baai,False,The facility where Robert Croft worked as a navy instructor was also known as?,"""Home of the Submarine Force""",Naval Consolidated Brig.,0,1609.6
+hotpot,42,256,baai,False,Olivia DeJonge starred in an American horror film directed by Shyamalan called what,The Visit,The Visit.,1,2608.87
+hotpot,42,256,baai,False,Who fills in occasionally for the meteorologist who replaced  Ginger Zee ?,Kait Parker,Rob Marciano.,0,1707.74
+hotpot,42,256,baai,False,At what height does State Route 160 start?,4145 ft,On top of Black Mountain.,0,1743.87
+hotpot,42,256,baai,False,"Which plant, the Chaerophyllum or the Cryptanthus, can be found in various places across the world?",Chaerophyllum,Chaerophyllum.,1,1638.45
+hotpot,42,256,baai,False,Mía Maestro had a role in the 2002 biopic directed by whom?,Julie Taymor,Julie Taymor.,0,2668.86
+hotpot,42,512,baai,True,Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?,Fiat Chrysler Automobiles N.V.,Fiat Chrysler.,1,1727.58
+hotpot,42,512,baai,True,What class of instrument does Apatim Majumdar play?,strings,String instrument.,0,1616.38
+hotpot,42,512,baai,True,To where did the war criminal who is the fictional defendant in the film After the Truth flee in real life ?,South America,South America.,1,1527.01
+hotpot,42,512,baai,True,"The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",evangelical Christian,Christian.,0,2977.79
+hotpot,42,512,baai,True,"Johnny Mathis: Wonderful Wonderful aired at what luxury hotel, casino and spa resort located in Atlantic City, New Jersey?",Tropicana Casino & Resort,Tropicana Casino.,1,2682.19
+hotpot,42,512,baai,True,"In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?","""Kitty Hawk""",Casper.,0,3591.49
+hotpot,42,512,baai,True,What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?,Revengers Tragedy,Revengers Tragedy.,1,3822.44
+hotpot,42,512,baai,True,Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?,Sam Phillips,Hustle & Flow.,0,2771.54
+hotpot,42,512,baai,True,What American indie rock group first had Jesse Sandoval as the drummer and now has Jon Sortland on drums?,The Shins,The Shins.,1,3733.14
+hotpot,42,512,baai,True,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Kurt Gerstein.,1,3766.45
+hotpot,42,512,baai,True,UFO Magazine covers what subject named for Charles Hoy Fort?,Fortean,Unidentified Flying Objects.,1,3574.28
+hotpot,42,512,baai,True,"Which ""Roseanne"" star is in Scream 2?",Laurie Metcalf,Rebecca Gayheart.,0,3795.5
+hotpot,42,512,baai,True,12 Years a Slave starred what British actor born 10 July 1977),Chiwetel Ejiofor,Chiwetel Ejiofor,1,3725.72
+hotpot,42,512,baai,True,Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?,The Changing Scottish Landscape,Unknown source.,0,3839.97
+hotpot,42,512,baai,True," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,Winnie the Pooh and the Honey Tree.,0,3748.01
+hotpot,42,512,baai,True,"What Cantonese slang term can mean both ""ghost man"" and to refer to Westerners?",Gweilo,Gweilo,1,4760.58
+hotpot,42,512,baai,True,"Which king of Northumbria did The ""Historia"" gives the abbot central place in his election as king",Guthred or Guthfrith,Guthred.,1,3756.75
+hotpot,42,512,baai,True,What 3 countries are part of the legal name of the airline that merged with Braathens in 2004?,Denmark–Norway–Sweden,"Norway, Sweden, Malaysia",0,2755.45
+hotpot,42,512,baai,True,The Distribution of Industry act was passed by a man who was prime minister when? ,1945 to 1951,Reindeer Act.,0,3506.4
+hotpot,42,512,baai,True,The Dogwoman telemovies were created by an actress born in what year?,1961,Magda Szubanski.,0,3685.52
+hotpot,42,512,baai,True,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,2849.72
+hotpot,42,512,baai,True,What NIFL Premier Intermediate League team did Sean Connor play for?,Distillery,Lisburn Distillery.,1,3181.35
+hotpot,42,512,baai,True,"Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",Tim Cluess,Tim Cluess.,1,4428.61
+hotpot,42,512,baai,True,The first female correspondent for Inside the NFL was replaced by who on the show American Ninja Warrior?,Kristine Leahy,Alison Haislip.,0,2346.68
+hotpot,42,512,baai,True,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,Army & Navy Stores.,1,3277.65
+hotpot,42,512,baai,True,"Which film does ""Naked Weapon"" follow in the ""Naked"" series?","""Naked Killer""",Naked Gun.,0,3479.27
+hotpot,42,512,baai,True,"What type of license is the open source roguelike video game video released 2012, in which a subset of it's pricing model is a called free-to-play, licensed under?",GNU GPLv3,Open Source Initiative.,0,3561.41
+hotpot,42,512,baai,True,In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?,1945,Not provided.,0,4127.24
+hotpot,42,512,baai,True,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,Nick Carter.,1,3208.35
+hotpot,42,512,baai,True,What was the 2010 population of the town where Black Crescent Mountain was located? ,310,Fourth most populated.,0,3401.18
+hotpot,42,512,baai,True,What where both Hawker Hurricane and No. 1455 Flight apart of?,Royal Air Force,Royal Air Force.,1,3416.49
+hotpot,42,512,baai,True,What is the population of the city that Munsonville is in the northwest corner of?,729 at the 2010 census,Not provided.,0,3218.88
+hotpot,42,512,baai,True,Josh Trank and Mike Valerio both work in what industry?,entertainment,Film and music.,0,4123.95
+hotpot,42,512,baai,True,"Who released the song ""With or Without You"" first, Jai McDowall or U2?",U2,U2.,1,3267.29
+hotpot,42,512,baai,True,Which Victorian poet was born in a 15th-century castle home to the Earl of Southesk?,Charlotte Carnegie,Lady Charlotte Elliot.,1,3642.21
+hotpot,42,512,baai,True,Which award David Hersey had got for Equus a play by Peter Shaffer ?,Outstanding Lighting Design,No information.,0,4467.21
+hotpot,42,512,baai,True,Were Halldór Laxness and Timothy Leary from the same country?,no,"No, different countries.",1,3407.36
+hotpot,42,512,baai,True,During what war were the Russia-United Kingdom relations in a state of rivalry after the abdication of Emperor Nicholas II? ,the Cold War (1947–91),World War I.,0,3428.68
+hotpot,42,512,baai,True,"Between Greyia and Calibanus, which genus contains more species?",Greyia,No information.,0,3694.31
+hotpot,42,512,baai,True,Which comic series involves characters such as Nick Fury and Baron von Strucker?,Marvel,Strange Tales,1,3651.12
+hotpot,42,512,baai,True,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia","Steak, fish, vegetables.",0,3302.19
+hotpot,42,512,baai,True,A Wind in the Door is part of a series written by who?,Madeleine L'Engle,Madeleine L'Engle.,1,3419.65
+hotpot,42,512,baai,True,The Airport located next to the A13 handled how many passengers in 2016 ?,1.6 million passengers,No information about the A13 airport.,0,4303.96
+hotpot,42,512,baai,True,A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?,Francis McPeake,Robert Tannahill.,1,3454.87
+hotpot,42,512,baai,True,The facility where Robert Croft worked as a navy instructor was also known as?,"""Home of the Submarine Force""",Naval Consolidated Brig.,1,4336.22
+hotpot,42,512,baai,True,Olivia DeJonge starred in an American horror film directed by Shyamalan called what,The Visit,The Visit.,1,3450.82
+hotpot,42,512,baai,True,Who fills in occasionally for the meteorologist who replaced  Ginger Zee ?,Kait Parker,Rob Marciano.,0,3567.0
+hotpot,42,512,baai,True,At what height does State Route 160 start?,4145 ft,On top of Black Mountain.,0,4297.49
+hotpot,42,512,baai,True,"Which plant, the Chaerophyllum or the Cryptanthus, can be found in various places across the world?",Chaerophyllum,Chaerophyllum.,1,3388.96
+hotpot,42,512,baai,True,Mía Maestro had a role in the 2002 biopic directed by whom?,Julie Taymor,Julie Taymor.,1,4240.2
+hotpot,42,512,baai,False,Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?,Fiat Chrysler Automobiles N.V.,Fiat Chrysler.,1,1006.74
+hotpot,42,512,baai,False,What class of instrument does Apatim Majumdar play?,strings,Stringed instrument.,1,712.45
+hotpot,42,512,baai,False,To where did the war criminal who is the fictional defendant in the film After the Truth flee in real life ?,South America,Brazil.,0,2734.31
+hotpot,42,512,baai,False,"The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",evangelical Christian,Christian.,0,2818.07
+hotpot,42,512,baai,False,"Johnny Mathis: Wonderful Wonderful aired at what luxury hotel, casino and spa resort located in Atlantic City, New Jersey?",Tropicana Casino & Resort,Tropicana Casino.,1,3754.4
+hotpot,42,512,baai,False,"In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?","""Kitty Hawk""",Casper.,0,2755.64
+hotpot,42,512,baai,False,What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?,Revengers Tragedy,Revengers Tragedy.,1,3784.86
+hotpot,42,512,baai,False,Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?,Sam Phillips,Hustle & Flow,0,2784.73
+hotpot,42,512,baai,False,What American indie rock group first had Jesse Sandoval as the drummer and now has Jon Sortland on drums?,The Shins,The Shins.,1,3799.09
+hotpot,42,512,baai,False,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Kurt Gerstein.,1,3765.49
+hotpot,42,512,baai,False,UFO Magazine covers what subject named for Charles Hoy Fort?,Fortean,UFOs and anomalies.,1,3737.12
+hotpot,42,512,baai,False," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,The Many Adventures.,0,136125.93
+hotpot,42,512,baai,False,"What Cantonese slang term can mean both ""ghost man"" and to refer to Westerners?",Gweilo,Gweilo,1,648.87
+hotpot,42,512,baai,False,"Which king of Northumbria did The ""Historia"" gives the abbot central place in his election as king",Guthred or Guthfrith,Guthred.,1,661.0
+hotpot,42,512,baai,False,What 3 countries are part of the legal name of the airline that merged with Braathens in 2004?,Denmark–Norway–Sweden,Norway Sweden Denmark,0,563.92
+hotpot,42,512,baai,False,The Distribution of Industry act was passed by a man who was prime minister when? ,1945 to 1951,Reindeer Act.,0,632.11
+hotpot,42,512,baai,False,The Dogwoman telemovies were created by an actress born in what year?,1961,Magda Szubanski.,0,648.36
+hotpot,42,512,baai,False,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,760.4
+hotpot,42,512,baai,False,What NIFL Premier Intermediate League team did Sean Connor play for?,Distillery,Newington Y.C.,0,576.37
+hotpot,42,512,baai,False,"Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",Tim Cluess,Tim Cluess.,1,563.43
+hotpot,42,512,baai,False,The first female correspondent for Inside the NFL was replaced by who on the show American Ninja Warrior?,Kristine Leahy,Alison Haislip.,0,639.99
+hotpot,42,512,baai,False,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,Army & Navy Stores.,1,554.84
+hotpot,42,512,baai,False,"Which film does ""Naked Weapon"" follow in the ""Naked"" series?","""Naked Killer""",Lethal Weapon.,0,592.82
+hotpot,42,512,baai,False,"What type of license is the open source roguelike video game video released 2012, in which a subset of it's pricing model is a called free-to-play, licensed under?",GNU GPLv3,Open Source Initiative.,0,660.81
+hotpot,42,512,baai,False,In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?,1945,Not available.,0,478.71
+hotpot,42,512,baai,False,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,Brady Seals.,1,520.47
+hotpot,42,512,baai,False,What was the 2010 population of the town where Black Crescent Mountain was located? ,310,Fourth most populated.,0,532.49
+hotpot,42,512,baai,False,What where both Hawker Hurricane and No. 1455 Flight apart of?,Royal Air Force,Royal Air Force.,1,501.79
+hotpot,42,512,baai,False,What is the population of the city that Munsonville is in the northwest corner of?,729 at the 2010 census,No information available.,0,500.19
+hotpot,42,512,baai,False,Josh Trank and Mike Valerio both work in what industry?,entertainment,Film industry.,0,486.24
+hotpot,42,512,baai,False,"Who released the song ""With or Without You"" first, Jai McDowall or U2?",U2,U2,1,509.31
+hotpot,42,512,baai,False,Which Victorian poet was born in a 15th-century castle home to the Earl of Southesk?,Charlotte Carnegie,Lady Charlotte Elliot.,1,2630.33
+hotpot,42,512,baai,False,Which award David Hersey had got for Equus a play by Peter Shaffer ?,Outstanding Lighting Design,No Tony Award.,1,3779.96
+hotpot,42,512,baai,False,Were Halldór Laxness and Timothy Leary from the same country?,no,"No, different countries.",1,3624.84
+hotpot,42,512,baai,False,During what war were the Russia-United Kingdom relations in a state of rivalry after the abdication of Emperor Nicholas II? ,the Cold War (1947–91),World War I.,0,3766.01
+hotpot,42,512,baai,False,"Between Greyia and Calibanus, which genus contains more species?",Greyia,No information.,0,3697.5
+hotpot,42,512,baai,False,Which comic series involves characters such as Nick Fury and Baron von Strucker?,Marvel,Nick Fury series.,1,2647.81
+hotpot,42,512,baai,False,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia","Steak, fish, vegetables.",0,3602.44
+hotpot,42,512,baai,False,A Wind in the Door is part of a series written by who?,Madeleine L'Engle,Madeleine L'Engle.,1,4680.06
+hotpot,42,512,baai,False,The Airport located next to the A13 handled how many passengers in 2016 ?,1.6 million passengers,No information.,0,2584.85
+hotpot,42,512,baai,False,A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?,Francis McPeake,The Braes of Balquhither.,1,4654.13
+hotpot,42,512,baai,False,The facility where Robert Croft worked as a navy instructor was also known as?,"""Home of the Submarine Force""",Naval Consolidated Brig,0,3579.73
+hotpot,42,512,baai,False,Olivia DeJonge starred in an American horror film directed by Shyamalan called what,The Visit,The Visit.,1,3623.35
+hotpot,42,512,baai,False,Who fills in occasionally for the meteorologist who replaced  Ginger Zee ?,Kait Parker,Rob Marciano.,0,3728.29
+hotpot,42,512,baai,False,At what height does State Route 160 start?,4145 ft,Top of Black Mountain.,0,3713.52
+hotpot,42,512,baai,False,"Which plant, the Chaerophyllum or the Cryptanthus, can be found in various places across the world?",Chaerophyllum,Chaerophyllum.,1,3728.98
+hotpot,42,512,baai,False,Mía Maestro had a role in the 2002 biopic directed by whom?,Julie Taymor,Julie Taymor.,1,3649.32
+hotpot,42,1024,baai,True,Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?,Fiat Chrysler Automobiles N.V.,Fiat Chrysler.,1,2359.74
+hotpot,42,1024,baai,True,What class of instrument does Apatim Majumdar play?,strings,Sarod.,1,6208.99
+hotpot,42,1024,baai,True,To where did the war criminal who is the fictional defendant in the film After the Truth flee in real life ?,South America,South America.,1,7275.53
+hotpot,42,1024,baai,True,"The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",evangelical Christian,Methodist,0,5301.84
+hotpot,42,1024,baai,True,"Johnny Mathis: Wonderful Wonderful aired at what luxury hotel, casino and spa resort located in Atlantic City, New Jersey?",Tropicana Casino & Resort,Tropicana Hotel.,1,6301.1
+hotpot,42,1024,baai,True,"In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?","""Kitty Hawk""",Casper.,0,5142.49
+hotpot,42,1024,baai,True,What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?,Revengers Tragedy,Revengers Tragedy.,1,6417.17
+hotpot,42,1024,baai,True,Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?,Sam Phillips,Hustle & Flow.,0,7348.57
+hotpot,42,1024,baai,True,What American indie rock group first had Jesse Sandoval as the drummer and now has Jon Sortland on drums?,The Shins,The Shins.,1,7342.45
+hotpot,42,1024,baai,True,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Kurt Gerstein.,1,5315.42
+hotpot,42,1024,baai,True,UFO Magazine covers what subject named for Charles Hoy Fort?,Fortean,UFOs.,1,7250.9
+hotpot,42,1024,baai,True,"Which ""Roseanne"" star is in Scream 2?",Laurie Metcalf,Laurie Metcalf,1,8418.69
+hotpot,42,1024,baai,True,12 Years a Slave starred what British actor born 10 July 1977),Chiwetel Ejiofor,Chiwetel Ejiofor,1,5276.46
+hotpot,42,1024,baai,True,Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?,The Changing Scottish Landscape,Abergairn Castle.,0,8675.8
+hotpot,42,1024,baai,True," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,Winnie the Pooh and the Honey Tree.,0,6349.68
+hotpot,42,1024,baai,True,"What Cantonese slang term can mean both ""ghost man"" and to refer to Westerners?",Gweilo,Gweilo,1,7227.39
+hotpot,42,1024,baai,True,"Which king of Northumbria did The ""Historia"" gives the abbot central place in his election as king",Guthred or Guthfrith,Oswiu,1,7330.76
+hotpot,42,1024,baai,True,What 3 countries are part of the legal name of the airline that merged with Braathens in 2004?,Denmark–Norway–Sweden,"Singapore, Malaysia, China.",0,7200.8
+hotpot,42,1024,baai,True,The Distribution of Industry act was passed by a man who was prime minister when? ,1945 to 1951,1937,0,4912.96
+hotpot,42,1024,baai,True,The Dogwoman telemovies were created by an actress born in what year?,1961,Magda Szubanski.,0,6145.87
+hotpot,42,1024,baai,True,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,6445.76
+hotpot,42,1024,baai,True,What NIFL Premier Intermediate League team did Sean Connor play for?,Distillery,Newington Y.C.,0,5168.88
+hotpot,42,1024,baai,True,"Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",Tim Cluess,Tim Cluess.,1,6227.83
+hotpot,42,1024,baai,True,The first female correspondent for Inside the NFL was replaced by who on the show American Ninja Warrior?,Kristine Leahy,Alison Haislip.,0,5122.92
+hotpot,42,1024,baai,True,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,Army & Navy Stores.,1,5078.15
+hotpot,42,1024,baai,True,"Which film does ""Naked Weapon"" follow in the ""Naked"" series?","""Naked Killer""",Lethal Weapon.,0,6166.53
+hotpot,42,1024,baai,True,"What type of license is the open source roguelike video game video released 2012, in which a subset of it's pricing model is a called free-to-play, licensed under?",GNU GPLv3,BitTorrent Open Source License.,0,6098.67
+hotpot,42,1024,baai,True,In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?,1945,Not provided.,0,4816.42
+hotpot,42,1024,baai,True,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,Nick Carter.,1,6047.01
+hotpot,42,1024,baai,True,What was the 2010 population of the town where Black Crescent Mountain was located? ,310,"Randolph, New Hampshire.",0,6331.85
+hotpot,42,1024,baai,True,What where both Hawker Hurricane and No. 1455 Flight apart of?,Royal Air Force,Royal Air Force.,1,5203.81
+hotpot,42,1024,baai,True,What is the population of the city that Munsonville is in the northwest corner of?,729 at the 2010 census,Baltimore.,0,6945.61
+hotpot,42,1024,baai,True,Josh Trank and Mike Valerio both work in what industry?,entertainment,Film industry.,0,5917.58
+hotpot,42,1024,baai,True,"Who released the song ""With or Without You"" first, Jai McDowall or U2?",U2,U2.,1,6401.21
+hotpot,42,1024,baai,True,Which Victorian poet was born in a 15th-century castle home to the Earl of Southesk?,Charlotte Carnegie,Lady Charlotte Elliot.,1,7562.85
+hotpot,42,1024,baai,True,Which award David Hersey had got for Equus a play by Peter Shaffer ?,Outstanding Lighting Design,No award mentioned.,0,8304.14
+hotpot,42,1024,baai,True,Were Halldór Laxness and Timothy Leary from the same country?,no,"No, different countries.",1,8055.35
+hotpot,42,1024,baai,True,During what war were the Russia-United Kingdom relations in a state of rivalry after the abdication of Emperor Nicholas II? ,the Cold War (1947–91),World War I,0,5146.49
+hotpot,42,1024,baai,True,"Between Greyia and Calibanus, which genus contains more species?",Greyia,No information available.,0,6558.95
+hotpot,42,1024,baai,True,Which comic series involves characters such as Nick Fury and Baron von Strucker?,Marvel,Nick Fury vs. S.H.I.E.L.D.,1,6560.6
+hotpot,42,1024,baai,True,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia",Beurre Maître d'Hôtel.,0,4897.26
+hotpot,42,1024,baai,True,A Wind in the Door is part of a series written by who?,Madeleine L'Engle,Madeleine L'Engle.,1,172604.54
+hotpot,42,1024,baai,True,The Airport located next to the A13 handled how many passengers in 2016 ?,1.6 million passengers,No information available.,0,1606.75
+hotpot,42,1024,baai,True,A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?,Francis McPeake,Robert Tannahill.,1,2218.32
+hotpot,42,1024,baai,True,The facility where Robert Croft worked as a navy instructor was also known as?,"""Home of the Submarine Force""",Naval Consolidated Brig.,1,2183.99
+hotpot,42,1024,baai,True,Olivia DeJonge starred in an American horror film directed by Shyamalan called what,The Visit,The Visit.,1,2140.26
+hotpot,42,1024,baai,True,Who fills in occasionally for the meteorologist who replaced  Ginger Zee ?,Kait Parker,Rob Marciano.,0,2186.96
+hotpot,42,1024,baai,True,At what height does State Route 160 start?,4145 ft,On top of Black Mountain.,0,2101.67
+hotpot,42,1024,baai,True,"Which plant, the Chaerophyllum or the Cryptanthus, can be found in various places across the world?",Chaerophyllum,Chaerophyllum.,1,2285.56
+hotpot,42,1024,baai,True,Mía Maestro had a role in the 2002 biopic directed by whom?,Julie Taymor,Julie Taymor.,1,2226.31
+hotpot,42,1024,baai,False,Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?,Fiat Chrysler Automobiles N.V.,Fiat Chrysler.,1,2084.62
+hotpot,42,1024,baai,False,What class of instrument does Apatim Majumdar play?,strings,Stringed instrument.,1,1351.83
+hotpot,42,1024,baai,False,To where did the war criminal who is the fictional defendant in the film After the Truth flee in real life ?,South America,South America.,1,1230.63
+hotpot,42,1024,baai,False,"The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",evangelical Christian,Wesleyan.,0,1308.87
+hotpot,42,1024,baai,False,"Johnny Mathis: Wonderful Wonderful aired at what luxury hotel, casino and spa resort located in Atlantic City, New Jersey?",Tropicana Casino & Resort,Tropicana Hotel.,1,5357.14
+hotpot,42,1024,baai,False,"In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?","""Kitty Hawk""",Casper.,0,5330.17
+hotpot,42,1024,baai,False,What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?,Revengers Tragedy,Revengers Tragedy.,1,5327.75
+hotpot,42,1024,baai,False,Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?,Sam Phillips,Hustle & Flow,0,6461.43
+hotpot,42,1024,baai,False,What American indie rock group first had Jesse Sandoval as the drummer and now has Jon Sortland on drums?,The Shins,The Shins.,1,7374.46
+hotpot,42,1024,baai,False,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Rudolf Höss.,1,6309.72
+hotpot,42,1024,baai,False,UFO Magazine covers what subject named for Charles Hoy Fort?,Fortean,UFOs and anomalies.,1,5338.0
+hotpot,42,1024,baai,False,"Which ""Roseanne"" star is in Scream 2?",Laurie Metcalf,Laurie Metcalf,1,8454.7
+hotpot,42,1024,baai,False,12 Years a Slave starred what British actor born 10 July 1977),Chiwetel Ejiofor,Chiwetel Ejiofor,1,6357.59
+hotpot,42,1024,baai,False,Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?,The Changing Scottish Landscape,Clun Castle.,0,6478.32
+hotpot,42,1024,baai,False," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,The Many Adventures.,0,5232.27
+hotpot,42,1024,baai,False,"What Cantonese slang term can mean both ""ghost man"" and to refer to Westerners?",Gweilo,Gweilo.,1,7420.83
+hotpot,42,1024,baai,False,"Which king of Northumbria did The ""Historia"" gives the abbot central place in his election as king",Guthred or Guthfrith,Oswiu's son.,1,6470.84
+hotpot,42,1024,baai,False,What 3 countries are part of the legal name of the airline that merged with Braathens in 2004?,Denmark–Norway–Sweden,None mentioned.,0,6338.96
+hotpot,42,1024,baai,False,The Distribution of Industry act was passed by a man who was prime minister when? ,1945 to 1951,1937,0,5087.33
+hotpot,42,1024,baai,False,The Dogwoman telemovies were created by an actress born in what year?,1961,Magda Szubanski.,0,5391.26
+hotpot,42,1024,baai,False,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,6521.88
+hotpot,42,1024,baai,False,What NIFL Premier Intermediate League team did Sean Connor play for?,Distillery,No information.,0,5456.04
+hotpot,42,1024,baai,False,"Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",Tim Cluess,Tim Cluess.,1,6233.25
+hotpot,42,1024,baai,False,The first female correspondent for Inside the NFL was replaced by who on the show American Ninja Warrior?,Kristine Leahy,Alison Haislip.,0,5279.24
+hotpot,42,1024,baai,False,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,Army & Navy Stores.,1,5202.03
+hotpot,42,1024,baai,False,"Which film does ""Naked Weapon"" follow in the ""Naked"" series?","""Naked Killer""",Lethal Weapon.,0,6379.87
+hotpot,42,1024,baai,False,"What type of license is the open source roguelike video game video released 2012, in which a subset of it's pricing model is a called free-to-play, licensed under?",GNU GPLv3,Open Source License.,0,5165.4
+hotpot,42,1024,baai,False,In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?,1945,Not available.,0,5247.43
+hotpot,42,1024,baai,False,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,Nick Carter.,1,7361.7
+hotpot,42,1024,baai,False,What was the 2010 population of the town where Black Crescent Mountain was located? ,310,Not available.,0,5298.95
+hotpot,42,1024,baai,False,What where both Hawker Hurricane and No. 1455 Flight apart of?,Royal Air Force,Royal Air Force.,1,6205.28
+hotpot,42,1024,baai,False,What is the population of the city that Munsonville is in the northwest corner of?,729 at the 2010 census,Not provided.,0,7214.6
+hotpot,42,1024,baai,False,Josh Trank and Mike Valerio both work in what industry?,entertainment,Film industry.,0,5262.63
+hotpot,42,1024,baai,False,"Who released the song ""With or Without You"" first, Jai McDowall or U2?",U2,U2.,1,6353.5
+hotpot,42,1024,baai,False,Which Victorian poet was born in a 15th-century castle home to the Earl of Southesk?,Charlotte Carnegie,Lady Charlotte Elliot.,1,7502.77
+hotpot,42,1024,baai,False,Which award David Hersey had got for Equus a play by Peter Shaffer ?,Outstanding Lighting Design,No award mentioned.,1,6437.0
+hotpot,42,1024,baai,False,Were Halldór Laxness and Timothy Leary from the same country?,no,No they were not.,1,6373.49
+hotpot,42,1024,baai,False,During what war were the Russia-United Kingdom relations in a state of rivalry after the abdication of Emperor Nicholas II? ,the Cold War (1947–91),Crimean War.,0,5423.23
+hotpot,42,1024,baai,False,"Between Greyia and Calibanus, which genus contains more species?",Greyia,No information available.,0,6504.83
+hotpot,42,1024,baai,False,Which comic series involves characters such as Nick Fury and Baron von Strucker?,Marvel,"Nick Fury, Agent of S.H.I.E.L.D.",1,5479.79
+hotpot,42,1024,baai,False,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia",A-ration meals.,0,5458.41
+hotpot,42,1024,baai,False,A Wind in the Door is part of a series written by who?,Madeleine L'Engle,Madeleine L'Engle.,1,8623.61
+hotpot,42,1024,baai,False,The Airport located next to the A13 handled how many passengers in 2016 ?,1.6 million passengers,No information.,0,6257.11
+hotpot,42,1024,baai,False,A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?,Francis McPeake,Francis McPeake.,1,8483.64
+hotpot,42,1024,baai,False,The facility where Robert Croft worked as a navy instructor was also known as?,"""Home of the Submarine Force""","Naval Consolidated Brig, Miramar",1,7223.03
+hotpot,42,1024,baai,False,Olivia DeJonge starred in an American horror film directed by Shyamalan called what,The Visit,The Visit.,1,7297.39
+hotpot,42,1024,baai,False,Who fills in occasionally for the meteorologist who replaced  Ginger Zee ?,Kait Parker,Rob Marciano.,0,6402.34
+hotpot,42,1024,baai,False,At what height does State Route 160 start?,4145 ft,On top of Black Mountain.,0,5564.63
+hotpot,42,1024,baai,False,"Which plant, the Chaerophyllum or the Cryptanthus, can be found in various places across the world?",Chaerophyllum,Chaerophyllum.,1,6827.78
+hotpot,42,1024,baai,False,Mía Maestro had a role in the 2002 biopic directed by whom?,Julie Taymor,Julie Taymor.,1,5684.43
+hotpot,123,256,baai,True,"Which player, who also played for the New Jersey Nets and the Golden State Warriors, finished third in the league with 231 three-point field goals during the 1995-96 Atlanta Hawks season?",Mookie Blaylock,Mookie Blaylock.,1,1259.75
+hotpot,123,256,baai,True,What 1876 battle featured the Other Magpie?,Battle of the Rosebud,Battle of Rosebud.,1,1216.48
+hotpot,123,256,baai,True,The Dogwoman telemovies were created by an actress born in what year?,1961,Magda Szubanski.,0,1118.52
+hotpot,123,256,baai,True,Jihad: A Story of the Others is a documentary by the director who is of what descent?,Punjabi/Pashtun,Israeli.,0,1294.02
+hotpot,123,256,baai,True,What was the capital of India when the Taj Mahal was commissioned?,Agra,Agra.,1,1201.4
+hotpot,123,256,baai,True,The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?,the green fairy,Zurra,0,1380.33
+hotpot,123,256,baai,True,"The town of Sinclair, West Virginia, is named after the founder of the local oil drilling company. What is on Sinclair Oil's famous logo?",dinosaur,Large green dinosaur.,1,1194.82
+hotpot,123,256,baai,True,Which Victorian poet was born in a 15th-century castle home to the Earl of Southesk?,Charlotte Carnegie,Lady Charlotte Elliot.,1,1330.89
+hotpot,123,256,baai,True,Which major international airport in south-east England ranks as the 8th busiest airport in Europe and replaced Croydon Airport?,Gatwick Airport,London Gatwick.,1,1223.52
+hotpot,123,256,baai,True,Cooperative Living Organization is located in a city that is the county seat of what county in Florida?,Alachua,Alachua County.,1,2194.89
+hotpot,123,256,baai,True,Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?,Sam Phillips,Hustle & Flow,0,1302.9
+hotpot,123,256,baai,True,College Humor is a 1933 American pre-Code musical comedy film that starred what American singer and actor who has a trademark warm bass-baritone voice?,"Harry Lillis ""Bing"" Crosby Jr.",Bing Crosby.,0,2386.09
+hotpot,123,256,baai,True,Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?,Henry Lau,Unknown actor.,0,1270.81
+hotpot,123,256,baai,True,Are Dogo Cubano and the Dutch Shepherd both breeds of dog?,yes,Yes they are.,0,2668.79
+hotpot,123,256,baai,True,Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?,Barnoldswick,Barnoldswick.,1,2966.52
+hotpot,123,256,baai,True,"Which king of Northumbria did The ""Historia"" gives the abbot central place in his election as king",Guthred or Guthfrith,Guthred.,1,3028.43
+hotpot,123,256,baai,True,12 Years a Slave starred what British actor born 10 July 1977),Chiwetel Ejiofor,Chiwetel Ejiofor,1,2801.54
+hotpot,123,256,baai,True,In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?,"Nairobi, Kenya","Nairobi, Kenya.",1,2809.53
+hotpot,123,256,baai,True,Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?,Naomi Elaine Campbell,No supermodel.,0,3134.8
+hotpot,123,256,baai,True,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,No information available.,1,2450.12
+hotpot,123,256,baai,True,How far from Sacramento is the flight school in Atwater?,about 115 miles (185 km),115 miles,1,2285.06
+hotpot,123,256,baai,True,Who fills in occasionally for the meteorologist who replaced  Ginger Zee ?,Kait Parker,Rob Marciano.,0,2791.68
+hotpot,123,256,baai,True,"From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",the Parthian Empire,Sasanian Empire.,0,3195.12
+hotpot,123,256,baai,True,What NIFL Premier Intermediate League team did Sean Connor play for?,Distillery,Newington Youth.,0,2517.1
+hotpot,123,256,baai,True,"Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",Nusretiye Mosque,Nusretiye Mosque.,0,3181.32
+hotpot,123,256,baai,True,Pandikona and Berger Blanc Suisse are both what kinds of animals?,dogs,Hunting dogs.,0,2691.93
+hotpot,123,256,baai,True,"In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?","""Kitty Hawk""",Columbia.,0,2438.7
+hotpot,123,256,baai,True,Which was built first Woolworth Building or 1 New York Plaza?,Woolworth Building,Woolworth Building.,1,2355.21
+hotpot,123,256,baai,True,"Spawn, a fictional character who Mustafa Shakir has expressed interest in playing, was created by?",Todd McFarlane,Todd McFarlane.,1,2640.01
+hotpot,123,256,baai,True,"Between Greyia and Calibanus, which genus contains more species?",Greyia,No information.,0,3195.14
+hotpot,123,256,baai,True,"The band who released the debut album ""Tinted Windows"" had their first performance in what city?",Tulsa,New York City,0,2398.12
+hotpot,123,256,baai,True,What company did Rex Maughan aquire?,Aloe Vera of America,Aloe Vera of America.,1,2312.47
+hotpot,123,256,baai,True,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,2569.08
+hotpot,123,256,baai,True,In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?,1755,1755,1,3129.79
+hotpot,123,256,baai,True,At what age did Cieli di Toscana's singer become blind?,Bocelli became completely blind at the age of 12,Age 12.,1,2552.85
+hotpot,123,256,baai,True,"Which French aristocrat and military officer who fought in the American Revolutionary War visited this historic home located at Enfield, Halifax County, North Carolina, known as The Cellar?",Marquis de Lafayette,Marquis de Lafayette.,0,2965.56
+hotpot,123,256,baai,True,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,House of Fraser.,0,2699.65
+hotpot,123,256,baai,True,Did John Updike and Tom Clancy both publish more than 15 bestselling novels?,yes,No information.,0,2504.18
+hotpot,123,256,baai,True,A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?,Francis McPeake,The Braes o' Bowhether.,1,2717.07
+hotpot,123,256,baai,True,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Wirth and Höss.,1,2670.07
+hotpot,123,256,baai,True,Are Phlebodium and Pieris both species of ferns?,no,"No, Pieris is not.",1,2521.96
+hotpot,123,256,baai,True,New York State Route 9R rejoins its parent in a hamlet located  in what New York County?,Albany,Colonie,1,2757.27
+hotpot,123,256,baai,True,In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?,1945,Not provided.,0,2354.34
+hotpot,123,256,baai,True,"Which film does ""Naked Weapon"" follow in the ""Naked"" series?","""Naked Killer""",Lethal Weapon 4.,0,2676.6
+hotpot,123,256,baai,True,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia","Steak, fish, vegetables.",0,2540.59
+hotpot,123,256,baai,True,Who covered the song I Love You by Chris Write?,People! and The Carnabeats,Captain and Tennille.,0,2437.26
+hotpot,123,256,baai,True,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",English,British novelist.,0,3200.32
+hotpot,123,256,baai,True, What is the title of the memoir written by the honoree of the Black and White Ball?,Personal History,Personal History,1,2503.16
+hotpot,123,256,baai,True," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,The Many Adventures.,0,2608.29
+hotpot,123,256,baai,True,"In what city did the ""Prince of tenors"" star in a film based on an opera by Giacomo Puccini?",Rome,New York City.,0,3046.73
+hotpot,123,256,baai,False,"Which player, who also played for the New Jersey Nets and the Golden State Warriors, finished third in the league with 231 three-point field goals during the 1995-96 Atlanta Hawks season?",Mookie Blaylock,George Johnson,0,1235.49
+hotpot,123,256,baai,False,What 1876 battle featured the Other Magpie?,Battle of the Rosebud,Battle of the Rosebud.,1,982.51
+hotpot,123,256,baai,False,The Dogwoman telemovies were created by an actress born in what year?,1961,1952,0,1110.93
+hotpot,123,256,baai,False,Jihad: A Story of the Others is a documentary by the director who is of what descent?,Punjabi/Pashtun,Israeli.,0,1204.67
+hotpot,123,256,baai,False,What was the capital of India when the Taj Mahal was commissioned?,Agra,Agra.,1,1323.27
+hotpot,123,256,baai,False,The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?,the green fairy,Marskin ryyppy.,0,1199.12
+hotpot,123,256,baai,False,"The town of Sinclair, West Virginia, is named after the founder of the local oil drilling company. What is on Sinclair Oil's famous logo?",dinosaur,Dinosaur Joe,0,1050.99
+hotpot,123,256,baai,False,Which Victorian poet was born in a 15th-century castle home to the Earl of Southesk?,Charlotte Carnegie,Lady Charlotte Elliot.,1,1186.82
+hotpot,123,256,baai,False,Which major international airport in south-east England ranks as the 8th busiest airport in Europe and replaced Croydon Airport?,Gatwick Airport,London Gatwick.,0,1097.34
+hotpot,123,256,baai,False,Cooperative Living Organization is located in a city that is the county seat of what county in Florida?,Alachua,Hillsborough County.,1,1094.61
+hotpot,123,256,baai,False,Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?,Sam Phillips,Hustle & Flow,0,1179.27
+hotpot,123,256,baai,False,College Humor is a 1933 American pre-Code musical comedy film that starred what American singer and actor who has a trademark warm bass-baritone voice?,"Harry Lillis ""Bing"" Crosby Jr.",Bing Crosby.,1,1142.63
+hotpot,123,256,baai,False,Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?,Henry Lau,Eunhyuk,0,1268.34
+hotpot,123,256,baai,False,Are Dogo Cubano and the Dutch Shepherd both breeds of dog?,yes,Yes they are.,0,1094.83
+hotpot,123,256,baai,False,Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?,Barnoldswick,Barnoldswick.,1,1330.9
+hotpot,123,256,baai,False,"Which king of Northumbria did The ""Historia"" gives the abbot central place in his election as king",Guthred or Guthfrith,Guthred.,1,1155.63
+hotpot,123,256,baai,False,12 Years a Slave starred what British actor born 10 July 1977),Chiwetel Ejiofor,Chiwetel Ejiofor,1,1118.98
+hotpot,123,256,baai,False,In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?,"Nairobi, Kenya",Dar es Salaam.,0,1136.69
+hotpot,123,256,baai,False,Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?,Naomi Elaine Campbell,Naomi Campbell.,1,1410.21
+hotpot,123,256,baai,False,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,No information available.,1,1057.95
+hotpot,123,256,baai,False,How far from Sacramento is the flight school in Atwater?,about 115 miles (185 km),115 miles,1,1036.72
+hotpot,123,256,baai,False,Who fills in occasionally for the meteorologist who replaced  Ginger Zee ?,Kait Parker,Rob Marciano.,0,1408.11
+hotpot,123,256,baai,False,"From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",the Parthian Empire,Sasanian Empire.,0,1512.09
+hotpot,123,256,baai,False,What NIFL Premier Intermediate League team did Sean Connor play for?,Distillery,Football Club.,0,1027.76
+hotpot,123,256,baai,False,"Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",Nusretiye Mosque,Yıldız Hamidiye Mosque.,0,1225.29
+hotpot,123,256,baai,False,Pandikona and Berger Blanc Suisse are both what kinds of animals?,dogs,Hunting dogs.,0,1165.65
+hotpot,123,256,baai,False,"In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?","""Kitty Hawk""",No specific information.,0,1012.45
+hotpot,123,256,baai,False,Which was built first Woolworth Building or 1 New York Plaza?,Woolworth Building,Woolworth Building.,1,948.45
+hotpot,123,256,baai,False,"Spawn, a fictional character who Mustafa Shakir has expressed interest in playing, was created by?",Todd McFarlane,Todd McFarlane.,1,1061.02
+hotpot,123,256,baai,False,"Between Greyia and Calibanus, which genus contains more species?",Greyia,No information.,0,1379.05
+hotpot,123,256,baai,False,"The band who released the debut album ""Tinted Windows"" had their first performance in what city?",Tulsa,New York City,0,1041.51
+hotpot,123,256,baai,False,What company did Rex Maughan aquire?,Aloe Vera of America,Aloe Vera of America.,1,1050.11
+hotpot,123,256,baai,False,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,1285.84
+hotpot,123,256,baai,False,In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?,1755,1755,1,1556.14
+hotpot,123,256,baai,False,At what age did Cieli di Toscana's singer become blind?,Bocelli became completely blind at the age of 12,Age 12.,1,1180.21
+hotpot,123,256,baai,False,"Which French aristocrat and military officer who fought in the American Revolutionary War visited this historic home located at Enfield, Halifax County, North Carolina, known as The Cellar?",Marquis de Lafayette,Marquis de Lafayette.,0,1060.26
+hotpot,123,256,baai,False,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,House of Fraser.,1,1113.58
+hotpot,123,256,baai,False,Did John Updike and Tom Clancy both publish more than 15 bestselling novels?,yes,"Yes, they did.",0,1081.48
+hotpot,123,256,baai,False,A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?,Francis McPeake,The Braes o' Bowhether.,1,1142.67
+hotpot,123,256,baai,False,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Degesch and Höss.,1,1086.67
+hotpot,123,256,baai,False,Are Phlebodium and Pieris both species of ferns?,no,"No, they are not.",1,1079.73
+hotpot,123,256,baai,False,New York State Route 9R rejoins its parent in a hamlet located  in what New York County?,Albany,Colonie,1,1113.22
+hotpot,123,256,baai,False,In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?,1945,Steve Spurrier.,0,966.36
+hotpot,123,256,baai,False,"Which film does ""Naked Weapon"" follow in the ""Naked"" series?","""Naked Killer""",American Pie.,0,1174.47
+hotpot,123,256,baai,False,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia",Fresh meat.,0,1158.29
+hotpot,123,256,baai,False,Who covered the song I Love You by Chris Write?,People! and The Carnabeats,Dolly Parton.,0,1072.09
+hotpot,123,256,baai,False,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",English,British novelist.,0,1219.73
+hotpot,123,256,baai,False, What is the title of the memoir written by the honoree of the Black and White Ball?,Personal History,Personal History,1,1119.49
+hotpot,123,256,baai,False," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,Ride a Wild Pony.,0,1059.16
+hotpot,123,256,baai,False,"In what city did the ""Prince of tenors"" star in a film based on an opera by Giacomo Puccini?",Rome,New York City.,0,2279.38
+hotpot,123,512,baai,True,"Which player, who also played for the New Jersey Nets and the Golden State Warriors, finished third in the league with 231 three-point field goals during the 1995-96 Atlanta Hawks season?",Mookie Blaylock,Mookie Blaylock.,1,3951.31
+hotpot,123,512,baai,True,What 1876 battle featured the Other Magpie?,Battle of the Rosebud,Battle of Rosebud.,1,3303.38
+hotpot,123,512,baai,True,The Dogwoman telemovies were created by an actress born in what year?,1961,Magda Szubanski.,0,3494.71
+hotpot,123,512,baai,True,Jihad: A Story of the Others is a documentary by the director who is of what descent?,Punjabi/Pashtun,Israeli filmmaker.,0,39908.4
+hotpot,123,512,baai,True,What was the capital of India when the Taj Mahal was commissioned?,Agra,Agra.,1,1888.65
+hotpot,123,512,baai,True,The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?,the green fairy,Marskin ryyppy.,0,4071.92
+hotpot,123,512,baai,True,"The town of Sinclair, West Virginia, is named after the founder of the local oil drilling company. What is on Sinclair Oil's famous logo?",dinosaur,Large green dinosaur.,1,3673.7
+hotpot,123,512,baai,True,Which Victorian poet was born in a 15th-century castle home to the Earl of Southesk?,Charlotte Carnegie,Lady Charlotte Elliot.,1,3897.8
+hotpot,123,512,baai,True,Which major international airport in south-east England ranks as the 8th busiest airport in Europe and replaced Croydon Airport?,Gatwick Airport,Gatwick Airport.,1,3811.91
+hotpot,123,512,baai,True,Cooperative Living Organization is located in a city that is the county seat of what county in Florida?,Alachua,Alachua County.,1,3395.01
+hotpot,123,512,baai,True,Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?,Sam Phillips,Hustle & Flow.,0,3808.58
+hotpot,123,512,baai,True,College Humor is a 1933 American pre-Code musical comedy film that starred what American singer and actor who has a trademark warm bass-baritone voice?,"Harry Lillis ""Bing"" Crosby Jr.",Bing Crosby.,1,3667.34
+hotpot,123,512,baai,True,Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?,Henry Lau,Lee Sung-min.,0,3866.17
+hotpot,123,512,baai,True,Are Dogo Cubano and the Dutch Shepherd both breeds of dog?,yes,"Yes, they are.",0,3620.75
+hotpot,123,512,baai,True,Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?,Barnoldswick,Barnoldswick.,1,4019.13
+hotpot,123,512,baai,True,"Which king of Northumbria did The ""Historia"" gives the abbot central place in his election as king",Guthred or Guthfrith,Guthred.,1,3747.06
+hotpot,123,512,baai,True,12 Years a Slave starred what British actor born 10 July 1977),Chiwetel Ejiofor,Chiwetel Ejiofor,1,3597.01
+hotpot,123,512,baai,True,In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?,"Nairobi, Kenya","Nairobi, Kenya.",1,3574.23
+hotpot,123,512,baai,True,Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?,Naomi Elaine Campbell,Naomi Campbell.,1,4237.47
+hotpot,123,512,baai,True,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,Nick Carter.,1,3337.38
+hotpot,123,512,baai,True,How far from Sacramento is the flight school in Atwater?,about 115 miles (185 km),115 miles,1,3085.26
+hotpot,123,512,baai,True,Who fills in occasionally for the meteorologist who replaced  Ginger Zee ?,Kait Parker,Rob Marciano.,0,3752.86
+hotpot,123,512,baai,True,"From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",the Parthian Empire,Khosrau II's empire.,0,4292.54
+hotpot,123,512,baai,True,What NIFL Premier Intermediate League team did Sean Connor play for?,Distillery,Lisburn Distillery.,1,3408.61
+hotpot,123,512,baai,True,"Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",Nusretiye Mosque,Nusretiye Mosque.,1,4228.44
+hotpot,123,512,baai,True,Pandikona and Berger Blanc Suisse are both what kinds of animals?,dogs,Hunting dogs.,1,4103.5
+hotpot,123,512,baai,True,"In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?","""Kitty Hawk""",Casper.,0,3312.95
+hotpot,123,512,baai,True,Which was built first Woolworth Building or 1 New York Plaza?,Woolworth Building,Woolworth Building.,1,3113.35
+hotpot,123,512,baai,True,"Spawn, a fictional character who Mustafa Shakir has expressed interest in playing, was created by?",Todd McFarlane,Todd McFarlane.,1,3880.09
+hotpot,123,512,baai,True,"Between Greyia and Calibanus, which genus contains more species?",Greyia,No information.,0,4176.42
+hotpot,123,512,baai,True,"The band who released the debut album ""Tinted Windows"" had their first performance in what city?",Tulsa,New York City,0,3573.89
+hotpot,123,512,baai,True,What company did Rex Maughan aquire?,Aloe Vera of America,Aloe Vera of America.,1,3299.77
+hotpot,123,512,baai,True,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,3601.29
+hotpot,123,512,baai,True,In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?,1755,1755,1,3986.13
+hotpot,123,512,baai,True,At what age did Cieli di Toscana's singer become blind?,Bocelli became completely blind at the age of 12,Age 12.,1,3556.81
+hotpot,123,512,baai,True,"Which French aristocrat and military officer who fought in the American Revolutionary War visited this historic home located at Enfield, Halifax County, North Carolina, known as The Cellar?",Marquis de Lafayette,No information available.,0,3582.79
+hotpot,123,512,baai,True,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,Army & Navy Stores.,1,3580.43
+hotpot,123,512,baai,True,Did John Updike and Tom Clancy both publish more than 15 bestselling novels?,yes,"Yes, they did.",0,3517.3
+hotpot,123,512,baai,True,A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?,Francis McPeake,Robert Tannahill.,1,3806.1
+hotpot,123,512,baai,True,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Kurt Gerstein.,1,3519.56
+hotpot,123,512,baai,True,Are Phlebodium and Pieris both species of ferns?,no,"No, they are not.",1,4214.56
+hotpot,123,512,baai,True,New York State Route 9R rejoins its parent in a hamlet located  in what New York County?,Albany,Albany County.,1,4429.5
+hotpot,123,512,baai,True,In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?,1945,Not provided.,0,3154.95
+hotpot,123,512,baai,True,"Which film does ""Naked Weapon"" follow in the ""Naked"" series?","""Naked Killer""",Naked Gun.,0,3768.8
+hotpot,123,512,baai,True,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia","Steak, fish, vegetables.",0,3235.01
+hotpot,123,512,baai,True,Who covered the song I Love You by Chris Write?,People! and The Carnabeats,No information available.,0,3316.52
+hotpot,123,512,baai,True,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",English,British novelist.,1,3690.24
+hotpot,123,512,baai,True, What is the title of the memoir written by the honoree of the Black and White Ball?,Personal History,Personal History,1,3468.39
+hotpot,123,512,baai,True," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,Winnie the Pooh and the Honey Tree.,0,3468.98
+hotpot,123,512,baai,True,"In what city did the ""Prince of tenors"" star in a film based on an opera by Giacomo Puccini?",Rome,No specific information.,0,3993.63
+hotpot,123,512,baai,False,"Which player, who also played for the New Jersey Nets and the Golden State Warriors, finished third in the league with 231 three-point field goals during the 1995-96 Atlanta Hawks season?",Mookie Blaylock,Mookie Blaylock.,1,1121.82
+hotpot,123,512,baai,False,What 1876 battle featured the Other Magpie?,Battle of the Rosebud,Battle of Rosebud.,1,962.71
+hotpot,123,512,baai,False,The Dogwoman telemovies were created by an actress born in what year?,1961,Magda Szubanski.,0,1252.63
+hotpot,123,512,baai,False,Jihad: A Story of the Others is a documentary by the director who is of what descent?,Punjabi/Pashtun,Indonesian.,0,1114.01
+hotpot,123,512,baai,False,What was the capital of India when the Taj Mahal was commissioned?,Agra,Agra.,1,1157.58
+hotpot,123,512,baai,False,The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?,the green fairy,Marskin ryyppy.,0,1207.89
+hotpot,123,512,baai,False,"The town of Sinclair, West Virginia, is named after the founder of the local oil drilling company. What is on Sinclair Oil's famous logo?",dinosaur,Large green dinosaur.,1,1147.87
+hotpot,123,512,baai,False,Which Victorian poet was born in a 15th-century castle home to the Earl of Southesk?,Charlotte Carnegie,Lady Charlotte Elliot.,1,1106.63
+hotpot,123,512,baai,False,Which major international airport in south-east England ranks as the 8th busiest airport in Europe and replaced Croydon Airport?,Gatwick Airport,Gatwick Airport.,1,1055.28
+hotpot,123,512,baai,False,Cooperative Living Organization is located in a city that is the county seat of what county in Florida?,Alachua,Alachua County.,1,1018.85
+hotpot,123,512,baai,False,Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?,Sam Phillips,Hustle & Flow,0,1583.98
+hotpot,123,512,baai,False,College Humor is a 1933 American pre-Code musical comedy film that starred what American singer and actor who has a trademark warm bass-baritone voice?,"Harry Lillis ""Bing"" Crosby Jr.",Bing Crosby.,1,1134.98
+hotpot,123,512,baai,False,Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?,Henry Lau,Lee Sung-min,1,1151.99
+hotpot,123,512,baai,False,Are Dogo Cubano and the Dutch Shepherd both breeds of dog?,yes,"Yes, they are.",0,1141.38
+hotpot,123,512,baai,False,Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?,Barnoldswick,Barnoldswick.,1,1103.77
+hotpot,123,512,baai,False,"Which king of Northumbria did The ""Historia"" gives the abbot central place in his election as king",Guthred or Guthfrith,Guthred.,1,1281.02
+hotpot,123,512,baai,False,12 Years a Slave starred what British actor born 10 July 1977),Chiwetel Ejiofor,No British actor.,1,1216.86
+hotpot,123,512,baai,False,In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?,"Nairobi, Kenya","Nairobi, Kenya.",1,1031.38
+hotpot,123,512,baai,False,Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?,Naomi Elaine Campbell,No Naomi Campbell.,1,1111.81
+hotpot,123,512,baai,False,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,Brady Seals.,1,2042.93
+hotpot,123,512,baai,False,How far from Sacramento is the flight school in Atwater?,about 115 miles (185 km),115 miles,1,3005.44
+hotpot,123,512,baai,False,Who fills in occasionally for the meteorologist who replaced  Ginger Zee ?,Kait Parker,Rob Marciano.,0,3416.36
+hotpot,123,512,baai,False,"From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",the Parthian Empire,Sasanian Empire.,0,4408.43
+hotpot,123,512,baai,False,What NIFL Premier Intermediate League team did Sean Connor play for?,Distillery,Newington Y.C.,0,3066.14
+hotpot,123,512,baai,False,"Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",Nusretiye Mosque,Nusretiye Mosque.,1,4351.93
+hotpot,123,512,baai,False,Pandikona and Berger Blanc Suisse are both what kinds of animals?,dogs,Sight hounds.,1,3488.4
+hotpot,123,512,baai,False,"In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?","""Kitty Hawk""",Casper.,0,3076.17
+hotpot,123,512,baai,False,Which was built first Woolworth Building or 1 New York Plaza?,Woolworth Building,Woolworth Building.,1,3032.12
+hotpot,123,512,baai,False,"Spawn, a fictional character who Mustafa Shakir has expressed interest in playing, was created by?",Todd McFarlane,Todd McFarlane.,1,4117.39
+hotpot,123,512,baai,False,"Between Greyia and Calibanus, which genus contains more species?",Greyia,No information.,0,3304.15
+hotpot,123,512,baai,False,"The band who released the debut album ""Tinted Windows"" had their first performance in what city?",Tulsa,New York City.,0,4096.43
+hotpot,123,512,baai,False,What company did Rex Maughan aquire?,Aloe Vera of America,Aloe Vera of America.,1,3082.58
+hotpot,123,512,baai,False,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,3232.44
+hotpot,123,512,baai,False,In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?,1755,1755,1,4494.83
+hotpot,123,512,baai,False,At what age did Cieli di Toscana's singer become blind?,Bocelli became completely blind at the age of 12,12 years old.,1,4231.89
+hotpot,123,512,baai,False,"Which French aristocrat and military officer who fought in the American Revolutionary War visited this historic home located at Enfield, Halifax County, North Carolina, known as The Cellar?",Marquis de Lafayette,No information available.,0,3051.1
+hotpot,123,512,baai,False,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,Army & Navy Stores.,1,4174.16
+hotpot,123,512,baai,False,Did John Updike and Tom Clancy both publish more than 15 bestselling novels?,yes,"Yes, they did.",0,3149.77
+hotpot,123,512,baai,False,A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?,Francis McPeake,The Braes of Balquhither.,1,4190.01
+hotpot,123,512,baai,False,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Kurt Gerstein.,1,3124.99
+hotpot,123,512,baai,False,Are Phlebodium and Pieris both species of ferns?,no,"No, they are not.",1,4186.14
+hotpot,123,512,baai,False,New York State Route 9R rejoins its parent in a hamlet located  in what New York County?,Albany,Albany County.,1,4114.11
+hotpot,123,512,baai,False,In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?,1945,Not available.,0,3045.05
+hotpot,123,512,baai,False,"Which film does ""Naked Weapon"" follow in the ""Naked"" series?","""Naked Killer""",Lethal Weapon.,0,3154.97
+hotpot,123,512,baai,False,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia","Steak, fish, vegetables.",0,3441.57
+hotpot,123,512,baai,False,Who covered the song I Love You by Chris Write?,People! and The Carnabeats,No information available.,0,3116.09
+hotpot,123,512,baai,False,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",English,British novelist.,1,4128.49
+hotpot,123,512,baai,False, What is the title of the memoir written by the honoree of the Black and White Ball?,Personal History,Personal History,1,3193.73
+hotpot,123,512,baai,False," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,The Many Adventures.,0,4104.75
+hotpot,123,512,baai,False,"In what city did the ""Prince of tenors"" star in a film based on an opera by Giacomo Puccini?",Rome,New York City.,0,4213.36
+hotpot,123,1024,baai,True,"Which player, who also played for the New Jersey Nets and the Golden State Warriors, finished third in the league with 231 three-point field goals during the 1995-96 Atlanta Hawks season?",Mookie Blaylock,Mookie Blaylock.,1,4883.51
+hotpot,123,1024,baai,True,What 1876 battle featured the Other Magpie?,Battle of the Rosebud,Battle of the Rosebud,1,4787.07
+hotpot,123,1024,baai,True,The Dogwoman telemovies were created by an actress born in what year?,1961,Magda Szubanski.,0,5044.13
+hotpot,123,1024,baai,True,Jihad: A Story of the Others is a documentary by the director who is of what descent?,Punjabi/Pashtun,Israeli.,0,5431.82
+hotpot,123,1024,baai,True,What was the capital of India when the Taj Mahal was commissioned?,Agra,Agra.,1,6161.87
+hotpot,123,1024,baai,True,The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?,the green fairy,Marskin ryyppy.,0,7248.72
+hotpot,123,1024,baai,True,"The town of Sinclair, West Virginia, is named after the founder of the local oil drilling company. What is on Sinclair Oil's famous logo?",dinosaur,Large green dinosaur.,1,6059.77
+hotpot,123,1024,baai,True,Which Victorian poet was born in a 15th-century castle home to the Earl of Southesk?,Charlotte Carnegie,Lady Charlotte Elliot.,1,8549.56
+hotpot,123,1024,baai,True,Which major international airport in south-east England ranks as the 8th busiest airport in Europe and replaced Croydon Airport?,Gatwick Airport,Gatwick Airport.,1,6985.23
+hotpot,123,1024,baai,True,Cooperative Living Organization is located in a city that is the county seat of what county in Florida?,Alachua,Alachua County.,1,5834.62
+hotpot,123,1024,baai,True,Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?,Sam Phillips,Hustle & Flow.,0,6904.43
+hotpot,123,1024,baai,True,College Humor is a 1933 American pre-Code musical comedy film that starred what American singer and actor who has a trademark warm bass-baritone voice?,"Harry Lillis ""Bing"" Crosby Jr.",Bing Crosby.,0,8079.65
+hotpot,123,1024,baai,True,Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?,Henry Lau,Henry Lau.,1,6993.25
+hotpot,123,1024,baai,True,Are Dogo Cubano and the Dutch Shepherd both breeds of dog?,yes,"Yes, they are.",0,6938.42
+hotpot,123,1024,baai,True,Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?,Barnoldswick,Barnoldswick.,1,8285.59
+hotpot,123,1024,baai,True,"Which king of Northumbria did The ""Historia"" gives the abbot central place in his election as king",Guthred or Guthfrith,Oswiu,1,6431.39
+hotpot,123,1024,baai,True,12 Years a Slave starred what British actor born 10 July 1977),Chiwetel Ejiofor,Chiwetel Ejiofor,1,5952.38
+hotpot,123,1024,baai,True,In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?,"Nairobi, Kenya",Dar es Salaam.,1,5720.73
+hotpot,123,1024,baai,True,Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?,Naomi Elaine Campbell,Naomi Campbell.,1,8349.74
+hotpot,123,1024,baai,True,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,Nick Carter.,1,5806.5
+hotpot,123,1024,baai,True,How far from Sacramento is the flight school in Atwater?,about 115 miles (185 km),115 miles,1,5089.1
+hotpot,123,1024,baai,True,Who fills in occasionally for the meteorologist who replaced  Ginger Zee ?,Kait Parker,Rob Marciano.,0,7048.47
+hotpot,123,1024,baai,True,"From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",the Parthian Empire,Sasanian Empire.,0,6758.34
+hotpot,123,1024,baai,True,What NIFL Premier Intermediate League team did Sean Connor play for?,Distillery,Newington Y.C.,0,4906.1
+hotpot,123,1024,baai,True,"Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",Nusretiye Mosque,Nusretiye Mosque.,1,8463.12
+hotpot,123,1024,baai,True,Pandikona and Berger Blanc Suisse are both what kinds of animals?,dogs,Hunting dogs.,1,6899.4
+hotpot,123,1024,baai,True,"In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?","""Kitty Hawk""",Casper.,0,5570.33
+hotpot,123,1024,baai,True,Which was built first Woolworth Building or 1 New York Plaza?,Woolworth Building,Woolworth Building.,1,4665.63
+hotpot,123,1024,baai,True,"Spawn, a fictional character who Mustafa Shakir has expressed interest in playing, was created by?",Todd McFarlane,Todd McFarlane.,1,7084.23
+hotpot,123,1024,baai,True,"Between Greyia and Calibanus, which genus contains more species?",Greyia,No information available.,0,6299.15
+hotpot,123,1024,baai,True,"The band who released the debut album ""Tinted Windows"" had their first performance in what city?",Tulsa,New York City.,0,7728.33
+hotpot,123,1024,baai,True,What company did Rex Maughan aquire?,Aloe Vera of America,Aloe Vera of America.,1,5536.93
+hotpot,123,1024,baai,True,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,6381.29
+hotpot,123,1024,baai,True,In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?,1755,1755,1,8475.19
+hotpot,123,1024,baai,True,At what age did Cieli di Toscana's singer become blind?,Bocelli became completely blind at the age of 12,12 years old.,1,6553.31
+hotpot,123,1024,baai,True,"Which French aristocrat and military officer who fought in the American Revolutionary War visited this historic home located at Enfield, Halifax County, North Carolina, known as The Cellar?",Marquis de Lafayette,No information available.,0,7348.95
+hotpot,123,1024,baai,True,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,Army & Navy Stores.,1,4719.58
+hotpot,123,1024,baai,True,Did John Updike and Tom Clancy both publish more than 15 bestselling novels?,yes,"Yes, they did.",0,5859.35
+hotpot,123,1024,baai,True,A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?,Francis McPeake,Robert Tannahill.,1,7203.8
+hotpot,123,1024,baai,True,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Kurt Gerstein.,1,4965.9
+hotpot,123,1024,baai,True,Are Phlebodium and Pieris both species of ferns?,no,"No, they are not.",1,6084.14
+hotpot,123,1024,baai,True,New York State Route 9R rejoins its parent in a hamlet located  in what New York County?,Albany,Albany County.,1,6461.01
+hotpot,123,1024,baai,True,In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?,1945,Not provided.,0,5395.78
+hotpot,123,1024,baai,True,"Which film does ""Naked Weapon"" follow in the ""Naked"" series?","""Naked Killer""",Lethal Weapon.,0,5905.95
+hotpot,123,1024,baai,True,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia",Beurre Maître d'Hôtel.,0,5520.37
+hotpot,123,1024,baai,True,Who covered the song I Love You by Chris Write?,People! and The Carnabeats,No information available.,0,5778.39
+hotpot,123,1024,baai,True,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",English,British,1,6067.84
+hotpot,123,1024,baai,True, What is the title of the memoir written by the honoree of the Black and White Ball?,Personal History,Personal History,1,7156.58
+hotpot,123,1024,baai,True," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,Winnie the Pooh and the Honey Tree.,0,7956.2
+hotpot,123,1024,baai,True,"In what city did the ""Prince of tenors"" star in a film based on an opera by Giacomo Puccini?",Rome,New York City,0,8526.72
+hotpot,123,1024,baai,False,"Which player, who also played for the New Jersey Nets and the Golden State Warriors, finished third in the league with 231 three-point field goals during the 1995-96 Atlanta Hawks season?",Mookie Blaylock,Mookie Blaylock.,1,1372.62
+hotpot,123,1024,baai,False,What 1876 battle featured the Other Magpie?,Battle of the Rosebud,Battle of the Rosebud,1,4172.65
+hotpot,123,1024,baai,False,The Dogwoman telemovies were created by an actress born in what year?,1961,Magda Szubanski.,0,6341.09
+hotpot,123,1024,baai,False,Jihad: A Story of the Others is a documentary by the director who is of what descent?,Punjabi/Pashtun,Indonesian.,0,6392.23
+hotpot,123,1024,baai,False,What was the capital of India when the Taj Mahal was commissioned?,Agra,Agra.,1,6675.04
+hotpot,123,1024,baai,False,The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?,the green fairy,Marskin ryyppy.,0,6360.42
+hotpot,123,1024,baai,False,"The town of Sinclair, West Virginia, is named after the founder of the local oil drilling company. What is on Sinclair Oil's famous logo?",dinosaur,Large green dinosaur.,1,6158.77
+hotpot,123,1024,baai,False,Which Victorian poet was born in a 15th-century castle home to the Earl of Southesk?,Charlotte Carnegie,Lady Charlotte Elliot.,1,8492.64
+hotpot,123,1024,baai,False,Which major international airport in south-east England ranks as the 8th busiest airport in Europe and replaced Croydon Airport?,Gatwick Airport,Gatwick Airport.,1,7326.42
+hotpot,123,1024,baai,False,Cooperative Living Organization is located in a city that is the county seat of what county in Florida?,Alachua,Alachua County.,1,5201.19
+hotpot,123,1024,baai,False,Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?,Sam Phillips,Hustle & Flow,0,5357.78
+hotpot,123,1024,baai,False,College Humor is a 1933 American pre-Code musical comedy film that starred what American singer and actor who has a trademark warm bass-baritone voice?,"Harry Lillis ""Bing"" Crosby Jr.",Bing Crosby.,1,6199.99
+hotpot,123,1024,baai,False,Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?,Henry Lau,Henry Lau.,1,6379.32
+hotpot,123,1024,baai,False,Are Dogo Cubano and the Dutch Shepherd both breeds of dog?,yes,"Yes, they are.",0,7390.74
+hotpot,123,1024,baai,False,Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?,Barnoldswick,Barnoldswick.,1,7813.84
+hotpot,123,1024,baai,False,"Which king of Northumbria did The ""Historia"" gives the abbot central place in his election as king",Guthred or Guthfrith,Oswiu's son.,1,6493.33
+hotpot,123,1024,baai,False,12 Years a Slave starred what British actor born 10 July 1977),Chiwetel Ejiofor,Chiwetel Ejiofor,1,5889.77
+hotpot,123,1024,baai,False,In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?,"Nairobi, Kenya","Nairobi, Kenya.",1,6877.9
+hotpot,123,1024,baai,False,Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?,Naomi Elaine Campbell,Naomi Campbell.,1,8042.3
+hotpot,123,1024,baai,False,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,Nick Carter.,1,8049.02
+hotpot,123,1024,baai,False,How far from Sacramento is the flight school in Atwater?,about 115 miles (185 km),115 miles,1,4780.05
+hotpot,123,1024,baai,False,Who fills in occasionally for the meteorologist who replaced  Ginger Zee ?,Kait Parker,Rob Marciano.,0,6943.97
+hotpot,123,1024,baai,False,"From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",the Parthian Empire,Sasanian Empire.,0,5968.36
+hotpot,123,1024,baai,False,What NIFL Premier Intermediate League team did Sean Connor play for?,Distillery,No information.,0,5857.28
+hotpot,123,1024,baai,False,"Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",Nusretiye Mosque,Nusretiye Mosque.,1,7864.59
+hotpot,123,1024,baai,False,Pandikona and Berger Blanc Suisse are both what kinds of animals?,dogs,Hunting dogs.,1,7780.39
+hotpot,123,1024,baai,False,"In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?","""Kitty Hawk""",Casper.,0,4848.02
+hotpot,123,1024,baai,False,Which was built first Woolworth Building or 1 New York Plaza?,Woolworth Building,Woolworth Building.,1,6232.37
+hotpot,123,1024,baai,False,"Spawn, a fictional character who Mustafa Shakir has expressed interest in playing, was created by?",Todd McFarlane,Todd McFarlane.,1,7443.18
+hotpot,123,1024,baai,False,"Between Greyia and Calibanus, which genus contains more species?",Greyia,No information available.,0,6110.1
+hotpot,123,1024,baai,False,"The band who released the debut album ""Tinted Windows"" had their first performance in what city?",Tulsa,New York City.,0,6315.71
+hotpot,123,1024,baai,False,What company did Rex Maughan aquire?,Aloe Vera of America,Aloe Vera of America.,1,7343.11
+hotpot,123,1024,baai,False,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,5539.3
+hotpot,123,1024,baai,False,In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?,1755,1755,1,6902.14
+hotpot,123,1024,baai,False,At what age did Cieli di Toscana's singer become blind?,Bocelli became completely blind at the age of 12,12 years old.,1,6526.08
+hotpot,123,1024,baai,False,"Which French aristocrat and military officer who fought in the American Revolutionary War visited this historic home located at Enfield, Halifax County, North Carolina, known as The Cellar?",Marquis de Lafayette,No information available.,0,7308.93
+hotpot,123,1024,baai,False,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,Army & Navy Stores.,1,5284.96
+hotpot,123,1024,baai,False,Did John Updike and Tom Clancy both publish more than 15 bestselling novels?,yes,"Yes, they did.",0,5410.11
+hotpot,123,1024,baai,False,A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?,Francis McPeake,Francis McPeake.,1,8572.29
+hotpot,123,1024,baai,False,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Rudolf Höss.,1,6412.51
+hotpot,123,1024,baai,False,Are Phlebodium and Pieris both species of ferns?,no,"No, Pieris is a plant genus.",1,7549.89
+hotpot,123,1024,baai,False,New York State Route 9R rejoins its parent in a hamlet located  in what New York County?,Albany,Boght Corners.,1,7585.52
+hotpot,123,1024,baai,False,In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?,1945,Not available.,0,5216.76
+hotpot,123,1024,baai,False,"Which film does ""Naked Weapon"" follow in the ""Naked"" series?","""Naked Killer""",Lethal Weapon.,0,5355.91
+hotpot,123,1024,baai,False,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia","Beurre Maître d'Hôtel 
+Pub cheese",0,6291.85
+hotpot,123,1024,baai,False,Who covered the song I Love You by Chris Write?,People! and The Carnabeats,No information available.,0,5364.91
+hotpot,123,1024,baai,False,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",English,British,1,6522.5
+hotpot,123,1024,baai,False, What is the title of the memoir written by the honoree of the Black and White Ball?,Personal History,Personal History,1,5379.27
+hotpot,123,1024,baai,False," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,The Many Adventures.,0,6290.23
+hotpot,123,1024,baai,False,"In what city did the ""Prince of tenors"" star in a film based on an opera by Giacomo Puccini?",Rome,New York City.,0,6688.48
+hotpot,456,256,baai,True,What Disney movie was the wrestler with the real name of John William Minton in?,Double Agent,No Disney movie.,0,2822.16
+hotpot,456,256,baai,True,What sports team included both of the brothers Case McCoy and Colt McCoy during different years?,University of Texas Longhorns,University of Texas.,1,2601.18
+hotpot,456,256,baai,True,Black Book starred the actress and writer of what heritage?,Dutch,Dutch heritage.,1,2825.91
+hotpot,456,256,baai,True,Jihad: A Story of the Others is a documentary by the director who is of what descent?,Punjabi/Pashtun,Israeli.,0,2843.35
+hotpot,456,256,baai,True,Which actor does American Beauty and American Beauty have in common?,Kevin Spacey,None.,0,2290.97
+hotpot,456,256,baai,True,Which award David Hersey had got for Equus a play by Peter Shaffer ?,Outstanding Lighting Design,No information.,0,2693.55
+hotpot,456,256,baai,True,Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?,Barnoldswick,Barnoldswick.,1,2828.6
+hotpot,456,256,baai,True,What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?,Revengers Tragedy,Revengers Tragedy.,1,2842.0
+hotpot,456,256,baai,True,Which was built first Woolworth Building or 1 New York Plaza?,Woolworth Building,Woolworth Building.,1,2202.11
+hotpot,456,256,baai,True,Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?,Henry Lau,Unknown actor.,0,2691.81
+hotpot,456,256,baai,True,Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?,Naomi Elaine Campbell,No supermodel.,0,2971.71
+hotpot,456,256,baai,True,"Which plant, the Chaerophyllum or the Cryptanthus, can be found in various places across the world?",Chaerophyllum,Chaerophyllum.,1,2648.95
+hotpot,456,256,baai,True,Ken Pruitt  was a Republican member of an upper house of the legislature with how many members ?,40 members,Florida Senate.,1,2340.75
+hotpot,456,256,baai,True,Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?,Fiat Chrysler Automobiles N.V.,Chrysler Corporation.,0,2660.07
+hotpot,456,256,baai,True,"What mine was operated by Royal Oak Mines at at earlier date, Kemess Mine or Colomac Mine?",The Colomac Mine,Giant Mine.,0,2435.55
+hotpot,456,256,baai,True,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia","Steak, fish, vegetables.",0,2492.44
+hotpot,456,256,baai,True,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",English,British novelist.,0,2622.68
+hotpot,456,256,baai,True,"Which dog is believed to dispel ghosts and evil spirits, Segugio Italiano or Sapsali?",Sapsali,Neither of them.,0,2979.37
+hotpot,456,256,baai,True,What class of instrument does Apatim Majumdar play?,strings,Sarod.,0,2573.2
+hotpot,456,256,baai,True,"What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?","Carolyn Janice Cherry (born September 1, 1942), better known by the pen name C. J. Cherryh,",C. J. Cherryh.,0,2678.66
+hotpot,456,256,baai,True,Who is a Brazilian mixed martial artist in the UFC who Namsaknoi Yudthagarngamtorn coached?,Rafael Souza dos Anjos,Rafael dos Anjos.,1,2922.22
+hotpot,456,256,baai,True,The Airport located next to the A13 handled how many passengers in 2016 ?,1.6 million passengers,"847,257",0,2357.33
+hotpot,456,256,baai,True,what language did the ethnic group which Torstein Ellingsen was its drumer  speaks ,Norwegian language,Turkish,0,2792.32
+hotpot,456,256,baai,True,Jalen Jones plays basketball for an NBA team that plays their home games in what arena?,Smoothie King Center,Rose Garden,0,2398.25
+hotpot,456,256,baai,True,"Which French aristocrat and military officer who fought in the American Revolutionary War visited this historic home located at Enfield, Halifax County, North Carolina, known as The Cellar?",Marquis de Lafayette,Marquis de Lafayette.,0,2679.93
+hotpot,456,256,baai,True,Live Wire Radio will possibly be considered as a replacement for a variety show created in what year?,1974,1974,1,2735.75
+hotpot,456,256,baai,True,In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?,1755,1755,1,3006.22
+hotpot,456,256,baai,True,Are both The Straight Story and Frozen films of the same genre?,no,"No, they are not.",1,2503.65
+hotpot,456,256,baai,True,"The town of Sinclair, West Virginia, is named after the founder of the local oil drilling company. What is on Sinclair Oil's famous logo?",dinosaur,Large green dinosaur.,1,2667.17
+hotpot,456,256,baai,True,"In what city did the ""Prince of tenors"" star in a film based on an opera by Giacomo Puccini?",Rome,New York City.,0,2848.59
+hotpot,456,256,baai,True,Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?,The Changing Scottish Landscape,No information.,0,2818.75
+hotpot,456,256,baai,True,The Distribution of Industry act was passed by a man who was prime minister when? ,1945 to 1951,1937,0,2294.97
+hotpot,456,256,baai,True,What was the slogan  that came about from the idea of Lebensraum which had its most extreme form supported by the Nazi Party until the end of World War II?,Blood and soil,"""Drang nach Osten""",0,2839.62
+hotpot,456,256,baai,True,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Wirth and Höss.,1,2515.44
+hotpot,456,256,baai,True,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,2530.05
+hotpot,456,256,baai,True,"From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",the Parthian Empire,Sasanian Empire.,0,3168.74
+hotpot,456,256,baai,True,"The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",evangelical Christian,Wesleyan.,0,2971.24
+hotpot,456,256,baai,True,Any Questions for Ben? was directed by which Australian producer and actor?,"Robert Ian ""Rob"" Sitch",Tony Dupe.,0,2404.24
+hotpot,456,256,baai,True,"What type of license is the open source roguelike video game video released 2012, in which a subset of it's pricing model is a called free-to-play, licensed under?",GNU GPLv3,Open Source License.,0,2758.51
+hotpot,456,256,baai,True,In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?,"Nairobi, Kenya","Nairobi, Kenya.",1,2539.93
+hotpot,456,256,baai,True,The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?,the green fairy,Zurra,0,3123.24
+hotpot,456,256,baai,True,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,House of Fraser.,0,2541.82
+hotpot,456,256,baai,True,Josh Trank and Mike Valerio both work in what industry?,entertainment,Film industry.,0,2288.09
+hotpot,456,256,baai,True,The first female correspondent for Inside the NFL was replaced by who on the show American Ninja Warrior?,Kristine Leahy,Angela Sun.,0,2537.97
+hotpot,456,256,baai,True,What is the ratio of flow velocity past a boundary to the local speed of sound for a Saab JAS 39 Gripen?,2,Mach number.,0,2532.5
+hotpot,456,256,baai,True,"Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",Nusretiye Mosque,Nusretiye Mosque.,0,2926.07
+hotpot,456,256,baai,True,What country is the theme park served by the Huis Ten Bosch train service themed on?,Netherlands,The Netherlands.,1,2775.94
+hotpot,456,256,baai,True,What was the capital of India when the Taj Mahal was commissioned?,Agra,Agra.,1,2587.71
+hotpot,456,256,baai,True," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,The Many Adventures.,0,2527.81
+hotpot,456,256,baai,True,which Mexican and American film actress is Ethel Houbiers  French voice of ,Salma Hayek Pinault,Salma Hayek.,1,2819.43
+hotpot,456,256,baai,False,What Disney movie was the wrestler with the real name of John William Minton in?,Double Agent,No Way Out.,0,1226.8
+hotpot,456,256,baai,False,What sports team included both of the brothers Case McCoy and Colt McCoy during different years?,University of Texas Longhorns,University of Texas.,1,1124.03
+hotpot,456,256,baai,False,Black Book starred the actress and writer of what heritage?,Dutch,Dutch heritage.,1,1200.21
+hotpot,456,256,baai,False,Jihad: A Story of the Others is a documentary by the director who is of what descent?,Punjabi/Pashtun,Israeli.,0,1311.85
+hotpot,456,256,baai,False,Which actor does American Beauty and American Beauty have in common?,Kevin Spacey,None.,0,1118.21
+hotpot,456,256,baai,False,Which award David Hersey had got for Equus a play by Peter Shaffer ?,Outstanding Lighting Design,No information available.,0,1272.67
+hotpot,456,256,baai,False,Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?,Barnoldswick,Barnoldswick.,1,1140.27
+hotpot,456,256,baai,False,What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?,Revengers Tragedy,Revengers Tragedy.,1,1115.57
+hotpot,456,256,baai,False,Which was built first Woolworth Building or 1 New York Plaza?,Woolworth Building,Woolworth Building.,1,1048.12
+hotpot,456,256,baai,False,Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?,Henry Lau,Eunhyuk,0,1186.68
+hotpot,456,256,baai,False,Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?,Naomi Elaine Campbell,Naomi Campbell.,1,1220.46
+hotpot,456,256,baai,False,"Which plant, the Chaerophyllum or the Cryptanthus, can be found in various places across the world?",Chaerophyllum,Chaerophyllum.,1,1057.73
+hotpot,456,256,baai,False,Ken Pruitt  was a Republican member of an upper house of the legislature with how many members ?,40 members,No information.,0,979.74
+hotpot,456,256,baai,False,Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?,Fiat Chrysler Automobiles N.V.,Chrysler Corporation.,0,1120.51
+hotpot,456,256,baai,False,"What mine was operated by Royal Oak Mines at at earlier date, Kemess Mine or Colomac Mine?",The Colomac Mine,Giant Mine.,0,1012.34
+hotpot,456,256,baai,False,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia",Fresh meat.,0,1127.75
+hotpot,456,256,baai,False,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",English,British novelist.,0,1081.51
+hotpot,456,256,baai,False,"Which dog is believed to dispel ghosts and evil spirits, Segugio Italiano or Sapsali?",Sapsali,Sapsali.,0,1179.87
+hotpot,456,256,baai,False,What class of instrument does Apatim Majumdar play?,strings,Sarod,1,1210.99
+hotpot,456,256,baai,False,"What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?","Carolyn Janice Cherry (born September 1, 1942), better known by the pen name C. J. Cherryh,",C. J. Cherryh.,0,1078.09
+hotpot,456,256,baai,False,Who is a Brazilian mixed martial artist in the UFC who Namsaknoi Yudthagarngamtorn coached?,Rafael Souza dos Anjos,Rafael Dos Anjos.,0,1220.27
+hotpot,456,256,baai,False,The Airport located next to the A13 handled how many passengers in 2016 ?,1.6 million passengers,Heathrow.,0,1069.97
+hotpot,456,256,baai,False,what language did the ethnic group which Torstein Ellingsen was its drumer  speaks ,Norwegian language,Azerbaijani,0,1356.22
+hotpot,456,256,baai,False,Jalen Jones plays basketball for an NBA team that plays their home games in what arena?,Smoothie King Center,No information provided about Jalen Jones or the arena.,0,1023.93
+hotpot,456,256,baai,False,"Which French aristocrat and military officer who fought in the American Revolutionary War visited this historic home located at Enfield, Halifax County, North Carolina, known as The Cellar?",Marquis de Lafayette,Marquis de Lafayette.,0,1000.29
+hotpot,456,256,baai,False,Live Wire Radio will possibly be considered as a replacement for a variety show created in what year?,1974,Garrison Keillor's show was launched in 1980.,0,1150.25
+hotpot,456,256,baai,False,In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?,1755,1755,1,1523.47
+hotpot,456,256,baai,False,Are both The Straight Story and Frozen films of the same genre?,no,"No, they are not.",1,1271.78
+hotpot,456,256,baai,False,"The town of Sinclair, West Virginia, is named after the founder of the local oil drilling company. What is on Sinclair Oil's famous logo?",dinosaur,Dinosaur Joe,0,1030.95
+hotpot,456,256,baai,False,"In what city did the ""Prince of tenors"" star in a film based on an opera by Giacomo Puccini?",Rome,New York City.,0,1227.48
+hotpot,456,256,baai,False,Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?,The Changing Scottish Landscape,No information.,0,1098.0
+hotpot,456,256,baai,False,The Distribution of Industry act was passed by a man who was prime minister when? ,1945 to 1951,1937,0,1103.35
+hotpot,456,256,baai,False,What was the slogan  that came about from the idea of Lebensraum which had its most extreme form supported by the Nazi Party until the end of World War II?,Blood and soil,"""Drang nach Osten""",0,1161.98
+hotpot,456,256,baai,False,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Degesch and Höss.,1,1075.35
+hotpot,456,256,baai,False,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,1280.68
+hotpot,456,256,baai,False,"From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",the Parthian Empire,Sasanian Empire.,0,1489.62
+hotpot,456,256,baai,False,"The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",evangelical Christian,Methodist.,0,1279.09
+hotpot,456,256,baai,False,Any Questions for Ben? was directed by which Australian producer and actor?,"Robert Ian ""Rob"" Sitch",Glenn Robbins.,0,1058.57
+hotpot,456,256,baai,False,"What type of license is the open source roguelike video game video released 2012, in which a subset of it's pricing model is a called free-to-play, licensed under?",GNU GPLv3,Open Source License.,0,1231.71
+hotpot,456,256,baai,False,In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?,"Nairobi, Kenya",Dar es Salaam.,0,1181.11
+hotpot,456,256,baai,False,The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?,the green fairy,Marskin ryyppy.,0,1208.74
+hotpot,456,256,baai,False,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,House of Fraser.,1,981.17
+hotpot,456,256,baai,False,Josh Trank and Mike Valerio both work in what industry?,entertainment,Film industry.,0,1020.88
+hotpot,456,256,baai,False,The first female correspondent for Inside the NFL was replaced by who on the show American Ninja Warrior?,Kristine Leahy,Alison Haislip.,0,1029.89
+hotpot,456,256,baai,False,What is the ratio of flow velocity past a boundary to the local speed of sound for a Saab JAS 39 Gripen?,2,Mach number.,0,1115.11
+hotpot,456,256,baai,False,"Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",Nusretiye Mosque,Yıldız Hamidiye Mosque.,0,1297.63
+hotpot,456,256,baai,False,What country is the theme park served by the Huis Ten Bosch train service themed on?,Netherlands,The Netherlands.,1,1176.39
+hotpot,456,256,baai,False,What was the capital of India when the Taj Mahal was commissioned?,Agra,Agra.,1,1161.68
+hotpot,456,256,baai,False," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,Ride a Wild Pony.,0,1062.32
+hotpot,456,256,baai,False,which Mexican and American film actress is Ethel Houbiers  French voice of ,Salma Hayek Pinault,Salma Hayek.,1,1354.97
+hotpot,456,512,baai,True,What Disney movie was the wrestler with the real name of John William Minton in?,Double Agent,No Disney movie.,0,3499.82
+hotpot,456,512,baai,True,What sports team included both of the brothers Case McCoy and Colt McCoy during different years?,University of Texas Longhorns,University of Texas.,1,3615.4
+hotpot,456,512,baai,True,Black Book starred the actress and writer of what heritage?,Dutch,Dutch heritage.,1,3361.27
+hotpot,456,512,baai,True,Jihad: A Story of the Others is a documentary by the director who is of what descent?,Punjabi/Pashtun,Israeli filmmaker.,0,3748.13
+hotpot,456,512,baai,True,Which actor does American Beauty and American Beauty have in common?,Kevin Spacey,None.,0,3397.81
+hotpot,456,512,baai,True,Which award David Hersey had got for Equus a play by Peter Shaffer ?,Outstanding Lighting Design,No information.,0,3651.47
+hotpot,456,512,baai,True,Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?,Barnoldswick,Barnoldswick.,1,3724.35
+hotpot,456,512,baai,True,What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?,Revengers Tragedy,Revengers Tragedy.,1,3832.08
+hotpot,456,512,baai,True,Which was built first Woolworth Building or 1 New York Plaza?,Woolworth Building,Woolworth Building.,1,3106.27
+hotpot,456,512,baai,True,Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?,Henry Lau,Lee Sung-min.,0,3626.98
+hotpot,456,512,baai,True,Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?,Naomi Elaine Campbell,Naomi Campbell.,1,3904.13
+hotpot,456,512,baai,True,"Which plant, the Chaerophyllum or the Cryptanthus, can be found in various places across the world?",Chaerophyllum,Chaerophyllum.,1,3577.87
+hotpot,456,512,baai,True,Ken Pruitt  was a Republican member of an upper house of the legislature with how many members ?,40 members,40 members.,1,3356.34
+hotpot,456,512,baai,True,Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?,Fiat Chrysler Automobiles N.V.,Fiat Chrysler.,1,3549.02
+hotpot,456,512,baai,True,"What mine was operated by Royal Oak Mines at at earlier date, Kemess Mine or Colomac Mine?",The Colomac Mine,No information.,0,3388.68
+hotpot,456,512,baai,True,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia","Steak, fish, vegetables.",0,3207.94
+hotpot,456,512,baai,True,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",English,British novelist.,1,3836.51
+hotpot,456,512,baai,True,"Which dog is believed to dispel ghosts and evil spirits, Segugio Italiano or Sapsali?",Sapsali,Neither of them.,0,3744.83
+hotpot,456,512,baai,True,What class of instrument does Apatim Majumdar play?,strings,String instrument.,0,3358.78
+hotpot,456,512,baai,True,"What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?","Carolyn Janice Cherry (born September 1, 1942), better known by the pen name C. J. Cherryh,",C. J. Cherryh.,0,3675.36
+hotpot,456,512,baai,True,Who is a Brazilian mixed martial artist in the UFC who Namsaknoi Yudthagarngamtorn coached?,Rafael Souza dos Anjos,José Aldo.,1,4009.43
+hotpot,456,512,baai,True,The Airport located next to the A13 handled how many passengers in 2016 ?,1.6 million passengers,No information about the A13 airport.,0,3462.91
+hotpot,456,512,baai,True,what language did the ethnic group which Torstein Ellingsen was its drumer  speaks ,Norwegian language,Norwegian.,0,3843.86
+hotpot,456,512,baai,True,Jalen Jones plays basketball for an NBA team that plays their home games in what arena?,Smoothie King Center,Moda Center.,0,3069.96
+hotpot,456,512,baai,True,"Which French aristocrat and military officer who fought in the American Revolutionary War visited this historic home located at Enfield, Halifax County, North Carolina, known as The Cellar?",Marquis de Lafayette,No information available.,0,3495.54
+hotpot,456,512,baai,True,Live Wire Radio will possibly be considered as a replacement for a variety show created in what year?,1974,1974,1,3296.39
+hotpot,456,512,baai,True,In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?,1755,1755,1,3843.96
+hotpot,456,512,baai,True,Are both The Straight Story and Frozen films of the same genre?,no,"No, different genres.",1,3319.5
+hotpot,456,512,baai,True,"The town of Sinclair, West Virginia, is named after the founder of the local oil drilling company. What is on Sinclair Oil's famous logo?",dinosaur,Large green dinosaur.,1,3529.48
+hotpot,456,512,baai,True,"In what city did the ""Prince of tenors"" star in a film based on an opera by Giacomo Puccini?",Rome,No specific information.,0,3796.19
+hotpot,456,512,baai,True,Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?,The Changing Scottish Landscape,Unknown source.,0,3844.8
+hotpot,456,512,baai,True,The Distribution of Industry act was passed by a man who was prime minister when? ,1945 to 1951,Reindeer Act.,0,3206.9
+hotpot,456,512,baai,True,What was the slogan  that came about from the idea of Lebensraum which had its most extreme form supported by the Nazi Party until the end of World War II?,Blood and soil,"""Drang nach Osten""",0,3672.67
+hotpot,456,512,baai,True,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Kurt Gerstein.,1,3404.52
+hotpot,456,512,baai,True,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,3572.07
+hotpot,456,512,baai,True,"From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",the Parthian Empire,Khosrau II's empire.,0,4154.72
+hotpot,456,512,baai,True,"The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",evangelical Christian,Christian.,0,3672.44
+hotpot,456,512,baai,True,Any Questions for Ben? was directed by which Australian producer and actor?,"Robert Ian ""Rob"" Sitch",Glendyn Ivin,0,3298.52
+hotpot,456,512,baai,True,"What type of license is the open source roguelike video game video released 2012, in which a subset of it's pricing model is a called free-to-play, licensed under?",GNU GPLv3,Open Source Initiative.,0,3706.49
+hotpot,456,512,baai,True,In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?,"Nairobi, Kenya","Nairobi, Kenya.",1,3381.72
+hotpot,456,512,baai,True,The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?,the green fairy,Marskin ryyppy.,0,3912.95
+hotpot,456,512,baai,True,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,Army & Navy Stores.,1,3415.39
+hotpot,456,512,baai,True,Josh Trank and Mike Valerio both work in what industry?,entertainment,Film and music.,0,3135.92
+hotpot,456,512,baai,True,The first female correspondent for Inside the NFL was replaced by who on the show American Ninja Warrior?,Kristine Leahy,Alison Haislip.,0,3535.9
+hotpot,456,512,baai,True,What is the ratio of flow velocity past a boundary to the local speed of sound for a Saab JAS 39 Gripen?,2,Mach number.,1,3441.24
+hotpot,456,512,baai,True,"Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",Nusretiye Mosque,Nusretiye Mosque.,1,4171.65
+hotpot,456,512,baai,True,What country is the theme park served by the Huis Ten Bosch train service themed on?,Netherlands,The Netherlands.,1,3705.55
+hotpot,456,512,baai,True,What was the capital of India when the Taj Mahal was commissioned?,Agra,Agra.,1,1617.48
+hotpot,456,512,baai,True," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,Winnie the Pooh and the Honey Tree.,0,1600.06
+hotpot,456,512,baai,True,which Mexican and American film actress is Ethel Houbiers  French voice of ,Salma Hayek Pinault,Salma Hayek.,1,1694.72
+hotpot,456,512,baai,False,What Disney movie was the wrestler with the real name of John William Minton in?,Double Agent,No Way Out.,0,666.72
+hotpot,456,512,baai,False,What sports team included both of the brothers Case McCoy and Colt McCoy during different years?,University of Texas Longhorns,University of Texas.,1,560.86
+hotpot,456,512,baai,False,Black Book starred the actress and writer of what heritage?,Dutch,Dutch heritage.,1,569.02
+hotpot,456,512,baai,False,Jihad: A Story of the Others is a documentary by the director who is of what descent?,Punjabi/Pashtun,Indonesian.,0,577.25
+hotpot,456,512,baai,False,Which actor does American Beauty and American Beauty have in common?,Kevin Spacey,Kevin Spacey.,1,666.68
+hotpot,456,512,baai,False,Which award David Hersey had got for Equus a play by Peter Shaffer ?,Outstanding Lighting Design,No Tony Award.,1,553.16
+hotpot,456,512,baai,False,Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?,Barnoldswick,Barnoldswick.,1,518.23
+hotpot,456,512,baai,False,What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?,Revengers Tragedy,Revengers Tragedy.,1,3779.19
+hotpot,456,512,baai,False,Which was built first Woolworth Building or 1 New York Plaza?,Woolworth Building,Woolworth Building.,1,3561.75
+hotpot,456,512,baai,False,Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?,Henry Lau,Lee Sung-min,1,2643.88
+hotpot,456,512,baai,False,Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?,Naomi Elaine Campbell,No Naomi Campbell.,1,4620.95
+hotpot,456,512,baai,False,"Which plant, the Chaerophyllum or the Cryptanthus, can be found in various places across the world?",Chaerophyllum,Chaerophyllum.,1,3750.93
+hotpot,456,512,baai,False,Ken Pruitt  was a Republican member of an upper house of the legislature with how many members ?,40 members,40 members.,1,3637.05
+hotpot,456,512,baai,False,Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?,Fiat Chrysler Automobiles N.V.,Fiat Chrysler.,1,3633.61
+hotpot,456,512,baai,False,"What mine was operated by Royal Oak Mines at at earlier date, Kemess Mine or Colomac Mine?",The Colomac Mine,Giant Mine.,0,2641.72
+hotpot,456,512,baai,False,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia","Steak, fish, vegetables.",0,3575.99
+hotpot,456,512,baai,False,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",English,British novelist.,1,3571.49
+hotpot,456,512,baai,False,"Which dog is believed to dispel ghosts and evil spirits, Segugio Italiano or Sapsali?",Sapsali,Neither of them.,0,3631.37
+hotpot,456,512,baai,False,What class of instrument does Apatim Majumdar play?,strings,Stringed instrument.,1,3634.85
+hotpot,456,512,baai,False,"What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?","Carolyn Janice Cherry (born September 1, 1942), better known by the pen name C. J. Cherryh,",C. J. Cherryh.,0,4650.16
+hotpot,456,512,baai,False,Who is a Brazilian mixed martial artist in the UFC who Namsaknoi Yudthagarngamtorn coached?,Rafael Souza dos Anjos,No information.,1,3680.95
+hotpot,456,512,baai,False,The Airport located next to the A13 handled how many passengers in 2016 ?,1.6 million passengers,No information.,0,2547.49
+hotpot,456,512,baai,False,what language did the ethnic group which Torstein Ellingsen was its drumer  speaks ,Norwegian language,Norwegian.,0,3678.47
+hotpot,456,512,baai,False,Jalen Jones plays basketball for an NBA team that plays their home games in what arena?,Smoothie King Center,Moda Center,0,3569.18
+hotpot,456,512,baai,False,"Which French aristocrat and military officer who fought in the American Revolutionary War visited this historic home located at Enfield, Halifax County, North Carolina, known as The Cellar?",Marquis de Lafayette,No information available.,0,3588.11
+hotpot,456,512,baai,False,Live Wire Radio will possibly be considered as a replacement for a variety show created in what year?,1974,1974,1,3688.05
+hotpot,456,512,baai,False,In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?,1755,1755,1,2792.76
+hotpot,456,512,baai,False,Are both The Straight Story and Frozen films of the same genre?,no,"No, different genres.",1,3592.93
+hotpot,456,512,baai,False,"The town of Sinclair, West Virginia, is named after the founder of the local oil drilling company. What is on Sinclair Oil's famous logo?",dinosaur,Large green dinosaur.,1,3597.65
+hotpot,456,512,baai,False,"In what city did the ""Prince of tenors"" star in a film based on an opera by Giacomo Puccini?",Rome,New York City.,0,3690.42
+hotpot,456,512,baai,False,Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?,The Changing Scottish Landscape,Isabella Kelly.,0,4631.94
+hotpot,456,512,baai,False,The Distribution of Industry act was passed by a man who was prime minister when? ,1945 to 1951,Reindeer Act.,0,2581.47
+hotpot,456,512,baai,False,What was the slogan  that came about from the idea of Lebensraum which had its most extreme form supported by the Nazi Party until the end of World War II?,Blood and soil,"""Drang nach Osten""",0,3646.96
+hotpot,456,512,baai,False,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Kurt Gerstein.,1,3617.66
+hotpot,456,512,baai,False,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,3699.86
+hotpot,456,512,baai,False,"From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",the Parthian Empire,Sasanian Empire.,0,3858.26
+hotpot,456,512,baai,False,"The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",evangelical Christian,Christian.,0,3657.77
+hotpot,456,512,baai,False,Any Questions for Ben? was directed by which Australian producer and actor?,"Robert Ian ""Rob"" Sitch",Dan Lake,0,3523.28
+hotpot,456,512,baai,False,"What type of license is the open source roguelike video game video released 2012, in which a subset of it's pricing model is a called free-to-play, licensed under?",GNU GPLv3,Open Source Initiative.,0,3636.76
+hotpot,456,512,baai,False,In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?,"Nairobi, Kenya","Nairobi, Kenya.",1,3556.19
+hotpot,456,512,baai,False,The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?,the green fairy,Marskin ryyppy.,0,3683.62
+hotpot,456,512,baai,False,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,Army & Navy Stores.,1,2645.0
+hotpot,456,512,baai,False,Josh Trank and Mike Valerio both work in what industry?,entertainment,Film industry.,0,3548.03
+hotpot,456,512,baai,False,The first female correspondent for Inside the NFL was replaced by who on the show American Ninja Warrior?,Kristine Leahy,Alison Haislip.,0,3637.67
+hotpot,456,512,baai,False,What is the ratio of flow velocity past a boundary to the local speed of sound for a Saab JAS 39 Gripen?,2,Not provided.,1,3634.61
+hotpot,456,512,baai,False,"Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",Nusretiye Mosque,Nusretiye Mosque.,1,3655.83
+hotpot,456,512,baai,False,What country is the theme park served by the Huis Ten Bosch train service themed on?,Netherlands,The Netherlands.,1,3663.45
+hotpot,456,512,baai,False,What was the capital of India when the Taj Mahal was commissioned?,Agra,Agra.,1,4763.78
+hotpot,456,512,baai,False," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,The Many Adventures.,0,3600.69
+hotpot,456,512,baai,False,which Mexican and American film actress is Ethel Houbiers  French voice of ,Salma Hayek Pinault,Salma Hayek.,1,3687.9
+hotpot,456,1024,baai,True,What Disney movie was the wrestler with the real name of John William Minton in?,Double Agent,No Disney movie.,0,2374.73
+hotpot,456,1024,baai,True,What sports team included both of the brothers Case McCoy and Colt McCoy during different years?,University of Texas Longhorns,University of Texas.,1,7201.73
+hotpot,456,1024,baai,True,Black Book starred the actress and writer of what heritage?,Dutch,Dutch heritage.,1,5222.16
+hotpot,456,1024,baai,True,Jihad: A Story of the Others is a documentary by the director who is of what descent?,Punjabi/Pashtun,Israeli.,0,7333.33
+hotpot,456,1024,baai,True,Which actor does American Beauty and American Beauty have in common?,Kevin Spacey,None.,1,7177.4
+hotpot,456,1024,baai,True,Which award David Hersey had got for Equus a play by Peter Shaffer ?,Outstanding Lighting Design,No award mentioned.,0,7394.92
+hotpot,456,1024,baai,True,Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?,Barnoldswick,Barnoldswick.,1,7462.48
+hotpot,456,1024,baai,True,What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?,Revengers Tragedy,Revengers Tragedy.,1,6511.12
+hotpot,456,1024,baai,True,Which was built first Woolworth Building or 1 New York Plaza?,Woolworth Building,Woolworth Building.,1,5119.91
+hotpot,456,1024,baai,True,Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?,Henry Lau,Henry Lau.,1,7364.48
+hotpot,456,1024,baai,True,Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?,Naomi Elaine Campbell,Naomi Campbell.,1,8416.74
+hotpot,456,1024,baai,True,"Which plant, the Chaerophyllum or the Cryptanthus, can be found in various places across the world?",Chaerophyllum,Chaerophyllum.,1,6143.07
+hotpot,456,1024,baai,True,Ken Pruitt  was a Republican member of an upper house of the legislature with how many members ?,40 members,40 members.,1,5077.73
+hotpot,456,1024,baai,True,Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?,Fiat Chrysler Automobiles N.V.,Fiat Chrysler.,1,7279.98
+hotpot,456,1024,baai,True,"What mine was operated by Royal Oak Mines at at earlier date, Kemess Mine or Colomac Mine?",The Colomac Mine,Colomac Mine.,0,5216.18
+hotpot,456,1024,baai,True,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia",Beurre Maître d'Hôtel.,0,6050.56
+hotpot,456,1024,baai,True,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",English,British,1,6258.81
+hotpot,456,1024,baai,True,"Which dog is believed to dispel ghosts and evil spirits, Segugio Italiano or Sapsali?",Sapsali,Neither of them.,0,5386.65
+hotpot,456,1024,baai,True,What class of instrument does Apatim Majumdar play?,strings,Sarod.,1,7323.27
+hotpot,456,1024,baai,True,"What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?","Carolyn Janice Cherry (born September 1, 1942), better known by the pen name C. J. Cherryh,",C. J. Cherryh.,0,6387.32
+hotpot,456,1024,baai,True,Who is a Brazilian mixed martial artist in the UFC who Namsaknoi Yudthagarngamtorn coached?,Rafael Souza dos Anjos,Rafael Dos Anjos.,1,7473.98
+hotpot,456,1024,baai,True,The Airport located next to the A13 handled how many passengers in 2016 ?,1.6 million passengers,No information available.,0,6191.17
+hotpot,456,1024,baai,True,what language did the ethnic group which Torstein Ellingsen was its drumer  speaks ,Norwegian language,Norwegian.,0,7434.25
+hotpot,456,1024,baai,True,Jalen Jones plays basketball for an NBA team that plays their home games in what arena?,Smoothie King Center,Moda Center.,0,4603.1
+hotpot,456,1024,baai,True,"Which French aristocrat and military officer who fought in the American Revolutionary War visited this historic home located at Enfield, Halifax County, North Carolina, known as The Cellar?",Marquis de Lafayette,No information available.,0,7618.34
+hotpot,456,1024,baai,True,Live Wire Radio will possibly be considered as a replacement for a variety show created in what year?,1974,1974,1,7105.51
+hotpot,456,1024,baai,True,In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?,1755,1755,1,8447.32
+hotpot,456,1024,baai,True,Are both The Straight Story and Frozen films of the same genre?,no,"No, they are not.",1,5636.09
+hotpot,456,1024,baai,True,"The town of Sinclair, West Virginia, is named after the founder of the local oil drilling company. What is on Sinclair Oil's famous logo?",dinosaur,Large green dinosaur.,1,5787.67
+hotpot,456,1024,baai,True,"In what city did the ""Prince of tenors"" star in a film based on an opera by Giacomo Puccini?",Rome,New York City,0,8311.11
+hotpot,456,1024,baai,True,Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?,The Changing Scottish Landscape,Abergairn Castle.,0,8056.66
+hotpot,456,1024,baai,True,The Distribution of Industry act was passed by a man who was prime minister when? ,1945 to 1951,1937,0,5156.38
+hotpot,456,1024,baai,True,What was the slogan  that came about from the idea of Lebensraum which had its most extreme form supported by the Nazi Party until the end of World War II?,Blood and soil,"""Drang nach Osten""",0,5360.2
+hotpot,456,1024,baai,True,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Kurt Gerstein.,1,6198.19
+hotpot,456,1024,baai,True,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,5500.56
+hotpot,456,1024,baai,True,"From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",the Parthian Empire,Sasanian Empire.,0,6855.93
+hotpot,456,1024,baai,True,"The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",evangelical Christian,Methodist,0,6058.54
+hotpot,456,1024,baai,True,Any Questions for Ben? was directed by which Australian producer and actor?,"Robert Ian ""Rob"" Sitch",Trish Lake,0,5816.41
+hotpot,456,1024,baai,True,"What type of license is the open source roguelike video game video released 2012, in which a subset of it's pricing model is a called free-to-play, licensed under?",GNU GPLv3,BitTorrent Open Source License.,0,4826.94
+hotpot,456,1024,baai,True,In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?,"Nairobi, Kenya",Dar es Salaam.,1,5797.45
+hotpot,456,1024,baai,True,The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?,the green fairy,Marskin ryyppy.,0,7230.74
+hotpot,456,1024,baai,True,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,Army & Navy Stores.,1,5855.84
+hotpot,456,1024,baai,True,Josh Trank and Mike Valerio both work in what industry?,entertainment,Film industry.,0,5714.08
+hotpot,456,1024,baai,True,The first female correspondent for Inside the NFL was replaced by who on the show American Ninja Warrior?,Kristine Leahy,Alison Haislip.,0,4906.74
+hotpot,456,1024,baai,True,What is the ratio of flow velocity past a boundary to the local speed of sound for a Saab JAS 39 Gripen?,2,Mach 2.,1,8150.31
+hotpot,456,1024,baai,True,"Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",Nusretiye Mosque,Nusretiye Mosque.,1,8162.41
+hotpot,456,1024,baai,True,What country is the theme park served by the Huis Ten Bosch train service themed on?,Netherlands,Netherlands.,1,7431.28
+hotpot,456,1024,baai,True,What was the capital of India when the Taj Mahal was commissioned?,Agra,Agra.,1,6406.42
+hotpot,456,1024,baai,True," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,Winnie the Pooh and the Honey Tree.,0,7390.38
+hotpot,456,1024,baai,True,which Mexican and American film actress is Ethel Houbiers  French voice of ,Salma Hayek Pinault,Salma Hayek.,1,6499.45
+hotpot,456,1024,baai,False,What Disney movie was the wrestler with the real name of John William Minton in?,Double Agent,No Holds Barred,0,829.9
+hotpot,456,1024,baai,False,What sports team included both of the brothers Case McCoy and Colt McCoy during different years?,University of Texas Longhorns,University of Texas.,1,4700.62
+hotpot,456,1024,baai,False,Black Book starred the actress and writer of what heritage?,Dutch,Dutch heritage.,1,5868.3
+hotpot,456,1024,baai,False,Jihad: A Story of the Others is a documentary by the director who is of what descent?,Punjabi/Pashtun,Indonesian.,0,5724.34
+hotpot,456,1024,baai,False,Which actor does American Beauty and American Beauty have in common?,Kevin Spacey,None.,1,5793.01
+hotpot,456,1024,baai,False,Which award David Hersey had got for Equus a play by Peter Shaffer ?,Outstanding Lighting Design,No award mentioned.,1,5754.65
+hotpot,456,1024,baai,False,Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?,Barnoldswick,Barnoldswick.,1,7786.01
+hotpot,456,1024,baai,False,What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?,Revengers Tragedy,Revengers Tragedy.,1,5720.95
+hotpot,456,1024,baai,False,Which was built first Woolworth Building or 1 New York Plaza?,Woolworth Building,Woolworth Building.,1,6880.85
+hotpot,456,1024,baai,False,Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?,Henry Lau,Henry Lau.,1,5702.34
+hotpot,456,1024,baai,False,Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?,Naomi Elaine Campbell,Naomi Campbell,1,8778.06
+hotpot,456,1024,baai,False,"Which plant, the Chaerophyllum or the Cryptanthus, can be found in various places across the world?",Chaerophyllum,Chaerophyllum.,1,5653.07
+hotpot,456,1024,baai,False,Ken Pruitt  was a Republican member of an upper house of the legislature with how many members ?,40 members,40 members.,1,5654.93
+hotpot,456,1024,baai,False,Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?,Fiat Chrysler Automobiles N.V.,Fiat Chrysler.,1,7790.0
+hotpot,456,1024,baai,False,"What mine was operated by Royal Oak Mines at at earlier date, Kemess Mine or Colomac Mine?",The Colomac Mine,Colomac Mine.,0,4638.42
+hotpot,456,1024,baai,False,What are some foods that may have been served at the Hawaiin Cottage?,"poi, Kalua pig, poke, lomi salmon, opihi, haupia","Beurre Maître d'Hôtel 
+Pub cheese",0,5701.79
+hotpot,456,1024,baai,False,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",English,British,1,5801.55
+hotpot,456,1024,baai,False,"Which dog is believed to dispel ghosts and evil spirits, Segugio Italiano or Sapsali?",Sapsali,Neither of them.,0,6865.09
+hotpot,456,1024,baai,False,What class of instrument does Apatim Majumdar play?,strings,Stringed instrument.,1,6707.52
+hotpot,456,1024,baai,False,"What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?","Carolyn Janice Cherry (born September 1, 1942), better known by the pen name C. J. Cherryh,",C. J. Cherryh.,0,7763.8
+hotpot,456,1024,baai,False,Who is a Brazilian mixed martial artist in the UFC who Namsaknoi Yudthagarngamtorn coached?,Rafael Souza dos Anjos,Rafael Dos Anjos.,1,5779.89
+hotpot,456,1024,baai,False,The Airport located next to the A13 handled how many passengers in 2016 ?,1.6 million passengers,No information.,0,7774.62
+hotpot,456,1024,baai,False,what language did the ethnic group which Torstein Ellingsen was its drumer  speaks ,Norwegian language,Norwegian.,0,6942.93
+hotpot,456,1024,baai,False,Jalen Jones plays basketball for an NBA team that plays their home games in what arena?,Smoothie King Center,Moda Center.,0,4783.04
+hotpot,456,1024,baai,False,"Which French aristocrat and military officer who fought in the American Revolutionary War visited this historic home located at Enfield, Halifax County, North Carolina, known as The Cellar?",Marquis de Lafayette,No information available.,0,6823.93
+hotpot,456,1024,baai,False,Live Wire Radio will possibly be considered as a replacement for a variety show created in what year?,1974,1974,1,5835.4
+hotpot,456,1024,baai,False,In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?,1755,1755,1,7298.39
+hotpot,456,1024,baai,False,Are both The Straight Story and Frozen films of the same genre?,no,"No, they are not.",1,5016.53
+hotpot,456,1024,baai,False,"The town of Sinclair, West Virginia, is named after the founder of the local oil drilling company. What is on Sinclair Oil's famous logo?",dinosaur,Large green dinosaur.,1,5956.65
+hotpot,456,1024,baai,False,"In what city did the ""Prince of tenors"" star in a film based on an opera by Giacomo Puccini?",Rome,New York City.,0,7071.76
+hotpot,456,1024,baai,False,Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?,The Changing Scottish Landscape,Clun Castle.,0,5943.48
+hotpot,456,1024,baai,False,The Distribution of Industry act was passed by a man who was prime minister when? ,1945 to 1951,1937,0,4802.52
+hotpot,456,1024,baai,False,What was the slogan  that came about from the idea of Lebensraum which had its most extreme form supported by the Nazi Party until the end of World War II?,Blood and soil,"""Drang nach Osten""",0,5923.53
+hotpot,456,1024,baai,False,Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?,Rudolf Höss,Rudolf Höss.,1,6913.76
+hotpot,456,1024,baai,False,Baraki Barak District is situated in the western part of a province whose capital is what?,Puli Alam,Logar Province.,0,7229.14
+hotpot,456,1024,baai,False,"From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",the Parthian Empire,Sasanian Empire.,0,6067.37
+hotpot,456,1024,baai,False,"The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",evangelical Christian,Wesleyan.,0,4992.1
+hotpot,456,1024,baai,False,Any Questions for Ben? was directed by which Australian producer and actor?,"Robert Ian ""Rob"" Sitch",Dan Lake,0,7324.33
+hotpot,456,1024,baai,False,"What type of license is the open source roguelike video game video released 2012, in which a subset of it's pricing model is a called free-to-play, licensed under?",GNU GPLv3,Open Source License.,0,5244.49
+hotpot,456,1024,baai,False,In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?,"Nairobi, Kenya","Nairobi, Kenya.",1,7405.59
+hotpot,456,1024,baai,False,The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?,the green fairy,Marskin ryyppy.,0,7449.79
+hotpot,456,1024,baai,False,"In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",Army & Navy Stores,Army & Navy Stores.,1,5374.69
+hotpot,456,1024,baai,False,Josh Trank and Mike Valerio both work in what industry?,entertainment,Film industry.,0,5189.12
+hotpot,456,1024,baai,False,The first female correspondent for Inside the NFL was replaced by who on the show American Ninja Warrior?,Kristine Leahy,Alison Haislip.,0,5277.53
+hotpot,456,1024,baai,False,What is the ratio of flow velocity past a boundary to the local speed of sound for a Saab JAS 39 Gripen?,2,Mach 2.,1,7541.07
+hotpot,456,1024,baai,False,"Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",Nusretiye Mosque,Nusretiye Mosque.,1,8596.22
+hotpot,456,1024,baai,False,What country is the theme park served by the Huis Ten Bosch train service themed on?,Netherlands,The Netherlands.,1,7426.45
+hotpot,456,1024,baai,False,What was the capital of India when the Taj Mahal was commissioned?,Agra,Agra.,1,6459.02
+hotpot,456,1024,baai,False," Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",Ride a Wild Pony,The Many Adventures.,0,5365.25
+hotpot,456,1024,baai,False,which Mexican and American film actress is Ethel Houbiers  French voice of ,Salma Hayek Pinault,Salma Hayek.,1,8519.47
