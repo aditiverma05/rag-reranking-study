@@ -3,3 +3,7 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+cache/
+results/squad_smoketest.csv
+results/hotpot_smoketest.csv
+.DS_Store
